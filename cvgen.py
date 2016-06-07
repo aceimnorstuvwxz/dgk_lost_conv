@@ -122,9 +122,23 @@ def cvgen(fn, fno):
             cnt = cnt + 1
             currt = endt
                 
+        #拆分 --aaaaaaaa  --bbbbbb 这种同行但是多句的
+        nret = []
+        for r in ret:
+            if u'-' in r:
+                cs = (r[1:-1]).split(u'-')
+                for c in cs:
+                    a = c.strip()
+                    if len(a) >= 2:
+                        nret.append("M "+a+"\n")
+            
+            else:
+                nret.append(r)
+            
+            
         
         with open(fno, 'w') as fpo:
-            for r in ret:
+            for r in nret:
                 fpo.write(r.encode('utf-8'))
                 
 
