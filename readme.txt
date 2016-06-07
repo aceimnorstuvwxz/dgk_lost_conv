@@ -1,5 +1,5 @@
 ========dgk_lost_conv========
-从字幕文件构建的中文对话脚本conversation corpus
+chinese conversation corpus
 可以用作聊天机器人的训练语料
 
 结果：
