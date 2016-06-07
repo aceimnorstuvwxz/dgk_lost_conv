@@ -1,0 +1,3071 @@
+1
+00:00:53,120 --> 00:00:55,080
+別 求你了
+
+2
+00:00:57,640 --> 00:00:59,680
+別 求你了
+
+3
+00:01:00,400 --> 00:01:02,620
+別 求你了
+
+4
+00:01:08,480 --> 00:01:09,590
+等下 別!
+
+5
+00:01:10,270 --> 00:01:11,160
+等等 不要!
+
+6
+00:01:47,580 --> 00:01:50,060
+- 嘿 Hotch在哪?  - 在開預算會議 
+- Hey,where's hotch? - Budget meeting.
+
+7
+00:01:50,070 --> 00:01:51,420
+也許他會給我們爭取到預算增加
+Maybe he'll get us a raise.
+
+8
+00:01:51,430 --> 00:01:54,450
+上頭巴不得減預算呢 怎麼會加錢 只希望別省了咖啡錢
+They're cutting, not raising. I just hope they don't take the coffee.
+
+9
+00:01:54,460 --> 00:01:58,840
+- 那我不幹了 - 行啊 你不幹 每周省50塊給我
+- I'd quit. - Oh,yeah. That'll save 'em like 50 bucks a week.
+
+10
+00:01:59,360 --> 00:02:02,250
+- 他會在飛機上跟我們碰頭  - 我們去哪? 
+- He'll meet us on the plane. - Where are we going?
+
+11
+00:02:02,260 --> 00:02:05,560
+昨晚 警長辦公室門口  發現3個被斬首的人頭
+Last night, 3 decapitated heads were found in front of a sheriff's station
+
+12
+00:02:05,570 --> 00:02:08,300
+在德克薩斯州的一個邊陲小鎮Terlingua
+in the small border town of terlingua,texas.
+
+13
+00:02:08,310 --> 00:02:09,860
+一次發現三個受害人?
+3 victims at once?
+
+14
+00:02:09,870 --> 00:02:14,480
+其實 三人的屍首腐爛程度不同
+Actually,they appear to be in different stages of decomposition.
+
+15
+00:02:14,490 --> 00:02:16,900
+驗屍證實 其中一個人頭剛被砍下一天左右
+M.e.confirmed that one of the heads is a day or so old.
+
+16
+00:02:16,910 --> 00:02:19,390
+其他兩人似乎死於幾個月前 
+The other 2 appear to have died a few months ago,
+
+17
+00:02:19,400 --> 00:02:23,280
+但傷口砍痕顯示他們是最近被斬首 
+But the wound edges suggest that they were decapitated recently.
+
+18
+00:02:23,290 --> 00:02:25,240
+口 耳 鼻均有泥土
+Dirt in their mouth, ears,and nose.
+
+19
+00:02:25,250 --> 00:02:28,890
+- 表明這兩個頭被埋過 - 然後又被挖出來
+- At some point, these two heads were buried. - And then dug up.
+
+20
+00:02:28,900 --> 00:02:31,200
+好的 那為何又突然挖出他們? 
+Ok,so why the sudden need to display them?
+
+21
+00:02:31,210 --> 00:02:34,060
+可能並不是突然需要挖出
+The need may not be so sudden.
+
+22
+00:02:34,460 --> 00:02:39,330
+墨西哥 僅2009年一年 就發現10個被斬首的人頭
+Mexico,in 2009 alone, 10 heads in coolers,
+
+23
+00:02:39,360 --> 00:02:43,380
+而這些人頭所屬的受害者 都是發現前幾小時才被殺
+And the people belonging to these heads we're killed just hours before they were found.
+
+24
+00:02:43,390 --> 00:02:45,720
+販毒集團幫派爭鬥的結果 
+Result of a battle between feuding drug cartels.
+
+25
+00:02:45,730 --> 00:02:47,070
+DEA(違禁藥品緝查局)不感興趣嗎?
+Dea's not interested?
+
+26
+00:02:47,090 --> 00:02:48,380
+他們說讓我們先看看
+They asked us to take a look at it.
+
+27
+00:02:48,390 --> 00:02:51,970
+考慮到屍首腐爛程度不同 說可能無關毒品
+Considering the different decomposition, this might not even be about drugs.
+
+28
+00:02:51,980 --> 00:02:53,780
+我們有什麼線索? 
+Then what do we have?
+
+29
+00:02:53,790 --> 00:02:56,630
+受害者是兩名男性 一名女性  所以沒有性別偏好
+Well,the victims are two males,one female, so no gender preference.
+
+30
+00:02:56,660 --> 00:02:59,670
+在警長辦公室門口拋下斬首的頭顱 這是侵略性的表示
+Staging the heads in front of a sheriff's station-- that's aggressive.
+
+31
+00:02:59,680 --> 00:03:02,400
+- 3名受害者均為拉美裔  - 身份不明
+- All 3 victims are hispanic. - And unidentified.
+
+32
+00:03:02,410 --> 00:03:05,330
+Terlingua的非法"盲流"很多
+Terlingua has a large illegal population.
+
+33
+00:03:05,350 --> 00:03:07,680
+取證這些受害者的身份非常困難 
+It's made i.d.ing the victims that much harder.
+
+34
+00:03:08,340 --> 00:03:10,790
+兇手可能試圖發出某種類型的政治聲明 
+He might be trying to make some type of political statement.
+
+35
+00:03:10,800 --> 00:03:13,690
+那裏的邊境巡邏志願者 分擔了警察很多工作
+Volunteer border patrols do a lot of personal policing down there.
+
+36
+00:03:13,700 --> 00:03:17,480
+民兵等團體認為維持治安高於一切 
+Groups like the minutemen prize law and order above everything else.
+
+37
+00:03:17,500 --> 00:03:20,480
+這些巡邏是他們的政治議程 
+And those patrols serve their political agenda.
+
+38
+00:03:20,490 --> 00:03:22,750
+謀殺會破壞他們的形象 
+Murder would be bad for their image.
+
+39
+00:03:22,790 --> 00:03:26,690
+拋屍首在警站門口 表明不明嫌犯很可能是當地人 
+Staging the heads in front of a police station suggests that the unsub might be local.
+
+40
+00:03:26,700 --> 00:03:30,470
+他必須掌握詳細的情況 才能不被人看見 
+He'd have to have a knowledge about how to do something like that without being seen.
+
+41
+00:03:31,090 --> 00:03:35,650
+我們要面對的是 數百英里未列入轄區的沙漠
+So what we have is hundreds of miles of unincorporated desert
+
+42
+00:03:36,020 --> 00:03:40,200
+以及龐大的每天偷越境的偷渡群
+And an endless supply of anonymous victims crossing the border every day.
+
+43
+00:03:40,210 --> 00:03:42,790
+這是連環殺手的完美殺戮風暴 
+It's a serial killer's perfect storm.
+
+44
+00:04:13,910 --> 00:04:18,900
+<font color=#FF7F00>犯罪心理 第五季 第19集</font>
+<font color=#70DBDB>Criminal Minds Season05 Episode19 Rite of Passage</font>
+
+45
+00:04:21,660 --> 00:04:24,460
+"只有飢餓的時候 獅子才會出動捕獵"
+"a lion's work hours are only when he's hungry.
+
+46
+00:04:24,470 --> 00:04:28,820
+"一旦飽腹 捕食者與獵物也就和平共處"
+"once he's satisfied, the predator and prey live peacefully together."
+
+47
+00:04:28,830 --> 00:04:29,910
+Chuck Jones (美國動畫大師 編劇 製片人)
+Chuck jones.
+
+48
+00:04:29,920 --> 00:04:31,800
+給我解釋一下這個 
+Explain this to me.
+
+49
+00:04:31,810 --> 00:04:34,280
+不明嫌犯在美墨邊境地區找尋目標
+The unsub hunts along the u.s.-mexico border.
+
+50
+00:04:34,650 --> 00:04:35,800
+這地有多大?
+How big is that area?
+
+51
+00:04:35,830 --> 00:04:38,180
+5000多平方英里的沙漠 
+Over 5,000 square miles of desert.
+
+52
+00:04:38,190 --> 00:04:40,610
+他很可能行兇多年一直未被發現 
+He could have gone undetected for years.
+
+53
+00:04:40,620 --> 00:04:44,180
+- 為什麼現在要暴露自己?  - 最近一定發生了什麼事
+- So why announce himself? - Something happened recently.
+
+54
+00:04:44,190 --> 00:04:46,590
+關於Terlingua的犯罪情況 我們知道些什麼? 
+What do we know about crime in terlingua?
+
+55
+00:04:46,610 --> 00:04:48,220
+這是一個暫居城鎮 
+It's a stop-over town.
+
+56
+00:04:48,230 --> 00:04:50,820
+移民入境會在此停留24小時 然後再進入美國 
+Immigrants stay only 24 hours before moving on,
+
+57
+00:04:50,830 --> 00:04:53,660
+但這也使該鎮成為販毒中心
+but that also makes them narco-trafficking hubs.
+
+58
+00:04:53,670 --> 00:04:57,640
+除了違反移民法之外 大部分是跟毒品有關的逮捕案 
+Outside of immigration violations, most of the arrests are drug related.
+
+59
+00:04:57,660 --> 00:04:59,840
+美人兒 你可是輕描淡寫了
+That,my pretties, in an understatement.
+
+60
+00:04:59,870 --> 00:05:02,780
+有人熟悉下加州的Lugo販毒集團嗎? (下加州: 墨西哥最北最西的州)
+Anyone familiar with the lugo cartel out of baja california?
+
+61
+00:05:02,810 --> 00:05:04,930
+他們跟兩大罪惡脫不了干係 (hit也有毒品計量的意思)
+Their greatest hits-- the pun being inescapable--
+
+62
+00:05:04,960 --> 00:05:09,610
+1990-2009間 犯下多起殘忍謀殺 以及進口分銷
+Include multiple brutal murders along with importing and distributing nearly 2 tons of cocaine
+
+63
+00:05:09,620 --> 00:05:13,570
+近2噸的可卡因 和大量海洛因
+And copious amounts of heroin between 1990 and 2009.
+
+64
+00:05:13,600 --> 00:05:19,110
+弱我們登上BAU的"時間機器"來到當下 便會發現一種超級便宜 更容易上癮 
+Now,if we get in our bau time machine, flash forward to now, a super cheap, highly addictive,
+
+65
+00:05:19,120 --> 00:05:23,500
+從黑焦油海洛因提煉出的不純毒品 剛在Terlingua的大街小巷上市
+And totally impure form of black tar heroin just showed up on the streets of terlingua,
+
+66
+00:05:23,520 --> 00:05:26,780
+而DEA認為 Lugo販毒集團應為此事負責
+And the dea thinks the lugo cartel is directly responsible.
+
+67
+00:05:26,790 --> 00:05:28,810
+他們正在拓展他們的生意 
+So they're expanding their operation.
+
+68
+00:05:28,870 --> 00:05:31,230
+而這往往會掀起腥風血浪 
+Which is often announced by a wave of violence.
+
+69
+00:05:31,260 --> 00:05:33,820
+Lugo集團去年殺了兩個DEA的探員 
+The lugo cartel killed 2 dea agents last year.
+
+70
+00:05:33,830 --> 00:05:35,730
+我們必須加倍小心
+We're going to need to watch our backs.
+
+71
+00:05:35,740 --> 00:05:38,870
+對於販毒集團 FBI是他們的死對頭 甚至還會設立獎賞 所以...
+To cartels, feds are fair game. There's even usually a bounty,so...
+
+72
+00:05:39,180 --> 00:05:40,970
+我們得隨身帶著這些大"玩具"
+We're going to bring in the toys.
+
+73
+00:05:40,990 --> 00:05:43,580
+小心 我可不想在預算上增加 維修MP5槍的費用
+Be careful with those. I don't need broken mp-5s on our budget.
+
+74
+00:05:43,590 --> 00:05:44,450
+各位 問個問題
+Guys,here's the thing.
+
+75
+00:05:44,470 --> 00:05:47,420
+我好像沒被授權 攜帶此類武器
+I don't think i technically have authorization to carry a weapon like that.
+
+76
+00:05:47,430 --> 00:05:49,480
+- 你沒有 - 你沒有
+- You don't. - You don't.
+
+77
+00:05:49,820 --> 00:05:53,870
+我們這次面對的受害者群體 都不會情願和我們交談
+You know,we're going to have a victim pool that is extremely hesitant to talk to us.
+
+78
+00:05:54,720 --> 00:05:57,720
+Prentiss 你和Morgan從移民社區入手 看能造成多大反響
+Prentiss,you and morgan start with the migrant community, see what inroads you can make.
+
+79
+00:05:57,750 --> 00:06:00,000
+強調我們只是為了找出兇手
+Stress that we're only there to catch a killer.
+
+80
+00:06:00,010 --> 00:06:03,150
+Rossi和Reid 驗屍官等著帶你們去看頭顱
+Rossi and reid, the m.e.is waiting to show you the heads.
+
+81
+00:06:03,780 --> 00:06:06,620
+也許它們能給我們透點線索
+Maybe they can tell us something.
+
+82
+00:06:07,600 --> 00:06:12,190
+<i>德州 Terlingua</i>
+
+83
+00:06:19,400 --> 00:06:21,330
+怎麼回事?
+What's this about?
+
+84
+00:06:21,340 --> 00:06:24,130
+這是Lugo集團的一部分
+This is part of the lugo cartel.
+
+85
+00:06:34,470 --> 00:06:37,820
+借過
+Excuse us.
+
+86
+00:06:39,720 --> 00:06:42,140
+聯邦探員 請讓開
+Federal agents. Step aside.
+
+87
+00:06:42,150 --> 00:06:47,120
+我們是這個國家的合法公民 在行使 憲法第一修正案賦予的和平集會的權利
+We're legal citizens of this country demonstrating our first amendment rights to a peaceful assembly,
+
+88
+00:06:47,450 --> 00:06:50,880
+來抗議當局非法逮捕Omar Morales
+In order to protest the unlawful arrest of omar morales.
+
+89
+00:06:50,890 --> 00:06:53,860
+請繞道而行
+You walk around us.
+
+90
+00:06:54,930 --> 00:06:59,320
+警探們 Ruiz警長在裏面久候  忽略這幫人
+Agents,sheriff ruiz is waiting inside. Ignore them.
+
+91
+00:06:59,940 --> 00:07:01,960
+別幹傻事 警察同學
+Don't do nothin' stupid,deputies.
+
+92
+00:07:01,990 --> 00:07:04,580
+你啥時候想動手 Jose  你知道去哪裏找我們
+Anytime you want to make a move,jose, you know where to find us.
+
+93
+00:07:04,590 --> 00:07:07,390
+你們都知道
+All y'all do.
+
+94
+00:07:11,140 --> 00:07:12,570
+很抱歉 門口的"迎賓小組"
+Sorry about the welcoming committee.
+
+95
+00:07:12,590 --> 00:07:14,600
+還以為你們半小時後才到
+We didn't expect you for another half hour.
+
+96
+00:07:14,970 --> 00:07:17,310
+有多少 呃 警局裏共有幾個警察?
+How many,uh, how many officers in the whole department?
+
+97
+00:07:17,340 --> 00:07:19,410
+包括警長的話 5個
+Including the sheriff,5.
+
+98
+00:07:19,420 --> 00:07:21,030
+門口有8個大漢
+There are 8 men outside.
+
+99
+00:07:21,040 --> 00:07:23,230
+這就是他們的目的 對吧? 拿人數來唬你們
+And that's the point,right? To show that they outnumber you.
+
+100
+00:07:23,240 --> 00:07:25,740
+是啊 如果按人頭算 我們毫無勝券
+Well,if it came down to numbers, we wouldn't stand a chance.
+
+101
+00:07:25,750 --> 00:07:29,070
+那些個混混只是為Omar Morales 賣命的士兵的零頭
+Those scumbags are only a handful of the soldiers who work for omar morales.
+
+102
+00:07:29,090 --> 00:07:31,100
+他是當地毒品交易的樞紐點
+He's the head of a local narco traffic ring.
+
+103
+00:07:31,120 --> 00:07:33,440
+我們今早在鎮外把他逮捕的
+We picked him up this morning just outside of town.
+
+104
+00:07:33,450 --> 00:07:34,860
+他正往飛機場去
+He was headed for the airport.
+
+105
+00:07:34,880 --> 00:07:36,940
+他錄口供了嗎?
+Has he made a statement?
+
+106
+00:07:38,320 --> 00:07:41,020
+- 不好說 - 什麼意思?
+- Not exactly. - Meaning?
+
+107
+00:07:41,030 --> 00:07:43,670
+Ruiz警長不讓我們進去問話
+Sheriff ruiz won't let us talk to him.
+
+108
+00:07:43,680 --> 00:07:47,010
+- 為什麼? - 也許你該親自問問她
+- And why is that? - Well,maybe you can ask her why.
+
+109
+00:07:47,400 --> 00:07:49,710
+這邊請
+Right this way.
+
+110
+00:07:52,980 --> 00:07:55,180
+FBI到了
+Fbi's here.
+
+111
+00:07:56,220 --> 00:07:58,320
+Eva Ruiz 很高興你們能來
+Eva ruiz. I'm glad you could make it.
+
+112
+00:07:58,330 --> 00:08:00,280
+Hotchner探員 這位是Jareau探員
+Agent hotchner. This is agent jareau.
+
+113
+00:08:00,290 --> 00:08:02,350
+- 要喝點什麼嗎? 咖啡? - 不用了 謝謝
+- Can i get you anything? Coffee? - No,thank you.
+
+114
+00:08:02,360 --> 00:08:05,270
+長官 你打算怎麼對付外面的小軍隊?
+Ma'am,how do you plan on dealing with the small army outside?
+
+115
+00:08:05,290 --> 00:08:06,880
+我計劃忽略他們
+I plan on ignoring them.
+
+116
+00:08:06,890 --> 00:08:09,730
+- 我們可以... - 他們會站得又熱又累 然後自己走掉
+- Well,we can have some of-- - they'll get hot and tired and go away on their own.
+
+117
+00:08:09,740 --> 00:08:11,540
+我並不擔心他們
+They're the least of my worries.
+
+118
+00:08:11,570 --> 00:08:14,580
+- 聽說你抓了個人 - 我的手下抓的
+- We heard you made an arrest. - My deputies did.
+
+119
+00:08:14,900 --> 00:08:17,770
+- 你不贊成? - 因為他們做錯了
+- But you don't agree? - Because they're wrong.
+
+120
+00:08:18,060 --> 00:08:21,180
+把頭顱擺在你局門口的人  想給你傳條信息
+Whoever staged these heads in front of your office is trying to tell you something.
+
+121
+00:08:21,370 --> 00:08:24,280
+- 他們想讓我收手 - 收手什麼?
+- They want me to butt out. - Of what,exactly?
+
+122
+00:08:25,080 --> 00:08:29,000
+我數過 我做警長的半年來 有超過20個移民失蹤
+I count more than 20 missing immigrants just in the 6 months i've been sheriff.
+
+123
+00:08:29,620 --> 00:08:33,030
+- 每月不止3個 - 幾乎每周一個
+- That's more than 3 in a month. - Almost one victim a week.
+
+124
+00:08:33,040 --> 00:08:36,740
+這裏只有名字和粗略的介紹 有其他書面材料嗎?
+These are just names and cursory descriptions. Is there any other paperwork?
+
+125
+00:08:37,320 --> 00:08:38,770
+有進行調查嗎?
+Has there been any investigation?
+
+126
+00:08:38,790 --> 00:08:40,900
+沒人會來報案
+No one will make an official report,
+
+127
+00:08:40,920 --> 00:08:45,100
+但我相信 這邊有人長時間行兇
+But i believe somebody around here has been killing for a long time.
+
+128
+00:08:45,460 --> 00:08:49,610
+想笑嗎? 我離開北布魯克林 那邊的兇殺案開始減少
+Want a laugh? I left brooklyn north homicide to slow down.
+
+129
+00:08:49,850 --> 00:08:52,670
+我為自己的半退休選錯了地點
+I picked the wrong part of the country to semi-retire.
+
+130
+00:08:52,680 --> 00:08:54,860
+這地方亂了套
+This place is swimming in dysfunction.
+
+131
+00:08:54,880 --> 00:08:57,520
+壓根是倖存者遊戲 沒人可信
+It's a game of survival, and i can't trust anyone.
+
+132
+00:08:57,530 --> 00:08:58,860
+長官 你有4名警員
+Ma'am,you've got 4 deputies.
+
+133
+00:08:58,880 --> 00:09:02,160
+我清楚地告訴他們 不要惹Omar Morales
+Who i expressly told to leave omar morales alone.
+
+134
+00:09:02,170 --> 00:09:04,190
+看他們是怎麼執行我的命令的
+You can see how well they follow orders.
+
+135
+00:09:04,220 --> 00:09:06,320
+你確定不是Lugo集團所為?
+Then you're sure this isn't the lugo cartel?
+
+136
+00:09:06,330 --> 00:09:09,370
+用謀殺來傳口信  正是這些人交流的風格
+Murder to send a message is the way these guys communicate.
+
+137
+00:09:09,380 --> 00:09:11,600
+跟我來
+Come with me.
+
+138
+00:09:16,700 --> 00:09:20,760
+知道嗎 和普遍觀念相反 斬首並不輕鬆
+You know,contrary to popular belief, decapitation is not that easy.
+
+139
+00:09:21,470 --> 00:09:25,320
+普遍和斬首在同一句子裏 還真不常見
+You don't often hear popular and decapitation in the same sentence.
+
+140
+00:09:25,350 --> 00:09:27,280
+必須從脊柱最薄弱的地方下手
+You need to strike on the weakest point of the spine.
+
+141
+00:09:27,300 --> 00:09:30,120
+通常在C3和C7脊椎骨之間
+It's normally between the c3 and c7 vertebrae.
+
+142
+00:09:30,170 --> 00:09:33,410
+這裏有多處落刀點 但每刀都砍得利落
+There are multiple strikes, but they don't show any hesitation.
+
+143
+00:09:33,480 --> 00:09:36,360
+我知道你沒啥好解剖的  但除了表面現象外
+I realize you didn't have much to work with here, but outside of the obvious,
+
+144
+00:09:36,370 --> 00:09:39,230
+受害者們有什麼不尋常之處嗎?
+Was there anything unusual about these victims?
+
+145
+00:09:39,260 --> 00:09:42,820
+第二名受害者好像是盲人 如果不全瞎的話
+Well,the second victim appeared to have been blind, if not completely,
+
+146
+00:09:42,880 --> 00:09:46,440
+也有嚴重的白內障 行動都有困難
+Then he had cataracts bad enough that it was difficult for him to get around.
+
+147
+00:09:46,450 --> 00:09:48,970
+- 另外2人呢? - 沒這情況
+- What about the other two? - No.
+
+148
+00:09:48,980 --> 00:09:52,700
+最近一位受害者相對年長 第一位女性受害者也較年長
+The most recent victim is older. So is the first one, the woman.
+
+149
+00:09:52,710 --> 00:09:54,870
+我只有牙齒能做比對
+Well,i only had their teeth to go by,
+
+150
+00:09:54,910 --> 00:09:59,580
+需要點時間才能算出準確年齡 但 是的 我同意 他們相對年長
+So it would take some time to get an accurate age, but,yeah,i'd agree. They were older.
+
+151
+00:09:59,590 --> 00:10:03,430
+我們要找的是 所謂的個性簽名
+We're looking for something that we call a signature.
+
+152
+00:10:03,480 --> 00:10:09,110
+所有受害者共有的特性 身體上的記號 死後才顯現的
+Something that all the victims shared, some physical mark, something postmortem.
+
+153
+00:10:09,120 --> 00:10:11,470
+不知道這是不是你們要找的
+Well,i don't know if this is what you mean,
+
+154
+00:10:11,490 --> 00:10:14,880
+他們的鼻子和喉嚨裏都有沙子殘渣
+But they all had sand residue in their noses and throats.
+
+155
+00:10:14,890 --> 00:10:17,180
+- 會不會是掩埋的時候留下的? - 有可能
+- Could that be from being buried? - Possibly.
+
+156
+00:10:17,190 --> 00:10:20,970
+但是氣管和鼻腔 有撕裂痕跡
+But the trachea and the nasal passage, they were kind of torn up.
+
+157
+00:10:21,000 --> 00:10:24,820
+如果能看到他們的肺 我猜裏面也滿是沙子
+If i had the lungs here, i'd guess that they were full of sand as well.
+
+158
+00:10:24,880 --> 00:10:27,040
+像是在沙子裏呼吸?
+You mean like they breathed in sand?
+
+159
+00:10:27,050 --> 00:10:30,060
+呼吸猛烈到撕裂他們的腔管
+Forcefully enough that it lacerated the passages.
+
+160
+00:10:30,550 --> 00:10:33,060
+他們在奔跑
+They were running.
+
+161
+00:10:36,600 --> 00:10:39,250
+這位是FBI的Hotchner探員
+This is agent hotchner from the fbi.
+
+162
+00:10:40,530 --> 00:10:42,700
+體面的西裝
+Nice suit.
+
+163
+00:10:46,600 --> 00:10:49,860
+知道那傢伙帶來了多少痛苦嗎?
+You know how much misery that guy is responsible for?
+
+164
+00:10:49,870 --> 00:10:53,670
+我是聽說過販毒集團的殘忍勾當
+Yeah,i've heard some of the things this cartel's capable of.
+
+165
+00:10:54,550 --> 00:10:56,370
+你上司要跟他談?
+Your boss gonna talk to him?
+
+166
+00:10:56,390 --> 00:10:58,560
+他會試試看
+He's gonna try.
+
+167
+00:10:58,830 --> 00:11:01,390
+祝他好運
+Good luck.
+
+168
+00:11:02,040 --> 00:11:04,410
+這要傳達什麼信息?
+What kind of message is this?
+
+169
+00:11:06,670 --> 00:11:09,090
+可笑嗎?
+It's funny?
+
+170
+00:11:09,100 --> 00:11:10,630
+有點
+Kind of,yeah.
+
+171
+00:11:10,660 --> 00:11:14,370
+如果發現有競爭對手了 你們就下此毒手嗎?
+A competitor moves in on your business, is that what you would do?
+
+172
+00:11:18,440 --> 00:11:21,270
+- 假設? - 是的
+- Hypothetically? - Yeah.
+
+173
+00:11:23,980 --> 00:11:29,540
+我會把他開膛破肚 把內臟留給動物享用
+I'd gut him from crotch to chin, then leave his intestines open for the animals,
+
+174
+00:11:29,840 --> 00:11:34,130
+把他的左手寄給他老婆 眼睛寄給他媽
+After i sent his left hand to his wife, his eyes to his mother,
+
+175
+00:11:34,140 --> 00:11:39,970
+給他孩子寄舌頭 再留張紙條 說爸爸死的時候嚇得尿褲子了
+And his tongue to his kids, with a note saying that their papa had died wetting himself.
+
+176
+00:11:41,260 --> 00:11:43,980
+是個懦夫
+A coward.
+
+177
+00:11:45,360 --> 00:11:50,290
+就算假設來說 這個也不叫信息
+This,this ain't no message. Hypothetically.
+
+178
+00:11:50,650 --> 00:11:53,340
+這個辯解很有趣 說你下手會更狠
+That's an interesting defense, saying that you would do worse.
+
+179
+00:11:53,360 --> 00:11:55,090
+辯解? 是你問了我問題
+A defense? You asked me a question.
+
+180
+00:11:55,100 --> 00:11:57,260
+要是覺得我需要辯解 那就起訴我
+You think i need a defense, charge me with something.
+
+181
+00:11:57,300 --> 00:12:00,650
+昨晚留在警局門外的那些頭 你怎麼看?
+What do you know about the heads that were left outside the sheriff's station last night?
+
+182
+00:12:02,410 --> 00:12:05,850
+- 說真的? - 你是個喜歡掌控一切的男人
+- Seriously? - You're a man who likes to be in control.
+
+183
+00:12:05,860 --> 00:12:08,680
+你還有個小型的軍隊在外面站崗
+You have a small army standing guard outside.
+
+184
+00:12:08,700 --> 00:12:12,220
+他們保護你 因為你讓他們相信 他們需要你
+They protect you because you've convinced them somehow that they need you,
+
+185
+00:12:12,240 --> 00:12:14,780
+你卻不明白 你的鎮上出了什麼事?
+And you don't know what's going on in your town?
+
+186
+00:12:16,130 --> 00:12:19,550
+- 你沒告訴他? - 告訴我什麼?
+- You didn't tell him? - Tell me what?
+
+187
+00:12:21,030 --> 00:12:24,040
+你要找的是Santa Muerte
+You're looking for santa muerte.
+
+188
+00:12:25,200 --> 00:12:28,060
+死亡之神
+The saint of death.
+
+189
+00:12:30,580 --> 00:12:32,570
+警長 Omar說的是什麼意思?
+Sheriff,what exactly is omar talking about?
+
+190
+00:12:32,610 --> 00:12:34,890
+任何職業都有自己的保護神
+Every job has a patron saint.
+
+191
+00:12:34,920 --> 00:12:38,690
+警察的是聖猶大 醫生的是大天使拉斐爾
+Cops have saint jude, doctors have raphael the archangel.
+
+192
+00:12:38,720 --> 00:12:41,940
+但要是你是毒販子或者殺手  你會向誰祈禱?
+But if you're a drug dealer or a killer, who do you pray to?
+
+193
+00:12:41,970 --> 00:12:43,940
+死亡之神
+The saint of death.
+
+194
+00:12:44,190 --> 00:12:48,520
+我聽說 要是你 在穿越沙漠到這的路上走失 你就會死 
+I've learned that crossing the desert to get here, you lose track of the ways you can die.
+
+195
+00:12:48,550 --> 00:12:53,180
+如果你有親近的人沒有挺過去 怪罪迷信有時候反而會好過些
+So if someone close doesn't make it, sometimes it's easier to blame a superstitious figure.
+
+196
+00:12:53,190 --> 00:12:55,130
+Omar看起來不相信他說的那些
+Well,omar doesn't seem like he believes what he's saying.
+
+197
+00:12:55,140 --> 00:12:56,630
+我沒說他信
+I didn't say he believes it.
+
+198
+00:12:56,670 --> 00:12:59,990
+- 我說的是人們怪罪的那個 - 什麼人?
+- I said it's who people are blaming. - What people?
+
+199
+00:13:00,000 --> 00:13:02,540
+聽著 Santa Muerte出現的越來越頻繁
+Look,santa muerte has been coming up more and more.
+
+200
+00:13:02,730 --> 00:13:05,690
+我遣送回去的非法人員 逮捕的蛇頭
+The illegals i send back. The coyotes i arrest.
+
+201
+00:13:05,700 --> 00:13:08,700
+還有些毒品販子 他們很害怕
+Some of the drug traffickers, they're afraid.
+
+202
+00:13:08,740 --> 00:13:10,960
+害怕這個神?
+Afraid of a saint?
+
+203
+00:13:11,280 --> 00:13:15,220
+我曾經手過一件謀殺案 唯一的證人是一個4歲的女孩子
+I handled a homicide once where my only witness was this 4-year-old girl.
+
+204
+00:13:15,250 --> 00:13:17,990
+她告訴我 她父母是被一條龍殺死的
+And she told me her mom and dad got killed by a dragon.
+
+205
+00:13:18,240 --> 00:13:22,410
+結果是那個兇手穿件綠色的雨衣 戴了只尖頭的帽子
+Turns out the bad guy wore a green rain suit with a pointy hood.
+
+206
+00:13:22,430 --> 00:13:24,850
+在孩子看來 就像條龍
+To the kid it looked like a dragon.
+
+207
+00:13:24,880 --> 00:13:27,920
+所以 要是有很多人都在談論同一個怪物
+So when hundreds of people are talking about the same monster,
+
+208
+00:13:27,940 --> 00:13:29,790
+那麼一定是有事發生了
+It's a sure bet something's going on.
+
+209
+00:13:29,820 --> 00:13:31,660
+他們只是不知道要怎麼稱呼它
+They just don't know what to call it.
+
+210
+00:13:31,680 --> 00:13:33,830
+所以 他們叫他Santa Muerte
+So they call it santa muerte.
+
+211
+00:13:39,240 --> 00:13:41,040
+快點
+
+212
+00:13:43,440 --> 00:13:45,550
+我只能送到這了 
+
+213
+00:13:45,560 --> 00:13:46,490
+沿著這兒爬過去
+
+214
+00:13:46,500 --> 00:13:47,940
+我只能送到這了 
+
+215
+00:13:48,440 --> 00:13:49,990
+我要休息會
+
+216
+00:13:50,460 --> 00:13:52,230
+一會就跟上來
+
+217
+00:14:34,590 --> 00:14:36,870
+我早說我們不該放走那個混蛋的
+I told you we should have kept that bastard locked up.
+
+218
+00:14:36,900 --> 00:14:40,520
+我最後再說一次 Boyd 回去巡邏
+And i'm telling you for the last time,boyd, go back on patrol.
+
+219
+00:14:41,660 --> 00:14:44,120
+沒有腐爛 這個受害人剛剛遇害
+No decomposition. It's a new victim.
+
+220
+00:14:44,370 --> 00:14:46,960
+他的矛頭更集中在你身上了 警長
+He's becoming more focused on you,sheriff.
+
+221
+00:14:46,980 --> 00:14:48,900
+警長 能單獨跟你說句嗎?
+Sheriff,may i have a word with you?
+
+222
+00:14:48,910 --> 00:14:50,900
+很明顯 這是私人恩怨
+It's clear that this is personal.
+
+223
+00:14:50,930 --> 00:14:53,580
+- 一直就是的 - 怎麼說?
+- It always was. - How's that?
+
+224
+00:14:53,590 --> 00:14:57,640
+我不知道這幾年有多少這樣的人失蹤了
+Look,i have no idea how many of these people have gone missing over the years,
+
+225
+00:14:57,650 --> 00:15:00,970
+但有一件事很清楚 我是唯一一個在乎的人
+but one thing is clear.I'm the only one who seems to give a damn.
+
+226
+00:15:01,000 --> 00:15:02,520
+所以 這事的矛頭會向著我
+That's as personal as it gets for me.
+
+227
+00:15:02,560 --> 00:15:04,810
+我們就是因為在乎才會站在這裏
+We're here because we care.
+
+228
+00:15:05,180 --> 00:15:09,490
+我能收集到的 就只有大把的故事和迷信
+Well... All i've got is a bunch of stories and superstitions.
+
+229
+00:15:09,500 --> 00:15:11,260
+要是根本就沒有這麼回事呢?
+What if it isn't even happening?
+
+230
+00:15:11,280 --> 00:15:13,310
+警長 我不知道這已經持續了多久
+Sheriff,i can't tell you how long this has been going on,
+
+231
+00:15:13,340 --> 00:15:15,810
+但現在絕對有事發生了
+But something's definitely happening now.
+
+232
+00:15:15,820 --> 00:15:19,800
+而且從不明疑犯的行為來看 很明顯你觸動到他了
+And from the way the unsub is acting, it's obvious that you've touched a nerve.
+
+233
+00:15:20,210 --> 00:15:22,480
+不管他是誰 我相信你有可能和他談過
+Whoever he is,i think you've probably talked to him.
+
+234
+00:15:22,510 --> 00:15:24,190
+只要有人願意聽 我都會說
+I've talked to anyone who will listen.
+
+235
+00:15:24,210 --> 00:15:26,590
+毒販子 移民 生意人
+Drug dealers,immigrants, business owners--
+
+236
+00:15:26,610 --> 00:15:29,960
+Santa Muerte就是他們中的一個 他感覺到了壓力
+Well,one of them is your santa muerte, and he's feeling the pressure.
+
+237
+00:15:29,990 --> 00:15:33,690
+等我們回到警局  我想查看每一個你做過的詢問
+When we get back to the station, i want to go over every single interview you've done.
+
+238
+00:15:33,850 --> 00:15:36,150
+怎麼做? 我們要找的是誰?
+How? Who are we even looking for?
+
+239
+00:15:36,160 --> 00:15:39,000
+我們有側寫給你和你的警員們
+We have a profile to give you and your deputies.
+
+240
+00:15:39,010 --> 00:15:42,130
+我們要找的人格類型叫做人類捕手
+We're searching for a personality type called a human predator--
+
+241
+00:15:42,160 --> 00:15:44,320
+用傳統的話說就是 獵手
+In the classic sense, a hunter.
+
+242
+00:15:44,360 --> 00:15:49,350
+所有能明確指向他的受害人 都是相對年長 或有某種殘疾
+All the victims we've been able to conclusively tie to him have been older or handicapped in some way.
+
+243
+00:15:49,360 --> 00:15:54,080
+這就說明他會等有人脫離隊伍 尋找最弱勢的一個
+This suggests he waits for someone to separate from the pack, looks for the weakest.
+
+244
+00:15:54,100 --> 00:15:55,350
+像獅子之類的
+Like a lion or something.
+
+245
+00:15:55,380 --> 00:15:59,150
+只是獅子是狩獵食物 這類獵手 獵的是力量
+Except a lion hunts food. This type of predator hunts power.
+
+246
+00:15:59,160 --> 00:16:02,160
+這不是為了滿足需求 所有一切都是為了一個目的
+It's not about serving a need, and everything is a means to that end.
+
+247
+00:16:02,180 --> 00:16:05,540
+我們還認為他是為了削弱受害人的力量 才會迫使他們穿越沙漠
+We also believe that he makes his victims run through the desert in order to weaken them.
+
+248
+00:16:05,550 --> 00:16:10,120
+雖然受害者年長或有殘疾 他也可能 無法在他們最強的狀態下擊倒他們
+He may not be capable of taking them on in their strongest state, despite their age or infirmity.
+
+249
+00:16:10,130 --> 00:16:13,050
+這意味著他有可能在某方面有殘障
+This suggests that he's possibly handicapped in some way himself.
+
+250
+00:16:13,060 --> 00:16:15,840
+但問題不大 或許很小很輕微
+Certainly weak, maybe small or even thin.
+
+251
+00:16:15,860 --> 00:16:20,510
+這樣的製造混亂 然後進行攻擊的行為 會表現在不明嫌犯生活中的所有方面
+And an unsub who creates chaos and then attacks typically carries this through to all aspects of his life.
+
+252
+00:16:20,520 --> 00:16:22,310
+所以他不可能維持一段正常關係
+He's unlikely to be in a relationship.
+
+253
+00:16:22,320 --> 00:16:25,700
+或者在一段關係中 他會是暴力的一方 他很享受他的控制欲
+If he is, it's an abusive one. This guy gets off on control.
+
+254
+00:16:25,710 --> 00:16:27,920
+他會很關注調查進度
+He will have tried to stay very close to the investigation.
+
+255
+00:16:27,950 --> 00:16:31,040
+他很清楚 警長已經開始調查失蹤的非法移民
+He's well aware that the sheriff has started looking into the missing illegal immigrants.
+
+256
+00:16:31,050 --> 00:16:32,310
+你是怎麼看出來的?
+How do you know that?
+
+257
+00:16:32,330 --> 00:16:35,620
+這很有可能是他開始斬首的原因 作為對你的應對對策
+It's probably why the decapitations started, as a countermeasure.
+
+258
+00:16:35,630 --> 00:16:37,360
+他想叫停這個調查
+He's trying to throw off the investigation.
+
+259
+00:16:37,380 --> 00:16:39,970
+這是有組織罪犯的慣用手段
+It's typical in an organized offender like this.
+
+260
+00:16:39,980 --> 00:16:44,150
+Cary Stayner 優勝美地國家公園殺手 故意開車到50英里以外的十字路口
+Cary stayner, the yosemite killer, drove more than 50 miles to dump cigarette packs
+
+261
+00:16:44,180 --> 00:16:47,250
+扔掉他的煙盒和駕照來擺脫自己的嫌疑
+And driver's licenses at intersections to throw off suspicion.
+
+262
+00:16:47,270 --> 00:16:50,770
+從你們已經問過話的 和這些謀殺有關係的人開始著手
+Start by looking back at everyone you've talked to in connection with these killings.
+
+263
+00:16:50,800 --> 00:16:53,660
+和那些熟悉移民的偷渡路線的人開始
+We need to start with people who are familiar with the immigrant journey.
+
+264
+00:16:53,670 --> 00:16:56,910
+例如像誰? 擁護者? 沒人會跟我們說話的 我們已經試過了
+Like who? Advocates? None of them will talk to us. I've tried.
+
+265
+00:16:56,920 --> 00:16:58,680
+蛇頭們希望這個人能消失
+Well,the coyotes want this guy caught.
+
+266
+00:16:58,710 --> 00:16:59,880
+他在損害他們的生意
+He's hurting their business.
+
+267
+00:16:59,910 --> 00:17:02,150
+如果那些擁護者們真的關心那些移民
+And if the advocates really care about the immigrants,
+
+268
+00:17:02,170 --> 00:17:04,860
+他們也想把這個人給揪出來
+They're gonna want to find whoever is responsible as well.
+
+269
+00:17:05,160 --> 00:17:06,870
+有個人或許能幫上忙
+There's one guy who could help.
+
+270
+00:17:06,900 --> 00:17:09,320
+他運營著一個叫Libertad的擴大項目
+He runs an outreach program called libertad.
+
+271
+00:17:09,350 --> 00:17:11,010
+在哪裏能找到他?
+Where can we find him?
+
+272
+00:17:11,280 --> 00:17:14,880
+Clyde 你想帶他們去見Richard Corral嗎?
+Clyde,you want to take them over to meet richard corral?
+
+273
+00:17:17,310 --> 00:17:19,810
+真是我的幸運日啊
+My lucky day.
+
+274
+00:17:27,340 --> 00:17:29,940
+這些FBI探員想跟你談會
+These fbi agents want a word with you.
+
+275
+00:17:30,660 --> 00:17:32,820
+瘸腿 看到嗎?
+See the limp?
+
+276
+00:17:39,860 --> 00:17:42,260
+嗨 寶貝女 我需要你幫我查一個人
+Hey,baby girl, i need you to run a check on someone for me.
+
+277
+00:17:42,280 --> 00:17:44,080
+你有毛病啊 Clyde?
+What is wrong with you, clyde?
+
+278
+00:17:44,100 --> 00:17:47,480
+如果聯邦探員出現在我地盤 我的顧客還會再相信我嗎
+None of my clients will trust me if i've got federal agents walking around here.
+
+279
+00:17:47,490 --> 00:17:50,710
+或許你不應該把你的時間花在 幫非法移民偷渡進國家
+Well,maybe you shouldn't spend your time helping illegals sneak into the country.
+
+280
+00:17:51,090 --> 00:17:53,970
+- 他們只是想要一個更好的生活 - 那他們就應該通過合法途徑
+- They only want a better life. - Well,then,they ought to come in the front door.
+
+281
+00:17:53,980 --> 00:17:56,560
+先生們 改天再吵吧?
+Uh,gentlemen, another day?
+
+282
+00:17:58,320 --> 00:18:00,840
+Corral先生 我們理解你的猶豫
+Mr. Corral, we understand your hesitation,
+
+283
+00:18:00,870 --> 00:18:03,270
+但今天 我們不是為了移民政策來的 是為了謀殺
+But we aren't here about immigration, we're here about murder.
+
+284
+00:18:03,290 --> 00:18:07,750
+你知道前幾天放在警長辦公室門前 那些被砍下的頭嗎?
+Do you know anything about the heads that were left in front of the sheriff's station a few days ago?
+
+285
+00:18:07,760 --> 00:18:10,480
+誰不知道 我的顧客都害怕死了
+Everyone does. My clients are terrified.
+
+286
+00:18:10,490 --> 00:18:13,030
+- 顧客... - 副警長...
+- Clients. - Deputy...
+
+287
+00:18:13,890 --> 00:18:17,170
+昨晚 又有一個人被殺了  一個移民
+Another man was murdered last night. An immigrant.
+
+288
+00:18:17,180 --> 00:18:20,260
+我們需要知道 兇手是怎麼找到他的受害人的
+We need to figure out how this man finds his victims.
+
+289
+00:18:20,270 --> 00:18:23,660
+Ruiz警長說 你比任何人都清楚 非法移民的偷渡路線
+Sheriff ruiz said you know more about these people's journey than anyone.
+
+290
+00:18:24,370 --> 00:18:27,790
+- 是的 - 他們要穿過多少地方?
+- Yeah. - How many places are there to cross?
+
+291
+00:18:28,100 --> 00:18:31,440
+從我們能找到的隧道看來 還有12條隧道沒找到
+For every tunnel we find, there's 12 more we don't know about.
+
+292
+00:18:31,870 --> 00:18:33,310
+當他們穿過了邊境以後呢?
+And once they've made it?
+
+293
+00:18:33,330 --> 00:18:35,630
+蛇頭把檔案都放在他們的卡車上
+Runners keep documents in the trunks of their cars.
+
+294
+00:18:35,660 --> 00:18:38,960
+護照 假社保號 綠卡什麼的
+Passports,fake social security numbers, green cards.
+
+295
+00:18:38,980 --> 00:18:41,680
+這是一盤大生意 特別是在邊境城鎮
+It's a big business. Especially in border towns.
+
+296
+00:18:41,690 --> 00:18:43,880
+你都認識這些蛇頭嗎?
+Do you know these runners?
+
+297
+00:18:43,890 --> 00:18:45,450
+他們老是換人
+They change all the time.
+
+298
+00:18:45,480 --> 00:18:48,140
+如果偷渡的人沒來找你 他們會怎麼辦?
+If immigrants don't find you,where do they go?
+
+299
+00:18:48,150 --> 00:18:52,760
+安全屋 他們本來能在那休息  找到水和食物 
+Safe houses. It's supposed to be where they can find rest, water,food.
+
+300
+00:18:53,100 --> 00:18:54,470
+本來能?
+Supposed to be?
+
+301
+00:18:54,490 --> 00:18:58,170
+其實更像是監獄 他們只能一直待在那裏 直到他們的家人把錢付清給蛇頭
+It's more like a prison, until their families can pay off the coyotes.
+
+302
+00:18:58,190 --> 00:19:00,580
+這些安全屋都在哪?
+Where are these safe houses?
+
+303
+00:19:00,600 --> 00:19:04,550
+你在開玩笑嗎? 它們出現消失得比隧道還快
+Are you kidding? They come and go faster than the tunnels.
+
+304
+00:19:05,720 --> 00:19:08,560
+好的 謝謝你的寶貴時間
+Ok. Thank you for your time.
+
+305
+00:19:16,680 --> 00:19:20,220
+<i>布魯克林一家人被闖入者滅口</i>
+
+306
+00:19:21,110 --> 00:19:23,350
+警長 我們的地理側寫需要幫助
+Sheriff,we could use a hand with the geographical profile.
+
+307
+00:19:23,370 --> 00:19:25,360
+我們嘗試找出安全屋的地點
+We're trying to locate likely safe houses.
+
+308
+00:19:26,300 --> 00:19:28,700
+你的小隊去遍了整個國家 是吧?
+Your team travels all around the country, right?
+
+309
+00:19:28,710 --> 00:19:30,040
+是的
+That's right.
+
+310
+00:19:30,080 --> 00:19:32,690
+我在兇案組的最後一年 經手了36個謀殺案
+My last year in homicide, i handled 36 murders.
+
+311
+00:19:32,710 --> 00:19:37,090
+我的小隊裏一共20個警探 算一下吧
+I was one of 20 detectives in my unit. Do the math.
+
+312
+00:19:38,710 --> 00:19:41,230
+別問我在那當中 我解決了多少個
+Don't ask me how many i solved.
+
+313
+00:19:41,240 --> 00:19:43,590
+我肯定你已經盡了最大努力了
+I'm sure you did the best you could.
+
+314
+00:19:44,010 --> 00:19:47,940
+就沒有一個地方人們不會互相殘殺嗎?
+There really isn't anywhere to go where people aren't killing each other, is there?
+
+315
+00:19:47,950 --> 00:19:49,910
+可能的安全屋?
+Likely safe houses?
+
+316
+00:19:49,940 --> 00:19:51,900
+即使我們能找到一個
+Even if we could find a safe house,
+
+317
+00:19:51,940 --> 00:19:55,090
+你還真覺得一個剛剛穿過邊境的人 會和我們說話嗎?
+You really think someone who just crossed is gonna talk to us?
+
+318
+00:19:55,340 --> 00:19:57,820
+昨晚的被害人很有可能不是一個人來的
+Well,there's a good chance that last night's victim didn't cross alone.
+
+319
+00:19:57,850 --> 00:19:59,210
+或許有人會掛念他
+Someone may be missing him.
+
+320
+00:19:59,230 --> 00:20:01,000
+如果昨晚才到的非法移民還在安全屋
+If last night's illegals are still at safe houses,
+
+321
+00:20:01,040 --> 00:20:04,170
+我們就能找到他們的偷渡路線 也就知道不明嫌犯的獵殺場了
+We can find the route they used and we'll know the unsub's hunting grounds.
+
+322
+00:20:04,190 --> 00:20:06,820
+安全屋的意義 就在於  它們是個秘密地點
+The whole point of a safe house is it's a secret.
+
+323
+00:20:06,840 --> 00:20:09,060
+如果我能找到它們 我就會把它們搗了
+If i'd could find them, i'd shut them down.
+
+324
+00:20:09,410 --> 00:20:13,500
+好吧 如果那裏是第一站 我們應該從離邊境最近的開始找
+All right,if it's a first stop, we should start with homes that are closest to the border.
+
+325
+00:20:13,510 --> 00:20:15,970
+我能查一下土地契約 但會費點時間
+I could pull land deeds. Might take a while.
+
+326
+00:20:15,980 --> 00:20:17,590
+我們有快一點的方法
+We've got something faster.
+
+327
+00:20:17,600 --> 00:20:18,890
+- Garcia - 長官
+- Garcia. - Sir.
+
+328
+00:20:18,900 --> 00:20:21,610
+我們在搜尋Terlingua的非法移民安全屋
+We're looking for illegal immigrant safe houses in terlingua.
+
+329
+00:20:21,620 --> 00:20:22,800
+有哪些特徵?
+What are the parameters?
+
+330
+00:20:22,840 --> 00:20:25,350
+從有犯罪記錄的房主和租客開始查
+Start with homeowners and renters with criminal records.
+
+331
+00:20:25,360 --> 00:20:26,460
+好的 還有呢
+That's a start. Give me more.
+
+332
+00:20:26,470 --> 00:20:29,760
+Morgan說他們不會總在一個地方 找短期租房
+Morgan said they're always moving. Look for homes with short-term leases.
+
+333
+00:20:29,770 --> 00:20:30,980
+水電用量也會很高
+And spikes in utilities.
+
+334
+00:20:31,010 --> 00:20:34,500
+如果是非法租房 那裏用電量和用水量會更高
+If they're housing illegals, there'll be a higher usage of power and water.
+
+335
+00:20:34,880 --> 00:20:37,250
+我正在德州所有的公共事業公司
+I'm crossing with all texas utility companies.
+
+336
+00:20:37,270 --> 00:20:40,990
+找到3個地方 已經把地址發到你們手機了
+And i have 3. And i just sent the addresses to your phones.
+
+337
+00:20:41,000 --> 00:20:42,130
+謝謝 Garcia
+Thanks,garcia.
+
+338
+00:20:42,160 --> 00:20:45,750
+如果你們想送給我禮物 像她這樣的就最好不過了
+If you're looking for a gift to get me, one of her would be greatly appreciated.
+
+339
+00:20:45,780 --> 00:20:48,630
+一定不是常規住所
+We're pretty sure they broke the mold.
+
+340
+00:20:51,660 --> 00:20:53,280
+是我
+Yeah.
+
+341
+00:20:53,290 --> 00:20:56,700
+如果你不停的說這違法那違法 我們可查不出什麼東西
+You know,we're not going to get very far if you keep arguing about illegals with everyone.
+
+342
+00:20:56,720 --> 00:20:59,040
+- 這地方以前不是這樣的 - 什麼意思?
+- This place used to be different. - How do you mean?
+
+343
+00:20:59,050 --> 00:21:02,970
+不知道 就是不同
+I don't know. Different.
+
+344
+00:21:02,980 --> 00:21:06,230
+知道了 我們得對各個安全屋各個擊破
+Got it,sir. We're gonna split up possible safe houses.
+
+345
+00:21:06,240 --> 00:21:08,660
+離我們最近的一個離這10分鐘
+The closest one to us is 10 minutes from here.
+
+346
+00:21:08,700 --> 00:21:11,400
+- 他們不會高興見我們的 - 你有手機嗎?
+- They ain't gonna be happy to see us. - You got a cell phone?
+
+347
+00:21:11,410 --> 00:21:13,750
+- 有 - 告訴我號碼
+- Yeah. - Give me the number.
+
+348
+00:21:13,760 --> 00:21:16,720
+副警長 我們在後門 上前敲門
+Deputy, we're at the back door. Go ahead and knock.
+
+349
+00:21:19,620 --> 00:21:23,000
+警察! 開門!
+Police! Open up!
+
+350
+00:21:29,140 --> 00:21:30,110
+漂亮
+Nice.
+
+351
+00:21:30,130 --> 00:21:32,500
+我在大學裏是強衛 (橄欖球裏中衛的一種)
+I played a little strong safety in college.
+
+352
+00:21:32,510 --> 00:21:35,900
+- 不知道你在說什麼 - FBI 我們有幾個問題要問你
+- No idea what that means. - Fbi. We got a few questions for you.
+
+353
+00:21:35,910 --> 00:21:37,790
+我不會英語
+
+354
+00:21:38,170 --> 00:21:41,100
+FBI 我們有幾個問題要問你
+
+355
+00:21:46,370 --> 00:21:48,240
+在這裏面?
+In here?
+
+356
+00:21:48,260 --> 00:21:49,740
+你把他們藏在馬棚裏?
+You keep them in a stable?
+
+357
+00:21:49,750 --> 00:21:51,960
+- 你抓住他? - 好
+- You got him? - Yeah.
+
+358
+00:21:53,440 --> 00:21:54,800
+走
+Go.
+
+359
+00:22:14,840 --> 00:22:16,510
+大家沒事吧?
+
+360
+00:22:17,240 --> 00:22:19,330
+還有別的人在這嗎?
+
+361
+00:22:19,340 --> 00:22:20,340
+我媽媽
+
+362
+00:22:20,350 --> 00:22:21,980
+那個男人把她帶走了
+
+363
+00:22:21,990 --> 00:22:23,790
+我聽到她哭了
+
+364
+00:22:24,140 --> 00:22:26,370
+他媽媽
+His mother.
+
+365
+00:22:35,180 --> 00:22:37,870
+Prentiss.
+
+366
+00:22:44,180 --> 00:22:46,010
+拜託
+
+367
+00:22:46,020 --> 00:22:47,240
+求你們了...
+
+368
+00:22:47,250 --> 00:22:48,520
+他強姦我...
+
+369
+00:22:48,530 --> 00:22:50,700
+別讓我兒子看到我這樣子
+
+370
+00:22:51,050 --> 00:22:53,980
+Gentry! 我們需要支援和醫療隊!
+Gentry! We need backup and medical units!
+
+371
+00:22:53,990 --> 00:22:55,380
+沒事了 親愛的
+Esta bien,querida.
+
+372
+00:22:55,510 --> 00:22:57,000
+沒事了
+Esta bien.
+
+373
+00:22:57,010 --> 00:22:58,730
+我不會讓他看見你這樣的
+
+374
+00:22:59,280 --> 00:23:01,070
+謝謝你
+
+375
+00:23:05,080 --> 00:23:07,040
+現在 你聽我說
+Now,you listen to me.
+
+376
+00:23:07,080 --> 00:23:10,960
+如果你不想和我說話 沒關係 我不介意
+If you don't want to talk to me,that's fine. I don't care.
+
+377
+00:23:12,160 --> 00:23:15,930
+你現在面臨強姦 綁架 持有武器的指控
+But you're facing rape, kidnapping, weapons charges,
+
+378
+00:23:15,960 --> 00:23:19,870
+還有一系列走私和偷渡的聯邦共謀罪名
+And numerous counts of federal conspiracy to smuggle and harbor illegal aliens.
+
+379
+00:23:23,650 --> 00:23:27,290
+這是你能幫自己的最後機會 朋友
+This is your last chance to help yourself,my friend.
+
+380
+00:23:28,130 --> 00:23:29,470
+他看起來一點都不在意
+He doesn't look concerned.
+
+381
+00:23:29,500 --> 00:23:32,430
+因為整個邊境的狀況非常混亂
+It's because the whole border situation is chaos.
+
+382
+00:23:32,440 --> 00:23:36,360
+他被驅逐出境的可能 和入獄的可能差不多
+He has as much chance of just getting deported as he does of doing prison time.
+
+383
+00:23:36,370 --> 00:23:39,670
+我來打幾個電話 看看能不能走點關係
+I'll make some calls, see if i can pull some federal strings.
+
+384
+00:23:39,710 --> 00:23:42,600
+你們走了 誰來幫我們走關係?
+Who's gonna pull the strings when you go home?
+
+385
+00:23:44,170 --> 00:23:46,790
+我們在沙漠中間
+
+386
+00:23:46,800 --> 00:23:48,640
+我丈夫...
+
+387
+00:23:48,910 --> 00:23:50,850
+他一直在生病...
+
+388
+00:23:51,060 --> 00:23:54,160
+...跟不上我們
+
+389
+00:23:56,110 --> 00:23:59,610
+他不讓我們留下陪他
+
+390
+00:24:00,800 --> 00:24:03,450
+她丈夫病了 所以落後
+Her husband was sick and he stayed behind.
+
+391
+00:24:03,470 --> 00:24:05,840
+和其他人一樣
+Just like the others.
+
+392
+00:24:08,800 --> 00:24:12,180
+還記得什麼途中的事嗎?
+
+393
+00:24:12,780 --> 00:24:14,460
+太陽
+
+394
+00:24:14,620 --> 00:24:16,620
+我看到了太陽
+
+395
+00:24:16,880 --> 00:24:19,300
+你是說"月亮"
+
+396
+00:24:19,310 --> 00:24:21,930
+那是晚上 我的寶貝
+
+397
+00:24:23,330 --> 00:24:25,510
+他是說月亮
+El quiere decir la luna.
+
+398
+00:24:25,520 --> 00:24:28,600
+不 那是太陽
+
+399
+00:24:32,540 --> 00:24:35,690
+- 他能喝點飲料嗎? - 可以 當然可以
+- Can he have soda? - Yeah. Yeah,of course.
+
+400
+00:24:35,700 --> 00:24:38,910
+來吧 勇敢的孩子 我們去喝飲料
+Come on,big man, let's get a soda.
+
+401
+00:24:42,110 --> 00:24:44,910
+你會找到我丈夫的 對不對?
+
+402
+00:24:48,240 --> 00:24:50,520
+求你了
+Por favor.
+
+403
+00:24:58,430 --> 00:24:59,690
+我不是一小時以前就讓你回去了嗎
+I thought i sent you home an hour ago.
+
+404
+00:24:59,710 --> 00:25:01,450
+是 但是有點事困擾我
+Yeah,uh,something's bugging me.
+
+405
+00:25:01,490 --> 00:25:04,850
+那個男孩說 他記得偷渡過境的時候 看到了太陽
+That young boy says he remembers seeing the sun when he crossed the border.
+
+406
+00:25:04,860 --> 00:25:07,570
+- 他們是晚上過境的 - 是 我知道 它讓我想起了什麼
+- They crossed at night. - Yeah,i know. It got me thinking.
+
+407
+00:25:07,580 --> 00:25:12,020
+某處舊馬棚邊有一幅很大的壁畫 畫的是太陽
+There's a big mural on the side of an old barn. It's of the sun.
+
+408
+00:25:12,420 --> 00:25:15,460
+- 離這多遠? - 大約15分鐘
+- How far out? - About 15 minutes.
+
+409
+00:25:16,500 --> 00:25:19,020
+- 要一起來嗎? - 好的
+- Want to take a ride? - Sure.
+
+410
+00:25:31,930 --> 00:25:33,740
+我覺著自己從沒來過這地兒
+Don't think i've been out this way.
+
+411
+00:25:33,760 --> 00:25:36,060
+我小時候來這裏
+I used to ride out here when i was a kid.
+
+412
+00:25:36,090 --> 00:25:39,380
+- 騎馬來的? - 全地形車
+- Horses? - Atvs.
+
+413
+00:25:39,390 --> 00:25:40,650
+從沒坐過
+Never been on one of those.
+
+414
+00:25:40,670 --> 00:25:43,950
+開得時候得小心了 很容易受傷的
+Yeah,you gotta be careful with them. You can wreck pretty good.
+
+415
+00:25:44,620 --> 00:25:49,240
+從小到大我只能騎自行車 還得時刻提防被人偷走
+Growing up,all i ever had was a bicycle if i could keep it long enough before it got stolen to ride it.
+
+416
+00:25:49,250 --> 00:25:51,880
+住城裏就這點不好 對吧
+Good reason to hate the city,right?
+
+417
+00:25:51,890 --> 00:25:53,900
+算是缺點之一
+One of them.
+
+418
+00:25:54,330 --> 00:26:00,260
+那兒 跟那孩子描述的很像
+There. It looks a lot like the kid described.
+
+419
+00:26:02,870 --> 00:26:06,000
+Santa Muerte 和太陽
+Santa muerte and the sun.
+
+420
+00:26:08,760 --> 00:26:11,620
+做的很好 Boyd
+That's good police work, boyd.
+
+421
+00:26:14,580 --> 00:26:18,110
+你覺得FBI的側寫做的怎麼樣?
+Hey,what do you think about that profile the fbi gave?
+
+422
+00:26:18,120 --> 00:26:20,060
+問我的意見?
+What do i think?
+
+423
+00:26:20,080 --> 00:26:24,850
+雖然受害者年長或有殘疾 他也可能 無法在他們最強的狀態下擊倒他們
+He may not be capable of taking them on in their strongest state, despite their age or infirmity.
+
+424
+00:26:24,860 --> 00:26:27,600
+他們說那個男人是個懦夫
+They said the guy was a coward.
+
+425
+00:26:28,150 --> 00:26:31,710
+殺了那麼多人 他就是個混蛋
+Anyone kills that many people has gotta be a real bad-ass.
+
+426
+00:26:31,750 --> 00:26:36,120
+襲擊那些手無縛雞之力的人 在我們那兒 都被叫做膽小鬼
+Well,where i come from, preying on people who can't defend themselves makes him a punk-ass.
+
+427
+00:26:36,130 --> 00:26:38,130
+懦夫
+A coward.
+
+428
+00:26:38,140 --> 00:26:41,500
+把死人頭插在你房子外面 這可不像懦夫
+Putting a man's head outside your house hardly seems like a coward.
+
+429
+00:26:47,180 --> 00:26:49,020
+你腿怎麼了 Boyd?
+Something wrong with your leg,boyd?
+
+430
+00:26:49,030 --> 00:26:51,810
+我十幾歲時腿嚴重骨折過
+Yeah,i busted it up pretty bad when i was a teenager.
+
+431
+00:26:52,920 --> 00:26:54,410
+幾乎沒法跑步
+Can't hardly run anymore.
+
+432
+00:26:54,430 --> 00:26:57,490
+每次臨下雨前都疼得要死
+Ooh,it hurts like a bitch every time it's gonna rain now.
+
+433
+00:26:57,520 --> 00:27:00,920
+這意味著他有可能在某方面有殘障 但問題不大 
+He's possibly handicapped in some way himself. Certainly weak.
+
+434
+00:27:00,930 --> 00:27:03,210
+或許很小很輕微
+Maybe small or even thin.
+
+435
+00:27:03,220 --> 00:27:05,870
+我不知道你的腿行動不便
+I didn't know you had a bad leg.
+
+436
+00:27:06,570 --> 00:27:09,660
+- 你對我一無所知 - 你說什麼?
+- You didn't know anything about me. - Excuse me?
+
+437
+00:27:09,670 --> 00:27:12,640
+你從紐約來 然後接管一切
+You just came from new york and took over,
+
+438
+00:27:12,650 --> 00:27:15,930
+只盯著些容易解決的事兒
+sticking your nose in things that were going just fine.
+
+439
+00:27:15,940 --> 00:27:18,540
+你是說那些失蹤案?
+You're talking about the missings?
+
+440
+00:27:19,030 --> 00:27:22,720
+失蹤案 如果那些人一開始
+The missing.Now,how could someone be missing
+
+441
+00:27:22,730 --> 00:27:26,070
+就不該出現在這兒 又怎麼會失蹤呢?
+if they ain't supposed to be here in the first damn place?
+
+442
+00:27:31,140 --> 00:27:33,890
+他們會把一切責任推給Omar
+They're gonna blame it all on omar.
+
+443
+00:27:35,600 --> 00:27:39,940
+我可以擺脫那個賤人和你了
+I can get rid of that son of a bitch and you.
+
+444
+00:27:40,540 --> 00:27:42,540
+為什麼這兒做 Boyd?
+Why,boyd?
+
+445
+00:27:42,750 --> 00:27:46,580
+為什麼? 為什麼不呢?
+Why? Why not?
+
+446
+00:27:49,110 --> 00:27:53,090
+- 你沒法成功的 - 我得試試
+- You won't make it. - I gotta try.
+
+447
+00:27:53,100 --> 00:27:55,580
+我知道
+Yeah,i know.
+
+448
+00:28:10,210 --> 00:28:11,960
+警察都到哪兒去了?
+Where are all the deputies?
+
+449
+00:28:11,980 --> 00:28:13,510
+也許他們發現了另一顆頭
+Maybe they found another head.
+
+450
+00:28:13,540 --> 00:28:16,230
+不會 不然警長會通知我們的 你今早見到她了嗎?
+No,the sheriff would have contacted us. Have you heard from her this morning?
+
+451
+00:28:16,240 --> 00:28:18,630
+沒有 長官 本來也沒指望見到她
+No,sir,i wasn't expecting to,though.
+
+452
+00:28:18,880 --> 00:28:21,460
+JJ 跟我來
+Jj,come with me.
+
+453
+00:28:23,970 --> 00:28:27,060
+收到 第三分隊 隨時更新你的進展
+10-4,unit 3. Keep us posted on your progress.
+
+454
+00:28:27,070 --> 00:28:28,160
+發生什麼了?
+What's going on?
+
+455
+00:28:28,190 --> 00:28:30,040
+警長失蹤了
+It's the sheriff. She's missing.
+
+456
+00:28:30,050 --> 00:28:31,840
+今早她沒出現
+She never came in this morning.
+
+457
+00:28:31,850 --> 00:28:34,900
+巡邏警車也失蹤了 整個部門都在尋找她
+Her cruiser's missing,too. The whole department's looking for her.
+
+458
+00:28:34,910 --> 00:28:36,770
+她對你說過什麼嗎? 她有沒有在跟進什麼?
+Did she say anything to you? Was she working on something?
+
+459
+00:28:36,780 --> 00:28:38,620
+她昨晚比我們先離開
+She was gone before we left here last night.
+
+460
+00:28:38,650 --> 00:28:40,570
+- 去哪兒了? - 我想她是回家了
+- Gone where? - I thought she went home.
+
+461
+00:28:40,580 --> 00:28:43,730
+讓Garcia追蹤她的電話 看看她昨晚 有沒有電話打進來
+Have garcia trace her cell phone. See if she had any incoming calls last night.
+
+462
+00:28:43,740 --> 00:28:47,640
+這是Boyd 上帝啊 我找到她了
+This is boyd. Oh,god. I found her.
+
+463
+00:28:47,650 --> 00:28:53,320
+天 她...請求支援 快!
+God,she's all... Just get me some help. Hurry.
+
+464
+00:28:54,330 --> 00:28:55,990
+- 副警長 - 他做了什麼?
+- Deputy. - What he did...
+
+465
+00:28:56,000 --> 00:28:59,580
+- 是警長嗎? - 沒錯 是她
+- It's the sheriff? - Yeah. Yeah,it's her.
+
+466
+00:29:09,200 --> 00:29:11,810
+這次不一樣 充斥了憤怒
+This isn't the same. This is angry.
+
+467
+00:29:11,820 --> 00:29:13,340
+過度殺戮
+And overkill.
+
+468
+00:29:13,350 --> 00:29:15,470
+作案模式完全不同
+It's a completely different m.o.
+
+469
+00:29:15,480 --> 00:29:17,340
+新的被害者類型
+and a new victimology.
+
+470
+00:29:17,350 --> 00:29:23,180
+他不僅能辨別非法移民  還認得出執法官員?
+He goes from impossible to identify illegal immigrants to a law enforcement officer?
+
+471
+00:29:23,990 --> 00:29:26,880
+側寫中說這男人出於膽小 會挑體弱的人下手
+We're profiling a guy who picks on the weakest in a crowd.
+
+472
+00:29:26,890 --> 00:29:29,920
+我不大瞭解警長  不過她絕不是手無縛雞之力
+I didn't know her that well, but weak doesn't seem to fit the sheriff.
+
+473
+00:29:29,930 --> 00:29:32,450
+- 這不是隨機下手 - 此話怎講?
+- It's also not random. - How so?
+
+474
+00:29:32,460 --> 00:29:35,820
+Omar Morales說過 換作他會這麼做 以發出信息
+It's what omar morales said he would do to a body to send a message.
+
+475
+00:29:35,830 --> 00:29:37,410
+他會這樣子肢解屍體?
+He'd tear someone up like that?
+
+476
+00:29:37,440 --> 00:29:41,980
+這跟他描述的一樣 內臟 頭 舌頭
+That's exactly what he said he would do. The evisceration, hand,the tongue.
+
+477
+00:29:42,470 --> 00:29:45,930
+我和Ruiz在審訊室裏時 他說的
+He told ruiz and i when we first came into the interrogation room.
+
+478
+00:29:46,280 --> 00:29:49,360
+- 我們是取證組 - 那邊
+- We're the evidence team. - Right there.
+
+479
+00:29:53,730 --> 00:29:56,150
+- 是她嗎? - 她的一部分
+- Is it her? - What's left of her.
+
+480
+00:29:56,160 --> 00:29:57,690
+車裏有什麼嗎?
+Is there anything in the car?
+
+481
+00:29:57,720 --> 00:29:59,970
+沒發現她昨晚去了哪兒
+Nothing that would indicate where she was headed last night.
+
+482
+00:30:00,000 --> 00:30:02,070
+沒筆記 沒日記
+There's no notebooks, no log.
+
+483
+00:30:02,390 --> 00:30:07,220
+肢解方式 和毒販Omar Morales 描述得一模一樣
+Her body is mutilated in exactly the way that omar morales,
+
+484
+00:30:05,010 --> 00:30:07,220
+The drug trafficker, said he would mutilate a body.
+
+485
+00:30:07,250 --> 00:30:10,210
+側寫指出不明嫌犯和這次的調查關繫緊密
+We did profile the unsub would be someone close to the investigation.
+
+486
+00:30:10,250 --> 00:30:11,900
+可只有Ruiz和我聽到了他的話
+But only ruiz and i heard him say it.
+
+487
+00:30:11,910 --> 00:30:13,870
+所以這都是Omar干的?
+So omar looks good for this?
+
+488
+00:30:13,910 --> 00:30:17,790
+可他幹嗎要殺了全鎮唯一相信 他不是不明嫌犯的人呢?
+Except why would he kill the one person in town who didn't think he was the unsub?
+
+489
+00:30:18,170 --> 00:30:21,310
+Garcia說昨晚九點以後 警長辦公室就沒活動了
+Garcia says there's no activity on the sheriff's cell past 9 p.m.
+
+490
+00:30:21,320 --> 00:30:23,780
+昨晚我們到達時 誰還在局子裏?
+Does anybody remember who was at the station last night when we arrived?
+
+491
+00:30:23,790 --> 00:30:25,120
+警察局?
+The station?
+
+492
+00:30:25,130 --> 00:30:28,930
+警長被肢解了 和那毒販描述的一模一樣
+The sheriff's body was mutilated exactly the way the drug trafficker said he would do it.
+
+493
+00:30:28,940 --> 00:30:32,370
+- 一模一樣嗎? 舌頭也割了? - 你也聽到了?
+- Oh,no,all of it? The tongue,too? - You heard that?
+
+494
+00:30:33,090 --> 00:30:35,060
+你們和他交談的時候我站在窗戶那兒
+Yeah,i was at the window when you were talking to him.
+
+495
+00:30:35,080 --> 00:30:37,810
+- 牆上有個揚聲器 - 還有誰在那兒?
+- There was a speaker on the wall. - Was anybody else there?
+
+496
+00:30:38,370 --> 00:30:40,220
+Boyd副警長
+Yeah,deputy boyd.
+
+497
+00:30:40,240 --> 00:30:41,870
+Gannon副警長 Boyd副警長在哪兒?
+Deputy gannon, where's deputy boyd?
+
+498
+00:30:41,880 --> 00:30:43,380
+他和Gentry去接他了
+Him and gentry went to pick him up.
+
+499
+00:30:43,410 --> 00:30:46,490
+- 接誰? - Omar Morales
+- Pick up who? - Omar morales.
+
+500
+00:30:55,950 --> 00:30:58,210
+你打算怎麼做?
+How do you want to play this?
+
+501
+00:31:02,440 --> 00:31:04,680
+Boyd!
+Boyd!
+
+502
+00:31:11,110 --> 00:31:13,180
+別幹傻事 Jose
+Don't do something stupid,jose.
+
+503
+00:31:13,900 --> 00:31:16,620
+嘿 別這樣 有話咱好好說
+Hey,take it easy. We can work this out.
+
+504
+00:31:20,020 --> 00:31:23,410
+Boyd! 你他娘的到底在幹啥?
+Boyd! What the hell are you doing?
+
+505
+00:31:31,160 --> 00:31:33,360
+這可不會有用啊
+This ain't gonna stick, you know.
+
+506
+00:31:52,180 --> 00:31:54,130
+Ronny 你都幹了些什麼啊?
+Ronny,what did you do?
+
+507
+00:31:54,140 --> 00:31:57,310
+- 他有槍 - 什麼?
+- He had a gun. - What?
+
+508
+00:31:58,090 --> 00:31:59,630
+他有槍
+He had a gun.
+
+509
+00:31:59,650 --> 00:32:01,570
+Ronny 他沒有
+Ronny,he ain't got no gun.
+
+510
+00:32:01,580 --> 00:32:04,200
+我只能開槍
+I had to shoot him.
+
+511
+00:32:04,220 --> 00:32:07,370
+- 他殺了兩個警察 - 什麼?
+- He killed two cops. - What?
+
+512
+00:32:31,750 --> 00:32:34,110
+- Gentry - Gentry 我是Prentiss探員
+- Gentry. - Gentry,this is agent prentiss.
+
+513
+00:32:34,120 --> 00:32:35,960
+如果他在你旁邊 別說話
+If he's near you, please don't say anything.
+
+514
+00:32:35,990 --> 00:32:39,400
+我們認為Boyd副警長就是不明嫌犯
+We think the unsub may be deputy boyd.
+
+515
+00:32:40,070 --> 00:32:42,670
+Gentry 你在聽嗎?
+Gentry,are you there?
+
+516
+00:32:55,500 --> 00:32:58,420
+- Reid JJ 待在這 保持警惕 - 好的
+- Reid,jj,stay out here and stay alert. - Yeah.
+
+517
+00:33:19,950 --> 00:33:22,210
+是Gentry
+It's gentry.
+
+518
+00:33:31,230 --> 00:33:33,140
+你覺得這合理嗎?
+Does this look legit to you?
+
+519
+00:33:33,170 --> 00:33:36,960
+Omar是被散彈獵槍打中的 Gentry只有把手槍
+Omar took shotgun hits. Gentry only has a pistol.
+
+520
+00:33:36,970 --> 00:33:39,940
+Omar兩隻手上也都沒有火藥殘餘
+There's no powder residue on omar's hands,either.
+
+521
+00:33:39,960 --> 00:33:43,020
+哦 我的天 萬一是他接的電話呢?
+Oh,my god. What if he heard me?
+
+522
+00:33:43,030 --> 00:33:45,640
+- Gannon Boyd會去哪? - 不知道
+- Gannon, where would boyd go? - I don't know.
+
+523
+00:33:45,650 --> 00:33:48,260
+沒時間包庇他了  他殺了你們的頭還有Gentry
+This is no time to be covering up. He killed your boss and gentry.
+
+524
+00:33:48,270 --> 00:33:50,960
+我沒包庇他 我真不知道  我不是很瞭解他 沒人瞭解
+I'm not covering. I don't know the guy that well. No one does.
+
+525
+00:33:50,970 --> 00:33:52,950
+他總是獨來獨往
+He's a loner.
+
+526
+00:33:53,230 --> 00:33:56,630
+- 大人 - Garcia  Boyd副警長 就是不明嫌犯 他有警用無線電
+- My liege. - Garcia,deputy boyd is our unsub. He has a police radio.
+
+527
+00:33:56,640 --> 00:33:58,790
+- 你能追蹤到嗎? - 可以 單位號是多少?
+- Can you track it? - Yeah. What's his unit number?
+
+528
+00:33:58,800 --> 00:34:01,450
+打電話給警長辦公室  問調度員序列號
+Call the sheriff's station. Get the serial numbers from the dispatcher.
+
+529
+00:34:01,460 --> 00:34:03,470
+好 我再打給你
+Ok,i'll get back to you.
+
+530
+00:34:03,970 --> 00:34:06,620
+- 我們側寫他是個獵人 - 現在是獵物了
+- We profiled him as a hunter. - Well, now he's the hunted.
+
+531
+00:34:06,630 --> 00:34:08,080
+他一定會去讓他有安全感的地方
+He'll go someplace he feels safe.
+
+532
+00:34:08,100 --> 00:34:10,460
+- 他能控制的地方 - 回家?
+- Someplace he knows he can control. - Home?
+
+533
+00:34:10,470 --> 00:34:12,950
+不會 應該是事先設計好的地方
+No,i think a preplanned location.
+
+534
+00:34:13,230 --> 00:34:15,880
+長官 發現他了 他在往北的方向
+Sir,i've got him. He's heading northbound.
+
+535
+00:34:15,890 --> 00:34:19,220
+- 州際公路? - 不是  他根本沒開上路 他在沙漠裏開
+- Interstate? - No,he is not on a road at all. He's driving through the desert.
+
+536
+00:34:19,230 --> 00:34:21,520
+- 繼續追蹤 Garcia - 他想逃跑
+- Keep tracking him,garcia. - He's running.
+
+537
+00:34:21,530 --> 00:34:23,970
+肯定不是跑回家  他住在城外西邊的一部拖車裏
+Not home for sure. He lives in a trailer out west of town.
+
+538
+00:34:23,980 --> 00:34:25,740
+那他是要跑去哪?
+So where's he running to?
+
+539
+00:34:25,760 --> 00:34:28,710
+Morgan Prentiss Reid 副警長 你帶他們去拖車 看能發現點什麼
+Morgan,prentiss,reid-- deputy, you take them to his house, see what you can find.
+
+540
+00:34:28,720 --> 00:34:30,100
+把你無線電給我
+I need your radio.
+
+541
+00:34:30,110 --> 00:34:32,600
+- 你要怎麼做? - 不讓他閒著
+- What are you gonna do? - Keep him busy.
+
+542
+00:34:35,290 --> 00:34:37,500
+副警長Boyd  我是FBI的Hotchner探員
+Deputy boyd, this is agent hotchner with the fbi.
+
+543
+00:34:37,530 --> 00:34:40,650
+我知道你能聽到我 你無處可逃
+I know you can hear me. You have no place to go.
+
+544
+00:34:40,660 --> 00:34:42,240
+這沙漠是我的地盤
+This is my desert.
+
+545
+00:34:42,280 --> 00:34:46,260
+你以為能把我找出來麼 哼 試試吧
+You think you can find me out here, yeah,well,come on out.
+
+546
+00:34:46,270 --> 00:34:47,830
+自以為了不起的混蛋
+Cocky little bastard.
+
+547
+00:34:47,850 --> 00:34:50,430
+問題是他說得沒錯  我們對這沙漠一無所知
+The trouble is he's right. We don't know anything about this desert.
+
+548
+00:34:50,440 --> 00:34:52,620
+也許他們能發現點線索
+Hope they can find something.
+
+549
+00:35:04,280 --> 00:35:06,410
+哦 天啊
+Oh,god.
+
+550
+00:35:08,080 --> 00:35:09,410
+看來我們真是找對地方了
+Well,we're definitely in the right place.
+
+551
+00:35:09,430 --> 00:35:11,960
+和平常一樣呼吸就好了  嗅覺是最弱的感官知覺
+Just breathe through your nose like normal. Smell is the weakest sense.
+
+552
+00:35:11,970 --> 00:35:13,980
+過個幾分鐘 你就聞不出什麼了
+In a few more minutes, you won't even notice it.
+
+553
+00:35:14,010 --> 00:35:16,020
+那味覺呢?
+What about the taste?
+
+554
+00:35:16,050 --> 00:35:18,040
+那是你自己想的
+I think that's in your head.
+
+555
+00:35:18,050 --> 00:35:21,120
+好 分頭找吧 看看這傢伙要去哪
+All right,spread out. Let's find out where this guy's headed here.
+
+556
+00:35:21,860 --> 00:35:24,630
+Boyd 沒必要讓這一切變得更糟的
+Boyd,this doesn't have to end any worse than it already is.
+
+557
+00:35:24,640 --> 00:35:28,110
+- 怎麼說? - 你自首 我會和法官說你很合作
+- Is that right? - Turn yourself in. I'll tell the judge you cooperated.
+
+558
+00:35:28,120 --> 00:35:30,600
+這兒是德克薩斯 探員  你以為法官在能判人死刑時
+This is texas,agent.You think the judge gives a damn
+
+559
+00:35:30,610 --> 00:35:33,670
+還會在乎他有沒有合作嗎?
+whether or not someone cooperated when he's handing out the death penalty?
+
+560
+00:35:34,100 --> 00:35:36,720
+別理解錯了
+Now,don't get me wrong.
+
+561
+00:35:36,730 --> 00:35:39,020
+我也會用一樣的方式結束這一切
+I wouldn't have it any other way.
+
+562
+00:35:39,940 --> 00:35:42,850
+那是對付我這種人唯一的方式
+That's the only way to deal with someone like me.
+
+563
+00:35:43,860 --> 00:35:45,630
+他會自殺嗎?
+Think he's suicidal?
+
+564
+00:35:45,640 --> 00:35:48,480
+- 要不就是嚇唬人 - 北邊有什麼東西?
+- Or he's bluffing. - What's north of here?
+
+565
+00:35:48,490 --> 00:35:51,790
+- 空空如也 - 他一點也不驚慌
+- A whole lot of nothing. - He's not panicking.
+
+566
+00:35:51,800 --> 00:35:54,810
+那兒一定有什麼東西吸引著他
+There's something out there, and he's headed for it.
+
+567
+00:35:57,120 --> 00:36:02,170
+哦 天哪 我發現那氣味是哪來的了
+Oh,god. I found where the source of that smell is coming from.
+
+568
+00:36:07,810 --> 00:36:09,990
+哦 我的天
+Oh,my god.
+
+569
+00:36:10,010 --> 00:36:12,180
+這就是他砍人頭的地方了
+Well,this is where he decapitated them.
+
+570
+00:36:13,310 --> 00:36:15,410
+夥計們 來看這個
+Guys,come look at this.
+
+571
+00:36:15,430 --> 00:36:18,830
+我一直等著嗅覺失靈呢 Reid
+I'm ready for that smell weakness to kick in anytime,reid.
+
+572
+00:36:19,600 --> 00:36:21,920
+你們聽 "金色收穫穀物供給倉庫
+Listen."golden harvest grain and feed
+
+573
+00:36:21,930 --> 00:36:26,860
+今天又一次遭受了因組長Fred Boyd 死亡而起的控制權之爭"
+"suffered another setback today in a ruling over the death of foreman fred boyd."
+
+574
+00:36:28,160 --> 00:36:30,390
+Boyd死了 其子Ronald活了下來
+"boyd survived by his son ronald."
+
+575
+00:36:30,420 --> 00:36:34,030
+上次那個受害人的孩子不是說 在路上看到了太陽嗎?
+Didn't the last victim's child say that he saw the sun when he crossed?
+
+576
+00:36:34,040 --> 00:36:37,980
+- 是有 - 金色收穫 就在城外北邊
+- Yeah. - Golden harvest, that's out north of town.
+
+577
+00:36:52,070 --> 00:36:54,730
+長官 我--我追蹤不到他了  訊號消失了
+Sir,i--i lost him. The signal's gone.
+
+578
+00:36:55,060 --> 00:36:56,260
+他弄壞了無線電
+He smashed the radio.
+
+579
+00:36:56,280 --> 00:36:59,580
+Garcia 給我張信號 最後出現的衛星照片
+Garcia,i need a satellite photo of the last place that the signal showed.
+
+580
+00:36:59,610 --> 00:37:01,350
+那裏一定有什麼是地圖上沒顯示的
+There's something out there that's not on the map.
+
+581
+00:37:01,390 --> 00:37:03,370
+是 長官 我正在弄
+Yes,sir,i'm already working on that.
+
+582
+00:37:03,380 --> 00:37:05,300
+去北邊
+Let's head north.
+
+583
+00:37:06,320 --> 00:37:11,370
+Hotch 城北有一個叫金色收穫的 很舊的穀物供給倉庫
+Hotch,there's an old grain and feed barn north of town called golden harvest.
+
+584
+00:37:11,390 --> 00:37:13,220
+Boyd的父親是在那裏被殺害的
+Boyd's father was killed there.
+
+585
+00:37:13,230 --> 00:37:15,730
+Garcia正在查找確切地點
+Garcia's searching for an exact address right now.
+
+586
+00:37:16,000 --> 00:37:18,980
+- 好 我們到那碰頭 - 這都是受害人
+- Ok,right. We'll see you there. - His victims.
+
+587
+00:37:21,910 --> 00:37:23,970
+Reid 你在這留守現場好吧?
+Reid,i want you to stay with the crime scene, all right?
+
+588
+00:37:24,000 --> 00:37:25,910
+我打電話給州里的和當地的同事
+I'll call the state and local bureau offices.
+
+589
+00:37:25,950 --> 00:37:28,430
+他們會馬上趕過來的
+They'll be here as soon as they can.
+
+590
+00:37:38,010 --> 00:37:40,080
+別在車裏開槍
+Try not to shoot that inside the car.
+
+591
+00:37:40,110 --> 00:37:43,380
+- 你意思是別震聾你? - 對
+- You mean try not to deafen you? - Exactly.
+
+592
+00:37:46,930 --> 00:37:49,560
+那是他的車
+There's his vehicle.
+
+593
+00:37:56,890 --> 00:37:59,780
+你走側門 我從前門入
+You take the side door. I'll take the front.
+
+594
+00:38:03,660 --> 00:38:05,940
+注意上面的窗戶
+Watch the windows up top.
+
+595
+00:38:27,080 --> 00:38:30,540
+- 你能開槍嗎? - 我什麼都看不見
+- Do you have a shot? - I can't see anything.
+
+596
+00:38:36,530 --> 00:38:39,100
+- Prentiss 當心! - 交給我 交給我
+- Prentiss,look out! - I got him,i got him.
+
+597
+00:38:50,840 --> 00:38:51,660
+你沒事吧?
+You all right?
+
+598
+00:38:51,670 --> 00:38:53,570
+- 沒事 - 有事!
+- Yeah. - No!
+
+599
+00:38:53,580 --> 00:38:56,140
+你是不是瘋了? 我耳膜都震破了
+Are you out of your mind? You blew out my eardrum.
+
+600
+00:38:56,150 --> 00:38:57,750
+那你想讓我怎麼辦?  他衝著我們就過來了
+What did you want me to do? He was coming right at us.
+
+601
+00:38:57,760 --> 00:38:59,400
+我說了我能搞定的
+I told you i had him.
+
+602
+00:38:59,420 --> 00:39:00,810
+他都朝我們開槍了 Emily
+He was shooting at us, emily.
+
+603
+00:39:00,830 --> 00:39:02,640
+那你至少能提醒我下吧
+Well,you could have given me a heads-up.
+
+604
+00:39:02,680 --> 00:39:06,550
+這可是把上了膛的mp-5衝鋒鎗和 往我們亂掃的瘋子啊? 行了
+The loaded mp-5 and the lunatic shooting at us wasn't enough? Come on.
+
+605
+00:39:16,310 --> 00:39:18,660
+上邊派過來一個犯罪現場小組了
+The state's sending out a crime scene team.
+
+606
+00:39:18,690 --> 00:39:22,300
+沒有失蹤人口的報告 要確認屍體身份很難
+It's going to be hard to identify the bodies with out missing persons reports.
+
+607
+00:39:22,350 --> 00:39:24,730
+我聯繫了那個安排移民的 Richard Corral
+I called that advocate, richard corral.
+
+608
+00:39:24,740 --> 00:39:27,280
+他正在聯繫有親人失蹤的人家
+He's contacting families with missing relatives.
+
+609
+00:39:27,310 --> 00:39:28,770
+他會試著拿到些DNA
+He's gonna try and get some dna.
+
+610
+00:39:28,780 --> 00:39:30,840
+那應該能好點
+That'll help.
+
+611
+00:39:30,850 --> 00:39:32,250
+這都亂套了
+This is a mess.
+
+612
+00:39:32,270 --> 00:39:36,290
+沒有Ruiz警長會更亂的  還是會有人被砍頭
+It would have been a bigger mess without sheriff ruiz, and it would still be happening.
+
+613
+00:39:36,330 --> 00:39:37,590
+她有什麼家人嗎?
+Did she have any family?
+
+614
+00:39:37,620 --> 00:39:39,620
+我已經讓Garcia在查了
+I already have garcia checking into it.
+
+615
+00:39:40,610 --> 00:39:43,350
+我會給布魯克林的兇殺組打電話 和我認識的幾個人說說
+I'm going to call brooklyn homicide, talk to some of the guys i know there.
+
+616
+00:39:43,400 --> 00:39:45,660
+- 給她頒發獎章 - 太好了
+- They'll honor her shield. - That's good.
+
+617
+00:39:45,670 --> 00:39:48,750
+從紐約警局出來的探長會很高興的
+An ex-nypd detective would like that.
+
+618
+00:39:53,760 --> 00:39:56,090
+我們回去吧
+Let's go home.
+
+619
+00:40:03,310 --> 00:40:07,000
+"許多人對於什麼是真正的幸福 都有著錯誤的觀念"
+"many persons have the wrong idea "of what constitutes true happiness.
+
+620
+00:40:07,030 --> 00:40:12,050
+"真正的幸福不是自我滿足 而是忠實地為值得的目標自我奉獻"
+"it is not attained through self-gratification but through fidelity to a worthy purpose."
+
+621
+00:40:12,060 --> 00:40:14,160
+海倫·凱勒  (美國聾盲女作家 慈善家 教育家)
+Helen keller.
+
+622
+00:40:14,170 --> 00:40:19,750
+<font color=#FF7F00>犯罪心理 第五季 第19集
+== 結束 ==</font>
+<font color=#70DBDB>Criminal Minds Season05 Episode19 Rite of Passage</font>
+
