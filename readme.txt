@@ -3,7 +3,7 @@
 可以用作聊天机器人的训练语料
 
 结果：
-dgk_lost.conv
+dgk_lost.conv 1.7MB 70000lines
 
 方法：
 asstosrt -s utf-8
