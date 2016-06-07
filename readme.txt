@@ -1,7 +1,9 @@
-========从字幕文件构建的中文对话脚本 conversation corpus========
+========dgk_lost_conv========
+从字幕文件构建的中文对话脚本conversation corpus
+可以用作聊天机器人的训练语料
 
 结果：
-dkg_lost.conv
+dgk_lost.conv
 
 方法：
 asstosrt -s utf-8
