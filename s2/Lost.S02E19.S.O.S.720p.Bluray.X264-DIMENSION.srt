@@ -1,0 +1,2283 @@
+1
+00:00:02,008 --> 00:00:03,058
+上集回顾
+Previously on "Lost"...
+
+2
+00:00:03,058 --> 00:00:07,039
+就是这儿 这有个界线
+Right here, there's a line.
+
+3
+00:00:07,058 --> 00:00:08,096
+你要是越过着界线
+You cross that line,
+
+4
+00:00:08,096 --> 00:00:13,021
+那就不是什么误会的事了
+we go from misunderstanding to...something else.
+
+5
+00:00:13,061 --> 00:00:14,046
+我该怎么做?
+What do I do?
+
+6
+00:00:14,046 --> 00:00:16,052
+去按那些按钮
+That button has to be pushed.
+
+7
+00:00:22,010 --> 00:00:24,008
+我从来都没有输入过那些数字
+I never entered the numbers.
+
+8
+00:00:24,058 --> 00:00:27,014
+我从来没碰过那些按钮
+I never pressed the button.
+
+9
+00:00:27,014 --> 00:00:28,033
+你说谎
+You're lying.
+
+10
+00:00:28,039 --> 00:00:31,060
+没有 我从不说谎
+No, I'm done lying.
+
+11
+00:00:31,096 --> 00:00:34,083
+的确是降落伞
+It's a parachute.
+
+12
+00:00:49,058 --> 00:00:52,094
+这样 bernard 谷类食品放在左边
+All right.Cereal goes on the left, Bernard.
+
+13
+00:00:55,021 --> 00:00:56,083
+这样做会让你很麻烦吗?
+So this isn't bothering you at all?
+
+14
+00:00:56,083 --> 00:00:58,046
+哪里的话
+What's "this"?
+
+15
+00:00:58,046 --> 00:01:00,008
+好的 就是这个
+Well, this.
+
+16
+00:01:00,089 --> 00:01:01,058
+这个
+This.
+
+17
+00:01:01,058 --> 00:01:04,027
+为什么这么一包土豆条却让我感到困惑?
+Why is a bag of potato chips gonna bother me?
+
+18
+00:01:04,027 --> 00:01:07,039
+难道你对这些东西是从哪儿来的就不感到一点好奇?
+Well, aren't you remotely curiousas to where all this came from?
+
+19
+00:01:07,039 --> 00:01:09,072
+你就像刚从超市回来一样
+You're acting like we just got back from the supermarket.
+
+20
+00:01:09,072 --> 00:01:14,032
+好的 我猜想我从来没有因为我所受到的恩惠而被质疑过
+Well, I guess I was raised never to question my blessings.
+
+21
+00:01:14,032 --> 00:01:18,046
+我却对这些贴上古怪标签的食物感到奇怪
+I was raised to question piles of food with weird labels
+
+22
+00:01:18,046 --> 00:01:20,063
+rose 这简直就是天上掉下来的馅饼
+that just fall out of the sky, Rose.
+
+23
+00:01:20,063 --> 00:01:22,021
+亲爱的 只是因为天气不好吗?
+Well, honey,just because you're having a bad day,
+
+24
+00:01:22,021 --> 00:01:23,096
+但也不用扯着嗓子喊啊
+doesn't mean you have to raise your voice.
+
+25
+00:01:23,096 --> 00:01:25,071
+天气不好?我在这个岛的另外一边过了7个星期的糟糕日子,
+Bad day? I've had seven weeks of bad days on the other side of the island,
+
+26
+00:01:25,071 --> 00:01:28,021
+只是努力活着 从而回到你的身边
+just trying to stay alive so I could get back to you.
+
+27
+00:01:28,021 --> 00:01:29,058
+但是这却...
+But here...
+
+28
+00:01:31,058 --> 00:01:36,064
+天哪 Rose 他们在沙滩上建了个厨房
+my god, Rose,they've built a kitchen on the beach.
+
+29
+00:01:37,046 --> 00:01:39,027
+他们已经放弃了
+They've given up.
+
+30
+00:01:39,027 --> 00:01:42,021
+放弃?放弃什么?
+Given up? On what?
+
+31
+00:01:42,021 --> 00:01:44,033
+放弃离开这
+On getting rescued.
+
+32
+00:02:22,064 --> 00:02:23,083
+你要处理下那个玩意儿吗?
+You gonna get that?
+
+33
+00:02:43,084 --> 00:02:46,031
+你最后一次进去见他是什么时候
+When's the last time you went in to see him?
+
+34
+00:02:46,037 --> 00:02:48,074
+几个小时前 他正在睡觉
+Couple hours ago. He was sleeping.
+
+35
+00:02:48,081 --> 00:02:52,054
+-他吃了吗  -没有
+-Did he eat  -Nope.
+
+36
+00:02:52,061 --> 00:02:54,055
+到现在已经两天了
+That's two days now.
+
+37
+00:02:54,062 --> 00:02:58,052
+不吃不喝  什么都不说
+No food. No water. Nothing to say.
+
+38
+00:02:59,042 --> 00:03:03,015
+我不知道你是怎么想的  我是等的不耐烦了
+I don't know about you, but I'm tired of waiting.
+
+39
+00:03:18,067 --> 00:03:20,066
+我听说你没有什么胃口
+I hear you've lost your appetite.
+
+40
+00:03:25,091 --> 00:03:27,051
+好样的 不说拉倒
+OK. Don't talk.
+
+41
+00:03:28,058 --> 00:03:31,092
+我向来对和病人沟通就不擅长
+I was never that good at bedside manner, anyway.
+
+42
+00:03:31,099 --> 00:03:32,020
+让我来给你肩膀的伤口换个药
+I'm gonna change your dressing.
+
+43
+00:03:32,051 --> 00:03:34,021
+如果你想打什么主意的话 那你就有大麻烦了 所以 henry
+If you try anything, we've got a problem. So, Henry...
+
+44
+00:03:54,048 --> 00:03:55,060
+Henry.
+
+45
+00:03:55,068 --> 00:04:01,044
+我正在想在我们调查清楚出 你到底是谁之前说些什么
+I was thinking about something you were saying before we found out who you are.
+
+46
+00:04:02,048 --> 00:04:04,047
+这有点痛
+This is gonna sting.
+
+47
+00:04:07,009 --> 00:04:11,085
+你一直说如果你是他们的其中一员的话
+Yeah, you were saying that if you were one of them,
+
+48
+00:04:11,093 --> 00:04:13,092
+你就会把我们带进陷阱
+that you'd lead us into a trap.
+
+49
+00:04:14,083 --> 00:04:19,079
+绑架我们的人 和我们做交易 用你做交易
+Capture our people, force a trade. Us for you.
+
+50
+00:04:22,037 --> 00:04:24,080
+Henry 这真是个好主意
+Pretty good idea, Henry.
+
+51
+00:04:24,087 --> 00:04:29,067
+既然你是他们中的其中一员 我想你现在最好充分利用时间
+And since you are one of them, I thought now might be a good time to use it.
+
+52
+00:04:31,071 --> 00:04:35,031
+我打算越过那条不应该被越过的界线
+I'm going out to the line that we're not supposed to cross
+
+53
+00:04:35,038 --> 00:04:38,008
+告诉他们你在我们手上
+and telling them that we've got you.
+
+54
+00:04:38,015 --> 00:04:40,092
+如果他们想带你回去 那就得拿东西来换
+And if they want you back, it's gonna cost 'em.
+
+55
+00:04:45,016 --> 00:04:47,042
+当我们把Walt换回来
+And when we get Walt back...
+
+56
+00:04:50,036 --> 00:04:53,042
+那你惹的这些麻烦也算值了
+you might just have been worth all the trouble.
+
+57
+00:04:58,004 --> 00:05:00,006
+那你惹的这些麻烦也算值了
+Did you say something?
+
+58
+00:05:03,051 --> 00:05:05,050
+他们不会把walt还给你们的
+They'll never give you Walt.
+
+59
+00:05:06,020 --> 00:05:14,020
+声明: 本字幕由YYeTs美剧字幕组原创翻译制作
+欢迎访问官方论坛  www.YYeTs.net 在线观看 剧情讨论 学习交流
+
+60
+00:05:14,070 --> 00:05:19,020
+=====本字幕由以下成员荣誉制作 感谢他们的无私奉献======
+翻译：Singa校对： BillSky
+后期：xyz 双语制作：DrunkBat
+========== 字幕总监制：七色九天 ==========
+
+61
+00:05:37,041 --> 00:05:40,028
+别踩油门 要不只会越陷越深
+Don't gun it. You're digging yourself in.
+
+62
+00:05:40,035 --> 00:05:42,084
+-油门一点一点加  -恕我直言
+-Just tap the gas, lightly.  -All due respect,
+
+63
+00:05:42,092 --> 00:05:45,091
+我都在雪地里开了一辈子车了 你介意我往后退一点吗
+I have driven in snow my whole life. Mind stepping back?
+
+64
+00:05:45,099 --> 00:05:48,092
+你介意我往后退一点吗 你这样做不能
+You have to rock it out. You're not gonna be able to...
+
+65
+00:05:53,069 --> 00:05:57,029
+-我打"AAA"吧  -为什么 难到这样他们就会送一个拖车过来
+-I'm calling triple A.  -What, so they can send a tow truck?
+
+66
+00:05:57,036 --> 00:05:59,046
+相信我 我能搞定这一切
+Trust me, I can do this.
+
+67
+00:06:05,027 --> 00:06:07,057
+好的 慢慢往上加一点油门
+OK. Ease on the gas.
+
+68
+00:06:08,074 --> 00:06:11,001
+就是这样 你做得真棒
+That's it. You're doing great!
+
+69
+00:06:13,091 --> 00:06:15,035
+差不多了
+Almost!
+
+70
+00:06:16,015 --> 00:06:18,014
+继续 继续 继续  啊
+Go, go, go!
+
+71
+00:06:21,022 --> 00:06:22,085
+你 你还好吗?
+Are you OK?
+
+72
+00:06:24,006 --> 00:06:27,012
+是的 我很好
+Oh, yeah. Sure, I'm fine.
+
+73
+00:06:27,086 --> 00:06:31,023
+你知道的 我几乎快要把它弄出来了
+you know I would have gotten it out eventually.
+
+74
+00:06:31,030 --> 00:06:34,043
+当然 7月份马上就要到了
+sure. July's right around the corner.
+
+75
+00:06:37,044 --> 00:06:40,037
+是的 感谢你帮助我
+Well, thanks for helping me.
+
+76
+00:06:40,044 --> 00:06:42,027
+不客气
+Sure.
+
+77
+00:06:42,034 --> 00:06:44,071
+顺便说一句 我叫rose
+By the way, I'm Rose.
+
+78
+00:06:45,048 --> 00:06:48,018
+-我叫bernard  -对
+-Oh...Bernard.  -Yeah.
+
+79
+00:06:49,095 --> 00:06:53,098
+-好的  -好的 好
+-OK.  -Oh, OK. Yeah. OK.
+
+80
+00:06:59,033 --> 00:07:02,052
+-小心驾驶  -当然 你也小心
+-Drive Drive safe, now, OK  -Yeah, yeah. You too.
+
+81
+00:07:11,051 --> 00:07:16,037
+-嗯  Bernard  -怎么了
+-Um... Uh, Bernard?  -Yeah?
+
+82
+00:07:18,055 --> 00:07:20,091
+我能请你喝一杯咖啡吗
+Can I buy you a cup of coffee?
+
+83
+00:07:23,055 --> 00:07:25,028
+啊 咖啡不错
+Coffee would be nice.
+
+84
+00:07:26,015 --> 00:07:28,075
+是的 就这么说
+Yeah. OK.
+
+85
+00:07:35,040 --> 00:07:39,080
+这可是我和其他人抢了半天才得到的 特意为你留的
+I had to beat back half the group to get these. I saved them for you.
+
+86
+00:07:39,087 --> 00:07:41,084
+这不行  我在减肥
+No way. I'm on a new diet.
+
+87
+00:07:41,090 --> 00:07:45,050
+只吃鱼 只喝水
+Nothing but fish and water and...
+
+88
+00:07:45,057 --> 00:07:47,013
+鱼和水
+fish and water.
+
+89
+00:07:47,021 --> 00:07:50,051
+Hurley 你在做什么
+Hurley, what are you doing right now?
+
+90
+00:07:50,058 --> 00:07:52,027
+-和你妻子说话  -好的
+-Talking to your wife.  -Good.
+
+91
+00:07:52,035 --> 00:07:55,025
+你能找到libby  5分钟后和她到那边的树那边见我吗
+Can you and Libby meet me at the tree line in five minutes?
+
+92
+00:07:55,032 --> 00:07:58,034
+去叫一下Jin和Sun 还有Jenkins和那个做冷冻酸奶的家伙
+And can you get Jin and Sun, Jenkins, and that frogurt guy?
+
+93
+00:07:58,042 --> 00:08:00,044
+-那个做冷冻酸奶的家伙?  -Neil
+-The guy who made frozen yogurt?  -Neil
+
+94
+00:08:00,052 --> 00:08:03,042
+是的  还有craig以及你能找到的任何人
+Yeah. And Craig, and anybody else you can get.
+
+95
+00:08:03,049 --> 00:08:05,092
+Bernard  你要干吗
+Bernard? What are you up to?
+
+96
+00:08:05,099 --> 00:08:07,098
+我有个主意
+I got an idea.
+
+97
+00:08:08,033 --> 00:08:11,079
+Richard  Craig  Ralph 到这来 我有一个好主意
+Hey, Richard, Craig, Jerome, come here. I got a great idea...
+
+98
+00:08:15,010 --> 00:08:17,037
+我还是不确定他们到底愿不愿意换人
+I'm not sure trading people's their thing.
+
+99
+00:08:17,044 --> 00:08:19,077
+与他谈话也没有什么用
+talking to him is getting us nowhere.
+
+100
+00:08:19,084 --> 00:08:22,060
+所以 也许我们能给他想要的东西
+So, maybe we can get something for him.
+
+101
+00:08:23,068 --> 00:08:25,067
+你要我和你一起去吗?
+You want me to come with you?
+
+102
+00:08:29,005 --> 00:08:30,078
+所以 也许我们能给他想要的东西
+You need to stay here.
+
+103
+00:08:35,072 --> 00:08:37,082
+你只要待在这就好
+You need it more than I do.
+
+104
+00:08:41,020 --> 00:08:43,019
+哥们 听我的
+Do yourself a favor, man.
+
+105
+00:08:44,006 --> 00:08:47,026
+-别单独去那  -好的
+-Don't go out there alone.  -All right.
+
+106
+00:08:50,030 --> 00:08:52,043
+哈哈 原来是这样的
+Ha-ha! That's how it's done.
+
+107
+00:08:52,051 --> 00:08:54,017
+正看着你呢
+well, look at you.
+
+108
+00:08:54,024 --> 00:08:57,034
+那好像是 半个小时里的第四个吧
+What, that's like four in the last half hour?
+
+109
+00:08:57,041 --> 00:08:59,074
+让我去叫吉尼斯纪录吧
+Let me call the Guinness book.
+
+110
+00:08:59,081 --> 00:09:03,051
+你到底帮不帮我   我还要用我的时间多做些事呢
+You want help or not? 'Cause I've got better things to do with my time.
+
+111
+00:09:04,045 --> 00:09:07,085
+快乐的一天 我们的微笑医生过来了
+happy day. Here comes Dr. Giggles.
+
+112
+00:09:09,092 --> 00:09:12,019
+嗨  一个人啊
+Hey, yourself.
+
+113
+00:09:13,043 --> 00:09:16,083
+我要再回到丛林里找 那个长胡子的"老朋友"谈谈
+I'm going back to the jungle to talk to our friend with the beard.
+
+114
+00:09:16,090 --> 00:09:19,026
+看看我们能不能和他做个交易
+See if we can make a trade.
+
+115
+00:09:19,033 --> 00:09:22,033
+俘虏交换
+the old prisoner exchange.
+
+116
+00:09:22,084 --> 00:09:25,033
+难道你要叫上我一起去  顺便拿到那些枪
+You're inviting me along 'cause you want a gun?
+
+117
+00:09:25,041 --> 00:09:27,087
+我不是在邀请你  我是在邀请kate
+I'm not inviting you, I'm inviting Kate.
+
+118
+00:09:28,088 --> 00:09:31,054
+我已经有一把抢了,不过谢谢帮助.
+And I've already got a gun, but thanks for offering.
+
+119
+00:09:31,061 --> 00:09:33,077
+你他妈的是怎么弄到枪的
+How in the hell did you get a gun?
+
+120
+00:09:33,085 --> 00:09:35,087
+这有意义吗
+Does it matter?
+
+121
+00:09:39,049 --> 00:09:41,032
+我收拾下我的东西
+I'll get my things.
+
+122
+00:09:45,069 --> 00:09:48,092
+好的 我们已经被困在这岛上两个月了吧
+OK, two months we've been on this island. Two months.
+
+123
+00:09:49,000 --> 00:09:51,016
+现在我们已经有了储水罐 
+And already we have a water trough,
+
+124
+00:09:51,023 --> 00:09:54,029
+也有了食物仓库
+and we've got a food pantry,
+
+125
+00:09:54,037 --> 00:09:59,003
+所有人都能在那舱里洗澡
+and people are taking showers in your hatch.
+
+126
+00:09:59,011 --> 00:10:03,010
+难道你们已经忘了我们 是落难到这岛上的吗
+Have you forgotten that we all crashed on this island?
+
+127
+00:10:03,018 --> 00:10:07,048
+-现在好像没有人想回家  -你说什么  我们都想回家
+-It's like none of you want to go home.  -How can you say that? Of course we do.
+
+128
+00:10:07,055 --> 00:10:11,061
+-那为什么我们不为此做点什么  -哥们 我们做过一个木筏
+-Why aren't we doing anything about it?  -Dude, we like built a raft.
+
+129
+00:10:13,012 --> 00:10:15,035
+不过散架了
+But, it got blown up.
+
+130
+00:10:15,042 --> 00:10:18,032
+好的 那么我们现在干吗
+OK. So, what are we doing now?
+
+131
+00:10:18,039 --> 00:10:21,049
+那降落伞里面有那么多食物
+That pallet of food had a parachute,
+
+132
+00:10:21,056 --> 00:10:23,050
+那降落伞里面有那么多食物
+which means a plane dropped it here,
+
+133
+00:10:23,056 --> 00:10:27,002
+那也就意味着会有别的飞机经过这里
+which means there are other planes that fly over the island.
+
+134
+00:10:27,010 --> 00:10:32,077
+所以我们要建造一个标志物 一个在沙滩上巨大的标志物
+So, we are gonna build a sign, a massive sign along the beach.
+
+135
+00:10:32,084 --> 00:10:38,024
+那样的话 如果有飞机飞过这里 或者卫星拍照的时候
+So, that way, if a plane flies over or a satellite takes pictures from up there
+
+136
+00:10:38,031 --> 00:10:42,058
+我们必须有十足的把握  别人知道我们在这该死的岛上
+we wanna make damn sure that they know we're here,
+
+137
+00:10:42,065 --> 00:10:44,034
+让他们知道我们的存在
+that they know about us.
+
+138
+00:10:44,042 --> 00:10:48,041
+也许我们应当先和jack说一下
+Maybe we should speak to Jack about this first.
+
+139
+00:10:49,062 --> 00:10:52,039
+难道我们做什么事都要经过jack批准吗
+do we have to run everything by Jack?
+
+140
+00:10:52,046 --> 00:10:56,026
+我的意思是他并不是我们的总统 他-他只是个医生
+I mean, he's not the president. He's... He's a doctor.
+
+141
+00:10:56,033 --> 00:10:58,032
+而你只是个牙医
+You're a dentist.
+
+142
+00:11:04,024 --> 00:11:06,083
+我能和你说上几分钟吗
+Could I speak to you for just a second?
+
+143
+00:11:07,081 --> 00:11:09,037
+过来
+Come here.
+
+144
+00:11:11,055 --> 00:11:14,048
+亲爱的 这支是个标志物 我看不出有什么不妥
+Honey, it is just a sign. I don't see what the harm is.
+
+145
+00:11:14,055 --> 00:11:18,075
+问题是你说的那些飞机以及
+The harm is you are telling these people about airplanes and satellites
+
+146
+00:11:18,082 --> 00:11:20,091
+不知从哪里冒出来的卫星
+coming out of nowhere to save the day.
+
+147
+00:11:20,099 --> 00:11:24,082
+不知从哪里冒出来的卫星 我想回到属于我的生活中去
+I'm just trying to do something. I want to get back to our life.
+
+148
+00:11:24,089 --> 00:11:29,009
+好样的 唯一不妥的就是 你正在给这里的人们一个错误的希望
+Well, the only thing you are doing is giving these people false hope.
+
+149
+00:11:39,021 --> 00:11:41,030
+对不起
+Excuse me.
+
+150
+00:11:41,038 --> 00:11:43,040
+我自己去造
+I have a sign to build.
+
+151
+00:11:45,051 --> 00:11:49,051
+就这样吧 我希望马上就能开工
+All right, I want to get this going right away.
+
+152
+00:11:49,058 --> 00:11:51,057
+我们已经等的太久了
+We've waited long enough.
+
+153
+00:12:01,040 --> 00:12:03,059
+这简直太棒了 不是吗
+It's just amazing, isn't it?
+
+154
+00:12:04,083 --> 00:12:07,003
+当然 它太漂亮了
+sure, it's beautiful.
+
+155
+00:12:07,083 --> 00:12:11,063
+-感觉你有点心不在焉  -是的
+-You're not impressed  -yeah.
+
+156
+00:12:11,071 --> 00:12:16,070
+那么 上帝要怎么做才能吸引你的注意呢
+So, what does God have to do to get your attention?
+
+157
+00:12:16,078 --> 00:12:19,087
+Bernard  你在想什么
+Bernard? What are you doing?
+
+158
+00:12:31,076 --> 00:12:32,095
+Rose...
+
+159
+00:12:34,073 --> 00:12:37,003
+我打了56年光棍了
+I'd been a bachelor for 56 years.
+
+160
+00:12:37,093 --> 00:12:43,087
+直到我遇见你
+And then I met you and we just fell into this rhythm,
+
+161
+00:12:43,094 --> 00:12:46,057
+就像...我们相遇就像上天安排好了似的
+like we had known each other forever.
+
+162
+00:12:48,027 --> 00:12:51,014
+我总是梦想能找到像你这么好的人
+I had always dreamed of finding somebody like you,
+
+163
+00:12:51,021 --> 00:12:53,061
+但是我不能再错过这样的机会
+but I'd given up hope that I ever would.
+
+164
+00:12:53,068 --> 00:12:56,048
+-Bernard  -我知道 我知道 这太疯狂了
+-Bernard...  -I know, I know. It's crazy.
+
+165
+00:12:57,032 --> 00:12:59,072
+我们才认识五个月
+I mean, we just met five months ago.
+
+166
+00:13:01,096 --> 00:13:04,048
+但是五个月已经足够得久了  
+But five months is long enough
+
+167
+00:13:04,048 --> 00:13:09,048
+因为我知道哪怕只有五分钟 我也会这么想
+because I knew after five minutes.
+
+168
+00:13:11,060 --> 00:13:13,033
+Rose...
+
+169
+00:13:15,010 --> 00:13:16,073
+我爱你
+I love you.
+
+170
+00:13:18,094 --> 00:13:20,074
+你愿意嫁给我吗
+Will you marry me?
+
+171
+00:13:26,015 --> 00:13:28,014
+Bernard  我快要死了
+Bernard, I'm dying.
+
+172
+00:13:33,069 --> 00:13:36,045
+我病的很重 快要死了
+I'm sick, and I'm dying.
+
+173
+00:13:42,073 --> 00:13:45,036
+能让我们单独呆一会儿吗
+Would you excuse us for a minute, please?
+
+174
+00:13:58,045 --> 00:14:03,028
+前几年我的病情一度好转了
+I've been in remission for the last couple of years,
+
+175
+00:14:03,035 --> 00:14:06,081
+但是现在 它不仅回来了反而又加重了
+but now it's back, and this time it's not going away.
+
+176
+00:14:08,059 --> 00:14:12,003
+我的医生告诉我 我只有一年时间
+My doctor says I have about a year...
+
+177
+00:14:12,096 --> 00:14:15,043
+也许还能再长一点
+maybe a little longer.
+
+178
+00:14:31,061 --> 00:14:33,081
+你还没有回答我的问题
+You haven't answered my question.
+
+179
+00:14:35,098 --> 00:14:38,051
+你确定吗
+Are you sure?
+
+180
+00:14:44,026 --> 00:14:45,099
+你确定吗
+Oh, I'm sure.
+
+181
+00:14:53,053 --> 00:14:54,097
+我愿意
+Yes.
+
+182
+00:14:56,087 --> 00:14:58,034
+我愿意
+Yes.
+
+183
+00:15:05,018 --> 00:15:08,098
+怎么 你和我一起待了48天 现在你却不和我讲话
+Well, you bunk with a guy for 48 days, now he doesn't call or write.
+
+184
+00:15:09,005 --> 00:15:10,068
+你好  Bernard
+Hello, Bernard.
+
+185
+00:15:11,065 --> 00:15:15,065
+-你们两个在干什么  -工作
+-What have you boys got going up here  -Just working.
+
+186
+00:15:15,072 --> 00:15:21,016
+这样 听好了 我组织了一群人 要在海滩上建一个巨大的标志物
+I got a team of folks throwing together a big sign down along the beach.
+
+187
+00:15:21,023 --> 00:15:24,006
+希望能有飞机或是卫星发现我们
+Hopefully it'll get us spotted by a plane or satellite.
+
+188
+00:15:24,013 --> 00:15:27,019
+我们确信我们要有足够的人手来帮忙
+We could use all the bodies we can get to help put it together.
+
+189
+00:15:27,027 --> 00:15:29,013
+对不起 我很忙
+Sorry, I'm busy.
+
+190
+00:15:30,090 --> 00:15:32,074
+-Charlie  -对不起 Bernard 
+-Charlie  -Regrets, Bernard,
+
+191
+00:15:32,081 --> 00:15:36,050
+我只有两只手  但还是祝你好运
+I've only got two hands, you know? Good luck, though.
+
+192
+00:15:39,038 --> 00:15:41,054
+好的 至少能给我几根大木头吗
+Could I at least grab some of these logs?
+
+193
+00:15:41,062 --> 00:15:43,098
+-我们要用  -我们正在用它们
+-We could sure use...  -We're using them.
+
+194
+00:15:44,005 --> 00:15:46,085
+-到底用来干嘛  -一座教堂
+-For what, exactly  -A church.
+
+195
+00:15:49,069 --> 00:15:52,006
+-一座教堂  -是的
+-A church  -Yes.
+
+196
+00:15:53,019 --> 00:15:56,019
+岛上的每一个人都在建些东西
+Everybody on this island is building something.
+
+197
+00:15:56,026 --> 00:15:58,032
+我只是想让我们获救
+I'm trying to get us saved.
+
+198
+00:15:59,087 --> 00:16:02,073
+bernard 每个人都有各自的方法
+People are saved in different ways, Bernard.
+
+199
+00:16:04,067 --> 00:16:08,066
+我想我还是更喜欢 那个用木棒打自己同伴的你
+I think I liked you better when you just hit people with your stick.
+
+200
+00:16:12,065 --> 00:16:14,074
+我还是喜欢现在的你
+I like you just the way you are.
+
+201
+00:16:45,091 --> 00:16:48,011
+我要和他说话
+I need to talk to him.
+
+202
+00:16:48,018 --> 00:16:51,021
+枪给jack了 门不能开
+The gun's with Jack. The door stays closed.
+
+203
+00:16:53,069 --> 00:16:56,012
+但是如果你坚持要 就去说吧
+But if you wanna talk to him, talk to him.
+
+204
+00:17:10,064 --> 00:17:12,066
+Henry 你能听见我说话吗
+Henry, can you hear me?
+
+205
+00:17:16,068 --> 00:17:18,030
+是我John  Henry.
+It's John, Henry.
+
+206
+00:17:26,049 --> 00:17:29,015
+Henry 你输入过那些数字吗
+Henry, did you enter the numbers?
+
+207
+00:17:31,093 --> 00:17:34,019
+你到底有没有按按钮啊
+Did you push the button or not?
+
+208
+00:17:36,016 --> 00:17:40,036
+Henry! 我要知道 我要你回答我
+Henry! I need to know! I want you to answer me!
+
+209
+00:17:42,020 --> 00:17:43,053
+回答我
+Answer me!
+
+210
+00:17:44,064 --> 00:17:46,070
+henry你能听见我说话吗
+Answer me, you hear me?
+
+211
+00:18:01,052 --> 00:18:03,092
+大家都怎么了?
+What happened to everybody?
+
+212
+00:18:03,099 --> 00:18:06,065
+嗯 craig在哪儿  frogurt去哪儿了
+Where's Craig? Where's Frogurt?
+
+213
+00:18:08,020 --> 00:18:12,089
+好吧 好吧 咱们继续 我们要把标志物弄满整个沙滩
+OK, all right, moving on. We're gonna put this sign across this entire beach.
+
+214
+00:18:12,097 --> 00:18:18,020
+也就是说字母必须足够大  40英尺左右
+Which means the letters have to be really big, about 40 feet.
+
+215
+00:18:18,027 --> 00:18:23,004
+这些黑石头要尽可能的与这些沙子区分开来
+These black rocks will get maximum contrast with the sand.
+
+216
+00:18:23,011 --> 00:18:25,048
+伙计 我们好像要更多的石头
+Dude, we're gonna need a lot more rocks.
+
+217
+00:18:25,055 --> 00:18:29,017
+是的 hurley我们的确要更多的石头
+Yes, Hurley, we are gonna need a lot more rocks.
+
+218
+00:18:29,025 --> 00:18:33,002
+内岛大概半英里有一片石灰岩
+There's a lava field about half a mile inland that's loaded with them.
+
+219
+00:18:33,009 --> 00:18:35,005
+我们要把它们搬过来 我们要分成两人一组
+We'll haul them out in two-man teams.
+
+220
+00:18:35,012 --> 00:18:37,002
+所以你们两个一组
+So, you guys double up,
+
+221
+00:18:37,009 --> 00:18:41,079
+我在沙滩上做字母的图形 我们开工吧
+and I am gonna start sketching out the letters in the sand. Let's do this.
+
+222
+00:18:41,086 --> 00:18:44,033
+嗨 我可以做字母的图形
+Hey, I can sketch the letters.
+
+223
+00:18:44,040 --> 00:18:47,073
+每一个人都有工作 hurley. 我做我的 你做你的
+Everybody's got a job, Hurley. I do my job, you do yours.
+
+224
+00:18:50,094 --> 00:18:53,050
+什么 他在说什么
+What? What did he say?
+
+225
+00:18:53,057 --> 00:18:56,067
+我想他对整个关于从半英里外的地方 运石头过来并不感到疯狂
+I think he's not so crazy about the whole carry-the-rocks-a-half-mile thing.
+
+226
+00:18:56,074 --> 00:18:59,044
+好吧  嗯 这需要时间
+OK. Look, this is gonna take time,
+
+227
+00:18:59,051 --> 00:19:04,042
+但是只有这样才能让我们离开这个地方 这不值得吗
+but if this is the thing that gets us off this place, isn't that worth it?
+
+228
+00:19:04,048 --> 00:19:06,082
+你知道的 罗马也不是一天建成的
+Rome wasn't built in a day, you know.
+
+229
+00:19:07,045 --> 00:19:11,005
+啊 不 你不知道...好了我们开始吧 加油干
+No, you don't know. OK, all right, let's get started. Come on.
+
+230
+00:19:15,073 --> 00:19:16,096
+我们迷路了
+We're lost.
+
+231
+00:19:17,003 --> 00:19:19,069
+甜心 这可不是你说迷路就迷路哦
+You saying we're lost doesn't make us lost.
+
+232
+00:19:19,077 --> 00:19:21,089
+我知道我们在哪儿
+I know exactly where we are.
+
+233
+00:19:21,097 --> 00:19:23,066
+我也是
+Me, too.
+
+234
+00:19:23,074 --> 00:19:27,007
+我知道我们在澳洲内陆原地打转呢
+Driving around in circles in the middle of the outback.
+
+235
+00:19:28,011 --> 00:19:31,057
+那就是为什么我想去海边度蜜月了
+That's why I wanted to be on a beach for our honeymoon.
+
+236
+00:19:34,015 --> 00:19:36,051
+谢天谢地 文明世界
+Thank goodness, civilization.
+
+237
+00:19:37,028 --> 00:19:39,008
+Bernard 我们去明确一下方向
+Bernard, let's get directions.
+
+238
+00:19:39,015 --> 00:19:41,031
+哦 我不需要方向
+Oh, I don't need directions.
+
+239
+00:19:41,039 --> 00:19:43,032
+我告诉过你 亲爱的 我们没有迷路
+I told you, honey, we're not lost.
+
+240
+00:19:45,033 --> 00:19:47,089
+Bernard 怎么了
+Bernard, what's going on?
+
+241
+00:19:49,016 --> 00:19:53,079
+我带你来这里 是因为我要你来见一个人
+I brought you out here because I want you to see this man.
+
+242
+00:19:54,063 --> 00:19:59,083
+他叫 isaac of uluru  他已经帮助了成百上千的人
+His name is Isaac of Uluru, and he's helped hundreds of people.
+
+243
+00:20:01,004 --> 00:20:04,037
+现在 我知道这看上去怎样  但是请相信我 他完全信得过
+Now, I know how it looks but, believe me, he is completely legit.
+
+244
+00:20:05,015 --> 00:20:09,041
+Bernard 你带我来做信仰治疗
+Bernard, you brought me to a faith healer?
+
+245
+00:20:15,032 --> 00:20:17,076
+他真的可以帮上忙 rose
+He's the real deal, Rose.
+
+246
+00:20:17,082 --> 00:20:20,055
+曾经我告诉别人你的情况
+Once I started telling people about your situation,
+
+247
+00:20:20,063 --> 00:20:22,053
+接到到三个不同的电话都向我推荐他
+I got three calls recommending him.
+
+248
+00:20:22,060 --> 00:20:24,076
+我的情况
+My "situation"?
+
+249
+00:20:26,000 --> 00:20:29,016
+这就是为什么要我来澳大利亚的原因
+This is why you wanted to come to Australia?
+
+250
+00:20:29,024 --> 00:20:33,026
+-带我来看一个怪人  -不 他不是怪人
+-To bring me to some kind of a kook?  -No, he's not.
+
+251
+00:20:33,034 --> 00:20:36,043
+Rose 我捐了 $10,000 只是为了带你来见他
+I made a $10,000 donation just to get you in to see him.
+
+252
+00:20:36,051 --> 00:20:39,045
+-基本看来  -我不需要
+-Normally...  -I didn't ask for this!
+
+253
+00:20:48,029 --> 00:20:49,085
+这只是
+This is...
+
+254
+00:20:54,056 --> 00:20:56,003
+Bernard...
+
+255
+00:20:57,013 --> 00:21:01,016
+我可以平静得面对发生在我身上的一切
+I have made my peace with what's happening to me.
+
+256
+00:21:05,021 --> 00:21:07,033
+但是我不能
+I haven't.
+
+257
+00:21:08,098 --> 00:21:11,027
+rose 我不能什么也不做
+I can't just do nothing, Rose.
+
+258
+00:21:12,075 --> 00:21:15,015
+这不是我 这不是真实的我
+That's not me. That's not who I am.
+
+259
+00:21:16,045 --> 00:21:18,042
+我得去尝试
+I have to try.
+
+260
+00:21:20,075 --> 00:21:23,031
+rose 你愿意尝试吗
+Will you try, Rose?
+
+261
+00:21:26,086 --> 00:21:28,085
+为了我
+For me.
+
+262
+00:21:35,017 --> 00:21:37,060
+好的 这很棒 这真是个巨大的标志物
+It's gonna be great. A really big sign.
+
+263
+00:21:37,067 --> 00:21:39,007
+太棒了
+That's great.
+
+264
+00:21:39,014 --> 00:21:42,080
+如果你有时间来修你的房子  你就有时间来搬那些石头
+If you have time to fix your hut, you have time to move some rocks.
+
+265
+00:21:43,094 --> 00:21:45,094
+我们需要你的帮忙
+Come on, we could really use your help.
+
+266
+00:21:46,001 --> 00:21:49,091
+你在联合他们建沙场遇到了麻烦 对吗
+What? You got union trouble down at the sand factory, Norma Rae?
+
+267
+00:21:51,085 --> 00:21:54,088
+来吧 sawyer 我需要你的帮忙
+Come on, Sawyer. I need your help.
+
+268
+00:21:54,096 --> 00:21:57,025
+你说呢  没门
+Now, what do you say?
+
+269
+00:21:57,032 --> 00:22:00,082
+我说
+I say... Pasadena.
+
+270
+00:22:15,071 --> 00:22:18,074
+-我希望你能开心  -关于什么
+-Well, I hope you're happy.  -About what?
+
+271
+00:22:18,081 --> 00:22:22,087
+早上我还有15个人愿意一起造那个标志物 但是现在就只剩4个了
+This morning I had 15 people willing to work on the sign. Now I'm down to four.
+
+272
+00:22:22,095 --> 00:22:25,014
+是我的过错吗
+And how is that my fault?
+
+273
+00:22:25,022 --> 00:22:28,019
+至少我希望得到你的支持
+At the very least, I expected your support.
+
+274
+00:22:28,026 --> 00:22:30,002
+但是你却公然反对我
+You had to go and attack me.
+
+275
+00:22:30,009 --> 00:22:33,079
+你还停下来好好想过  那些人退出的原因
+Have you ever stopped to think, maybe the reason people are quitting
+
+276
+00:22:34,016 --> 00:22:37,043
+是你的管理方法上出了问题
+is because you've got yourself a management problem?
+
+277
+00:22:39,063 --> 00:22:42,047
+rose 你到底是怎么了
+What is the matter with you, Rose?
+
+278
+00:22:42,054 --> 00:22:44,037
+我只是想试着做些什么
+I am just trying to do something.
+
+279
+00:22:44,044 --> 00:22:46,093
+那就对了 你总是在尝试做着什么
+That's right. You're always trying to do.
+
+280
+00:22:47,001 --> 00:22:49,067
+为什么你不能任其自然呢
+Why can't you just let things be?
+
+281
+00:22:51,078 --> 00:22:55,041
+如果我没有努力尝试 你就不会在这
+If I didn't always have to do something, you wouldn't be here.
+
+282
+00:23:21,067 --> 00:23:23,034
+我很荣幸
+I'm flattered.
+
+283
+00:23:24,041 --> 00:23:25,097
+嗯? 为什么
+Yeah? Why is that?
+
+284
+00:23:26,005 --> 00:23:29,014
+因为你选择我和你一起去而不是sawyer
+Because you chose me to go with you instead of Sawyer.
+
+285
+00:23:30,005 --> 00:23:32,088
+我先问的sayid 但是  他拒绝了我
+I asked Sayid first, but he turned me down.
+
+286
+00:23:34,042 --> 00:23:38,012
+我只有问你 因为 他们 不需要你
+And I only asked you because they don't want you.
+
+287
+00:23:38,019 --> 00:23:41,022
+他们抓住你不放 用枪威胁你
+They grabbed you, had you at gunpoint.
+
+288
+00:23:41,029 --> 00:23:43,066
+他们本可以抓走你 但却没有
+They coulda kept you, but they didn't.
+
+289
+00:23:43,073 --> 00:23:46,096
+话说回来 他们也不需要我
+Then again, they didn't really want me either.
+
+290
+00:23:47,003 --> 00:23:50,099
+损坏的货物  我们两个
+Damaged goods... both of us.
+
+291
+00:24:04,018 --> 00:24:06,017
+那是什么
+What's that?
+
+292
+00:24:10,042 --> 00:24:11,072
+Kate...
+
+293
+00:24:13,083 --> 00:24:16,016
+-是个玩具  -等等 等等 不
+-It's a doll.  -Wait, don't!
+
+294
+00:24:18,036 --> 00:24:19,085
+别 别
+Don't! Don't!
+
+295
+00:24:27,021 --> 00:24:28,057
+对不起
+Sorry.
+
+296
+00:24:37,042 --> 00:24:40,022
+-你还好吗  -是的
+-You OK?  -Yeah.
+
+297
+00:24:40,029 --> 00:24:42,028
+还好能听见我讲话
+good, so you can hear me.
+
+298
+00:24:44,072 --> 00:24:46,045
+这不会是他们设置的一个陷阱吧
+This isn't one of theirs.
+
+299
+00:24:46,053 --> 00:24:49,009
+不 这还不够老练
+No, it's not sophisticated enough.
+
+300
+00:24:49,076 --> 00:24:53,053
+一定是rousseau做的其中一个陷阱 希望她离这不是很远
+Must be one of Rousseau's traps. Hopefully she's not far from here.
+
+301
+00:24:53,060 --> 00:24:56,019
+也许她一个星期后才出现
+Could be a week before she shows up.
+
+302
+00:24:58,020 --> 00:25:01,026
+-你在干什么  -我正试着那我的枪
+-What are you doing?  -I'm trying to get the gun.
+
+303
+00:25:01,034 --> 00:25:05,054
+-我的手翻不过来  -好的 这 我来
+-I can't get my arm around.  -All right, here, let me...
+
+304
+00:25:05,061 --> 00:25:06,091
+好的
+All right.
+
+305
+00:25:11,045 --> 00:25:14,032
+对不起  我可不想对你开枪
+Sorry, I don't want to shoot you.
+
+306
+00:25:16,009 --> 00:25:17,018
+好的
+OK.
+
+307
+00:25:17,026 --> 00:25:18,052
+你拿到了吗
+You got it?
+
+308
+00:25:18,059 --> 00:25:20,022
+-好的 准备好了吗  -是的
+-OK, ready?  -Yeah.
+
+309
+00:25:20,029 --> 00:25:22,042
+拿到了 拿到了 拿到了
+Got it! Got it, got it, got it!
+
+310
+00:25:23,043 --> 00:25:26,056
+-这 拿到了  -现在把枪给我
+-Got it.  -All right. Now, give me the gun.
+
+311
+00:25:26,063 --> 00:25:29,093
+-为什么  -试着射那个结
+-Why? What for?  -I'm gonna try to shoot the rope.
+
+312
+00:25:34,001 --> 00:25:36,031
+我的枪法比你准
+I'm a better shot than you.
+
+313
+00:25:36,038 --> 00:25:37,054
+真的吗
+Oh, really?
+
+314
+00:25:37,061 --> 00:25:40,070
+当然 我告诉过你  我从小和我父亲一起打猎
+Yeah. I told you, I grew up hunting with my dad.
+
+315
+00:25:47,045 --> 00:25:48,075
+该死的
+Damn it!
+
+316
+00:25:48,082 --> 00:25:52,012
+好样的 至少他们知道我们在哪里了 好的 现在把枪给我
+at least they know where we are. OK, now, give me the gun.
+
+317
+00:25:52,019 --> 00:25:55,009
+-难道你还要再浪费一颗子弹吗  -别担心
+-Are you gonna waste another bullet?  -Don't worry.
+
+318
+00:25:55,016 --> 00:25:58,010
+我们还有13颗可以互相射击的子弹 加油
+We'll still have 13 more to shoot each other with. Come on.
+
+319
+00:25:58,016 --> 00:26:01,040
+好的  反正你的角度比我的好
+Fine. You have a better angle than I anyway.
+
+320
+00:26:01,047 --> 00:26:04,033
+如果我射中了你就把这当作借口吧
+that's gonna be your excuse when I make the shot?
+
+321
+00:26:04,040 --> 00:26:06,057
+如果你打中的话
+When you make the shot.
+
+322
+00:26:10,051 --> 00:26:11,091
+好的
+OK.
+
+323
+00:26:23,009 --> 00:26:24,085
+好枪法
+Nice shot.
+
+324
+00:26:27,099 --> 00:26:30,055
+不!不!不!不!不!不!
+No! No-no-no-no-no!
+
+325
+00:26:30,063 --> 00:26:32,050
+全做错了
+You're doing it all wrong!
+
+326
+00:26:32,057 --> 00:26:34,076
+我告诉过你排成三行
+I told you, three rows!
+
+327
+00:26:35,060 --> 00:26:38,047
+三行 那样你才可以从天上看见它
+Three, so they can see it from the air!
+
+328
+00:26:40,074 --> 00:26:43,064
+三行 那又有多难
+Three rows. How hard is that?
+
+329
+00:26:47,021 --> 00:26:50,021
+难道什么都要我自己做吗
+Do I have to do everything myself?
+
+330
+00:26:53,095 --> 00:26:56,055
+不! 不!不!不! 不!jin 不!等等
+No. No-no-no! No, Jin! No, wait.
+
+331
+00:26:57,059 --> 00:26:58,092
+求求你
+Please.
+
+332
+00:26:59,093 --> 00:27:03,042
+我只是想带我妻子回家
+I just want to get my wife home.
+
+333
+00:27:05,006 --> 00:27:06,040
+Rose.
+
+334
+00:27:08,067 --> 00:27:11,016
+我想带Rose回家
+I want to get Rose home.
+
+335
+00:27:16,024 --> 00:27:17,068
+对不起
+Sorry.
+
+336
+00:27:34,086 --> 00:27:37,002
+你在我的地盘上
+You're in my spot.
+
+337
+00:27:40,090 --> 00:27:42,033
+我可以走
+I can move.
+
+338
+00:27:43,034 --> 00:27:46,064
+-你可以吗  -噢 那很有趣
+-Can you?  -Oh, that's funny.
+
+339
+00:27:48,044 --> 00:27:52,090
+我猜你的幽默感和你腿一起被困在门里面了
+I guess your sense of humor got trapped under that door with your leg.
+
+340
+00:27:56,055 --> 00:28:00,058
+我看见你丈夫走进丛林了 搬石头
+I saw your husband walking through the jungle, hauling rocks.
+
+341
+00:28:02,019 --> 00:28:07,092
+他正在在沙滩上建一个巨大的标志物 那样卫星可以看见它
+He's building a big sign in the sand, so the satellites will see it.
+
+342
+00:28:09,083 --> 00:28:14,046
+他还不能区分什么是徒劳无功
+That man doesn't know the difference between an errand and a fool's errand.
+
+343
+00:28:17,040 --> 00:28:19,067
+这样 rose 我们中绝大多数都不能
+Well, Rose, most of us don't.
+
+344
+00:28:21,004 --> 00:28:23,013
+那么你来这下面干什么 john
+So, what are you doing down here, John?
+
+345
+00:28:23,021 --> 00:28:26,065
+我都不记得上一次你走出舱门是什么时候的事
+Can't remember the last time I saw you out of that hatch.
+
+346
+00:28:29,005 --> 00:28:31,004
+我受不了那个舱了
+I'm done with the hatch.
+
+347
+00:28:31,075 --> 00:28:34,002
+你现在只是心情比较沮丧
+now, you're just frustrated.
+
+348
+00:28:34,009 --> 00:28:39,096
+你很快就能丢掉那个夹板在岛上到处跑了
+You'll be out of that splint and running around the island again in no time.
+
+349
+00:28:40,003 --> 00:28:43,029
+jack说这至少得用上4个星期
+And yet, Jack said it'd be at least four weeks.
+
+350
+00:28:44,023 --> 00:28:48,053
+但是 亲爱的 你和我都知道 其实并没那么久
+But, honey, you and I both know it's not gonna take that long.
+
+351
+00:29:06,062 --> 00:29:08,085
+这边走 Rose
+Right this way, Rose.
+
+352
+00:29:41,012 --> 00:29:43,021
+你就是Rose
+You must be Rose.
+
+353
+00:29:44,052 --> 00:29:46,058
+为什么不坐呢
+Why don't you have a seat?
+
+354
+00:29:51,013 --> 00:29:54,012
+那么 要怎么做
+So, how does this work?
+
+355
+00:29:55,000 --> 00:30:00,053
+我坐在这 你唱赞歌吗或者祈祷或是其他什么
+I sit here and you chant or pray or what?
+
+356
+00:30:01,061 --> 00:30:04,017
+在地球上某个地方有着很巨大的能量
+There are certain places with great energy,
+
+357
+00:30:04,024 --> 00:30:08,004
+就像现在我们所在的地方一样
+spots on the Earth like the one we're above now.
+
+358
+00:30:08,011 --> 00:30:12,057
+可能是地质能量 磁能
+Perhaps this energy is geological, magnetic...
+
+359
+00:30:14,052 --> 00:30:16,085
+或是其他什么
+or perhaps it's something else.
+
+360
+00:30:17,069 --> 00:30:19,072
+在适当的时候
+And, when possible,
+
+361
+00:30:19,079 --> 00:30:24,016
+我接收这些能量把它给别人
+I harness this energy and give it to others.
+
+362
+00:30:25,070 --> 00:30:27,046
+我可以吗
+May I?
+
+363
+00:30:47,062 --> 00:30:48,081
+什么
+What...
+
+364
+00:30:49,076 --> 00:30:51,048
+怎么了
+What... What is it?
+
+365
+00:30:53,089 --> 00:30:55,052
+对不起
+I'm sorry.
+
+366
+00:30:58,050 --> 00:31:00,056
+我不能帮你 Rose
+I can't do anything for you, Rose.
+
+367
+00:31:04,047 --> 00:31:06,053
+我本来也不指望
+I didn't expect you to.
+
+368
+00:31:14,015 --> 00:31:16,011
+并不是说你不能被治愈
+It's not that you can't be healed.
+
+369
+00:31:16,088 --> 00:31:20,098
+就像我说的  有不同的能量
+Like I said...there's different energies.
+
+370
+00:31:21,089 --> 00:31:24,025
+对你而言 这不是正确的地方
+This is not the right place for you.
+
+371
+00:31:25,039 --> 00:31:27,059
+哪里才是正确的地方
+Where is the right place?
+
+372
+00:31:29,046 --> 00:31:31,062
+我希望我知道
+I wish I knew.
+
+373
+00:31:33,037 --> 00:31:36,056
+-我将把你丈夫的募捐还给他  -不要这样
+-I'll return your husband's donation...  -Don't.
+
+374
+00:31:39,057 --> 00:31:41,080
+我告诉他你治好了我
+I'm gonna tell him you fixed me.
+
+375
+00:31:48,001 --> 00:31:50,095
+我告诉他你治好了我
+I'm going to tell him you fixed me.
+
+376
+00:32:05,063 --> 00:32:07,062
+你刚才说的是什么意思
+What did you mean back there?
+
+377
+00:32:08,063 --> 00:32:11,033
+-什么  -在网子里
+-What?  -In the net.
+
+378
+00:32:11,040 --> 00:32:15,017
+你说他们很老练
+You said they were sophisticated, the Others.
+
+379
+00:32:18,004 --> 00:32:23,071
+上个星期小孩病了 Claire 和我走进丛林 
+Last week when the baby got sick, Claire and I went into the jungle,
+
+380
+00:32:23,078 --> 00:32:25,088
+却发现了另一个舱
+and found another hatch.
+
+381
+00:32:26,042 --> 00:32:29,072
+-什么  -像一个医疗站
+-What?  -Like a medical station.
+
+382
+00:32:29,079 --> 00:32:33,069
+没有你要用的东西 全部都清空了 但是
+There was nothing you could use, it was all cleared out. But...
+
+383
+00:32:33,076 --> 00:32:38,066
+我发现了一些橱柜  它们里面都是些破的和脏的衣服
+I found some lockers. They had clothes inside, all worn and dirty,
+
+384
+00:32:38,073 --> 00:32:42,017
+衣服都是挂着的  像就像演出的衣服 你知道吧
+but they were on hangers, like costumes, you know?
+
+385
+00:32:42,023 --> 00:32:45,000
+还有化妆箱
+And there was a makeup kit...
+
+386
+00:32:46,044 --> 00:32:48,074
+和假须
+and a fake beard.
+
+387
+00:32:50,024 --> 00:32:52,004
+你打算什么时候告诉我这些
+When were you gonna tell me this?
+
+388
+00:32:53,005 --> 00:32:55,057
+当你决定让我回到舱里的时候
+When you decided to let me back in the club.
+
+389
+00:32:58,035 --> 00:32:59,091
+什么
+What?
+
+390
+00:32:59,099 --> 00:33:04,051
+你可以把其中一个锁在舱里 一个星期 却什么都没说
+You can keep one of them locked up in the hatch for a week and say nothing,
+
+391
+00:33:04,059 --> 00:33:06,058
+但那时 当我
+but then when I...
+
+392
+00:33:09,030 --> 00:33:10,089
+我们到了
+We're here.
+
+393
+00:33:12,026 --> 00:33:13,060
+你确定? 我
+Are you sure? I...
+
+394
+00:33:13,067 --> 00:33:16,026
+那就是他们向sawyer射击的地方
+That's where they took the shot at Sawyer.
+
+395
+00:33:17,027 --> 00:33:21,083
+在那里 那里就是他们把 套着包的你从草丛里推出来的地方
+Over there is where they pushed you out of the jungle with a bag on your head.
+
+396
+00:33:21,091 --> 00:33:24,010
+这就是
+And right there is where I...
+
+397
+00:33:25,014 --> 00:33:27,017
+我放下枪的地方
+where I laid my guns down.
+
+398
+00:33:37,052 --> 00:33:39,015
+我回来了
+Hey, I'm back!
+
+399
+00:33:41,083 --> 00:33:43,062
+你说你正监视着我们
+You say you're watching us?
+
+400
+00:33:44,043 --> 00:33:46,052
+听见我的话了吗
+You hear me?
+
+401
+00:33:46,060 --> 00:33:48,053
+我们手里有你们的人
+We've got your man.
+
+402
+00:33:49,090 --> 00:33:53,003
+如果你要他回去 你们就快点出来
+You want him back, you're gonna have to come out here.
+
+403
+00:33:55,054 --> 00:33:57,051
+快出来
+Come on out!
+
+404
+00:33:57,058 --> 00:33:59,020
+-Jack  -我知道你们在那儿
+-Jack!  -I know you're there!
+
+405
+00:33:59,028 --> 00:34:03,004
+-我知道你们能听见我讲话  -Jack 他们不在这
+-I know you can hear me.  -Jack, they're not here.
+
+406
+00:34:03,012 --> 00:34:06,031
+我就在这里不走知道你出来和我对话
+I'll be right here until you talk to me.
+
+407
+00:34:08,012 --> 00:34:10,011
+我就在这里
+I'll be right here.
+
+408
+00:34:28,084 --> 00:34:31,007
+我给你带来了点晚餐
+I brought you some supper.
+
+409
+00:34:32,021 --> 00:34:34,048
+谢谢 你只要把它放在那里就好
+Thanks. You can just set it down there.
+
+410
+00:34:40,052 --> 00:34:42,082
+他们人呢
+Where is everybody?
+
+411
+00:34:49,030 --> 00:34:51,070
+我欠你一个道歉
+I owe you an apology.
+
+412
+00:34:51,076 --> 00:34:55,043
+你没有什么要和我道歉的 这只是我自己该死的错误 让我自己待在这里
+You don't have anything to be sorry for. It's my fault I'm here by myself.
+
+413
+00:34:55,050 --> 00:34:57,087
+我不是为了那个向你道歉
+That's not why I'm apologizing.
+
+414
+00:35:00,091 --> 00:35:02,090
+我对你说谎了
+I lied to you.
+
+415
+00:35:05,034 --> 00:35:09,030
+在澳大利亚  Isaac  他没能治好我
+Back in Australia... Isaac, he didn't heal me.
+
+416
+00:35:11,028 --> 00:35:13,011
+他什么也没做
+He didn't do anything.
+
+417
+00:35:16,006 --> 00:35:21,039
+-他当然做了...你...  -Bernard  他没能治好我
+-Of course he did. You're...  -Bernard, he didn't heal me.
+
+418
+00:35:23,033 --> 00:35:25,089
+但是这并不意味着我没有好
+But that doesn't mean I'm not healed.
+
+419
+00:35:30,017 --> 00:35:31,097
+当你生病的时候
+When you're sick
+
+420
+00:35:32,004 --> 00:35:35,044
+你可以感觉到原本在身上并没有的东西  
+and you have something inside you that doesn't belong there,
+
+421
+00:35:35,051 --> 00:35:37,053
+你可以感觉到它
+you can feel it.
+
+422
+00:35:38,024 --> 00:35:42,098
+坠机之后 我在也感觉不到了
+And after the crash... I couldn't feel it anymore.
+
+423
+00:35:45,025 --> 00:35:47,038
+起初 我以为我被撞晕了
+At first I thought it was just shock...
+
+424
+00:35:50,076 --> 00:35:52,082
+但那不是
+but it wasn't.
+
+425
+00:35:55,076 --> 00:35:57,073
+就是这个地方
+It's this place.
+
+426
+00:36:00,093 --> 00:36:02,073
+但是--但是你说isaac治好了你
+But you said Isaac fixed you.
+
+427
+00:36:02,080 --> 00:36:04,056
+我那样说
+I told you that,
+
+428
+00:36:04,064 --> 00:36:10,044
+是不想让你 再浪费剩下来的时间 我们要留下来一起做一些事情
+so that you wouldn't spend what time we had left trying to do something.
+
+429
+00:36:15,098 --> 00:36:18,058
+Rose 可能只是略微好了一点
+Rose, you could just be in remission.
+
+430
+00:36:18,065 --> 00:36:21,009
+你怎么知道不是isaac治好了你
+How do you know it wasn't Isaac who healed you?
+
+431
+00:36:21,015 --> 00:36:23,085
+-你怎么知道他没有治好你  -我知道
+-How do you know he didn't heal you?  -I know.
+
+432
+00:36:27,036 --> 00:36:28,088
+我知道
+I know.
+
+433
+00:36:43,071 --> 00:36:45,077
+是你的吗
+These yours?
+
+434
+00:36:46,091 --> 00:36:48,044
+是的 谢谢
+Thank you.
+
+435
+00:36:50,082 --> 00:36:52,065
+不客气
+You're welcome.
+
+436
+00:36:57,086 --> 00:36:59,085
+相信我
+Trust me.
+
+437
+00:37:01,016 --> 00:37:03,015
+我知道
+I know.
+
+438
+00:37:10,074 --> 00:37:13,030
+你不想被救离这里 是不是
+You don't want to be rescued, do you?
+
+439
+00:37:15,091 --> 00:37:20,011
+你是觉得如果你离开这 它又会回来
+You think if you leave, it'll come back.
+
+440
+00:37:24,045 --> 00:37:26,048
+如果你不想离开
+And if you can't leave...
+
+441
+00:37:29,076 --> 00:37:31,075
+我也不离开
+neither can I.
+
+442
+00:37:36,070 --> 00:37:38,082
+我们永远也不离开这 Rose
+We won't ever leave, Rose.
+
+443
+00:37:52,041 --> 00:37:53,094
+我愿意
+I would...
+
+444
+00:37:54,081 --> 00:37:59,038
+我会把这些标记拆掉 但是  反正我们开始没多久
+I would offer to take down the sign, but we didn't get very far.
+
+445
+00:38:33,079 --> 00:38:35,055
+是我按的按钮
+I pressed your button.
+
+446
+00:38:37,012 --> 00:38:38,095
+按钮不是我的
+It's not my button.
+
+447
+00:38:42,026 --> 00:38:44,023
+你去了哪里
+Where did you go?
+
+448
+00:38:45,083 --> 00:38:50,067
+我只是需要 伸展一下我的双腿
+I just needed to... stretch my legs.
+
+449
+00:40:58,033 --> 00:41:00,063
+jack 你还要等多久
+How long are you gonna wait, Jack?
+
+450
+00:41:02,077 --> 00:41:04,063
+直到得到回音
+Until I get my voice back.
+
+451
+00:41:04,070 --> 00:41:06,097
+我还会再喊几声
+And then I'm gonna yell some more.
+
+452
+00:41:12,024 --> 00:41:14,021
+可能他们根本就没听见
+Maybe they can't hear you.
+
+453
+00:41:15,095 --> 00:41:17,094
+他们一定听得见
+They can hear me.
+
+454
+00:41:24,066 --> 00:41:26,075
+对不起 我吻了你
+I'm sorry I kissed you.
+
+455
+00:41:36,054 --> 00:41:38,040
+没什么大不了的
+I'm not.
+
+456
+00:42:20,068 --> 00:42:22,011
+Michael!
+
+457
+00:42:24,000 --> 00:42:40,050
+==============|  YYeTs字幕组招募启示  |==============
+英文字幕录制(居住在加拿大和美国)  双语字幕校正   时间轴调整   
+英语翻译   欧美影视新闻翻译  影视评论  论坛版主  美工人员  
+服务器提供者  发布宣传  联系地址：www.YYeTs.com
+==== YYeTs属于网络爱好者组织 加入者仅凭个人兴趣爱好 无报酬 ====
+

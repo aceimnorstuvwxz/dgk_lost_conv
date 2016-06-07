@@ -1,0 +1,3406 @@
+1
+00:00:00,020 --> 00:00:03,020
+声明: 本字幕由YYeTs美剧字幕组原创翻译制作
+欢迎访问官方论坛  www.YYeTs.net 在线观看 剧情讨论 学习交流
+
+2
+00:00:03,070 --> 00:00:12,020
+=====本字幕由以下成员荣誉制作 感谢他们的无私奉献======
+翻译：Requiem校对：扣扣
+后期：阿胜 双语制作：tamama788 
+========== 字幕总监制：七色九天 ==========
+
+3
+00:00:16,010 --> 00:00:17,080
+前情提要
+Previously on Lost
+
+4
+00:00:18,076 --> 00:00:20,042
+我想我没事
+I think I'm all right.
+
+5
+00:00:20,043 --> 00:00:21,098
+我说过我会照顾你
+I told you I'd take care of you.
+
+6
+00:00:21,099 --> 00:00:25,000
+-谢谢  Charlie  -不用客气
+-Thanks Charlie  -You are quite welcome
+
+7
+00:00:25,094 --> 00:00:27,049
+Sayid
+
+8
+00:00:27,050 --> 00:00:29,010
+这岛上不光只有我们
+We're not alone.
+
+9
+00:00:29,011 --> 00:00:30,020
+有人看到Ethan了吗?
+Has anyone seen Ethan?
+
+10
+00:00:30,020 --> 00:00:32,013
+恩  恩  他去海滩了
+Yeah  Yeah  He took off on the path to the beach
+
+11
+00:00:32,013 --> 00:00:34,055
+-Charlie去哪儿了?  -他去找Claire了
+-Where's Charlie?  -He went after Claire.
+
+12
+00:00:34,056 --> 00:00:37,072
+脚印  这里到处都是三种不同的脚印
+Footprints, three distinct sets, all over the place.
+
+13
+00:00:37,073 --> 00:00:39,059
+我看他们被劫走了
+I think they've been taken.
+
+14
+00:00:39,060 --> 00:00:41,015
+Claire
+
+15
+00:00:41,016 --> 00:00:44,014
+他们想要的就是Claire
+All they wanted was Claire.
+
+16
+00:00:45,020 --> 00:00:47,010
+Walt
+
+17
+00:00:49,036 --> 00:00:51,027
+Walt
+
+18
+00:00:52,056 --> 00:00:55,002
+Walt
+
+19
+00:00:56,040 --> 00:00:57,043
+Walt
+
+20
+00:00:57,043 --> 00:00:59,013
+嘿  Michael  看到Claire的包了吗?
+Hey Michael  Have you seen Claire's bags?
+
+21
+00:00:59,014 --> 00:01:01,002
+-看到我儿子了吗?  -看到她的包了吗?
+-Have you seen my son?  -Have you seen her bags?
+
+22
+00:01:01,089 --> 00:01:03,082
+她的行李, 没拿到这来
+Her luggage. It's not been brought back here.
+
+23
+00:01:03,082 --> 00:01:05,009
+看来没人知道到哪儿去了
+No one seems to know what's happened to it.
+
+24
+00:01:05,010 --> 00:01:07,047
+不好意思 兄弟 我不知道  我在找Walt
+Sorry, man. I don't know. I'm just looking for Walt.
+
+25
+00:01:07,048 --> 00:01:11,021
+是这样 不好意思  我没看到他
+Oh. Got it. Sorry. I've not seen him.
+
+26
+00:01:12,090 --> 00:01:15,056
+Jack 你在那边看到我儿子了吗?
+Hey, Jack. You seen my boy when you were out there?
+
+27
+00:01:15,057 --> 00:01:17,023
+没有  他当时在山洞那边
+No. He was at the caves.
+
+28
+00:01:17,024 --> 00:01:18,077
+恩  他遛狗去了
+Yeah, he took his dog for a walk.
+
+29
+00:01:18,078 --> 00:01:21,035
+我和他说别往远处走...
+Told him to stay close as usual.
+
+30
+00:01:21,036 --> 00:01:23,022
+你10岁的时候听你老爸的话  是吧
+You listened to your old man when you were ten,right?
+
+31
+00:01:23,023 --> 00:01:24,094
+呃  恩
+Uh, yeah.
+
+32
+00:01:24,095 --> 00:01:26,074
+恩  我听  可能有点太听话了
+I listened. Maybe a little too well.
+
+33
+00:01:26,075 --> 00:01:29,033
+老兄  新一轮的比赛要开始了
+Yo,dudes,got a new tourney lined up.
+
+34
+00:01:29,034 --> 00:01:31,029
+看谁能赢得最后一支除臭棒
+We're playing for the last of the deodorant sticks.
+
+35
+00:01:31,030 --> 00:01:32,043
+打会儿高尔夫不?
+You dawgs up for some golf?
+
+36
+00:01:32,044 --> 00:01:34,074
+我要去找我孩子
+I gotta go find my kid.
+
+37
+00:01:35,070 --> 00:01:36,084
+如果看到了Walt
+Hey,if Walt shows up,
+
+38
+00:01:36,085 --> 00:01:39,026
+告诉他在这儿等我回来
+tell him to stay right here until I get back.
+
+39
+00:01:39,027 --> 00:01:42,016
+一定
+You got it.
+
+40
+00:01:42,089 --> 00:01:44,076
+-Walt  -看起来他厌烦了  是吧
+-Walt!  -He seems to hate it, doesn't he?
+
+41
+00:01:44,077 --> 00:01:48,006
+-什么  -当一名父亲
+-What?  -Being a dad.
+
+42
+00:01:48,007 --> 00:01:50,001
+不  只是...
+No, it's just...
+
+43
+00:01:50,002 --> 00:01:53,020
+-一刻不得闲呐  -Walt
+-a lot of hard work.  -Walt
+
+44
+00:01:54,003 --> 00:01:55,075
+Walt
+
+45
+00:01:55,076 --> 00:01:58,046
+不  是他厌烦了
+Nah, he hates it.
+
+46
+00:01:58,096 --> 00:02:00,081
+Walt
+
+47
+00:02:08,081 --> 00:02:10,089
+Walt
+
+48
+00:02:15,006 --> 00:02:17,094
+Walt
+
+49
+00:02:18,052 --> 00:02:20,034
+就是这个了
+This is the one.
+
+50
+00:02:20,041 --> 00:02:23,056
+这个肯定就是我宝宝的婴儿床了
+This is definitely my baby's crib.
+
+51
+00:02:25,053 --> 00:02:27,043
+漂亮啊
+Beautiful.
+
+52
+00:02:28,007 --> 00:02:30,032
+放在我们将要住的小通道里会很棒
+It'll look great in the alley we'll be living in.
+
+53
+00:02:30,033 --> 00:02:31,065
+这要三个月的租金那
+This is three months' rent.
+
+54
+00:02:31,066 --> 00:02:33,081
+什么  不是三个...
+What? It's not three...
+
+55
+00:02:34,052 --> 00:02:36,097
+你难道不想孩子过的好吗?
+Look, don't you want the best for this kid?
+
+56
+00:02:36,098 --> 00:02:39,086
+我知道你很激动  但Michael我们买不起
+I know you're excited, but Michael we can't afford this.
+
+57
+00:02:39,087 --> 00:02:41,043
+我们的宝宝在这婴儿床上
+Our baby in this crib.
+
+58
+00:02:41,043 --> 00:02:44,093
+拜托  那会是个开心的小家伙
+Come on. That's a happy kid.
+
+59
+00:02:46,073 --> 00:02:48,006
+我和Andy谈了
+Hey I talked to Andy.
+
+60
+00:02:48,007 --> 00:02:49,063
+他说他能给我找点活干
+ He said he can throw some work my way.
+
+61
+00:02:49,064 --> 00:02:51,039
+建筑吗?  那你的艺术怎么办呢?
+Construction? What about your art?
+
+62
+00:02:51,040 --> 00:02:52,027
+不  不  不
+No. No. No.
+
+63
+00:02:52,028 --> 00:02:54,004
+我不会放弃  只是想放下一段时间
+I'm not giving it up. I'm just gonna take a break
+
+64
+00:02:54,005 --> 00:02:56,049
+到你完成了法学院的学业再说
+until you finish law school.
+
+65
+00:02:56,050 --> 00:03:00,040
+通过律师考试  被某不错的法律公司高薪聘用
+Pass the bar, get hired by some fancy-ass, high-paying law firm.
+
+66
+00:03:00,041 --> 00:03:02,059
+有人把一切都计划好了
+Somebody's got it all figured.
+
+67
+00:03:02,090 --> 00:03:05,015
+恩  我最终还会回去画画
+Yeah,I'll get back to painting eventually.
+
+68
+00:03:05,016 --> 00:03:07,072
+与此同时  你将会习以为常的...
+Meanwhile, you can support me and Walt...
+
+69
+00:03:07,072 --> 00:03:11,046
+支持我和Walt
+in the manner to which we'll soon become accustomed.
+
+70
+00:03:11,079 --> 00:03:13,032
+Walt  是吗?
+"Walt" huh?
+
+71
+00:03:13,033 --> 00:03:14,074
+我想喜欢这样
+I'd like to do that, you know.
+
+72
+00:03:14,075 --> 00:03:17,049
+让他随我父亲的名字
+Name him after my dad.
+
+73
+00:03:19,036 --> 00:03:21,071
+Walter
+
+74
+00:03:22,026 --> 00:03:24,029
+Walter Lloyd
+
+75
+00:03:24,030 --> 00:03:25,056
+Lloyd
+
+76
+00:03:25,057 --> 00:03:28,024
+好吧  就因为这你才不愿嫁给我
+Oh, all right. That's why you won't marry me.
+
+77
+00:03:28,025 --> 00:03:30,058
+而不是因为你认为婚姻生活枯燥无味
+It's not that marriage is too prosaic.
+
+78
+00:03:30,059 --> 00:03:32,021
+你只是想要他随你姓
+You want him to have your last name.
+
+79
+00:03:32,022 --> 00:03:35,050
+你还想不想让我同意Walter了
+Hey, you want me to agree to "Walter," or what?
+
+80
+00:03:49,000 --> 00:03:50,033
+天  我逊毙了
+Man, I suck.
+
+81
+00:03:50,034 --> 00:03:51,066
+你能做的更好
+You can do better than that.
+
+82
+00:03:51,067 --> 00:03:53,036
+你别逼他就好
+You might wanna take it easy on him.
+
+83
+00:03:53,037 --> 00:03:55,049
+看到这个结了吗  Walt?
+See this knot, Walt?
+
+84
+00:03:55,090 --> 00:03:58,089
+你就瞄准它  就瞄这儿
+I want you to aim for it. Right here.
+
+85
+00:04:00,019 --> 00:04:02,037
+全神贯注  好吗?
+Focus on it. All right?
+
+86
+00:04:02,038 --> 00:04:04,069
+用你心灵之眼来想象一下
+Picture it in your mind's eye.
+
+87
+00:04:04,070 --> 00:04:06,031
+你知道什么是心灵之眼吧
+You know what that is, right? the mind's eye?
+
+88
+00:04:06,032 --> 00:04:07,064
+就象是在脑袋里形成一幅画
+Like a picture in your head.
+
+89
+00:04:07,064 --> 00:04:11,031
+说的对  再来一次  但要看到才行
+That's Right.Now do it again, but see it.
+
+90
+00:04:11,057 --> 00:04:14,018
+在你投出去之前要先看到
+See it before you do it.
+
+91
+00:04:14,037 --> 00:04:15,099
+看到那条轨迹
+Visualize the path.
+
+92
+00:04:16,000 --> 00:04:17,068
+看到那轨迹
+See it.
+
+93
+00:04:17,069 --> 00:04:19,074
+看到那轨迹
+See it.
+
+94
+00:04:32,080 --> 00:04:34,040
+-哇噢  -好唉
+-Whoa.  -Yes!
+
+95
+00:04:34,041 --> 00:04:36,012
+我就知道你有那潜质  Walt
+I knew you had it in you, Walt
+
+96
+00:04:36,013 --> 00:04:37,089
+怪了  我真的...
+It was weird. I actually saw it
+
+97
+00:04:37,090 --> 00:04:39,055
+在我心里看到了  象是真的一样
+in my mind or something, like it was real.
+
+98
+00:04:39,056 --> 00:04:40,060
+谁说不是呢
+Who's to say it wasn't?
+
+99
+00:04:40,061 --> 00:04:44,009
+这是怎么回事
+Hey! What the hell is going on?
+
+100
+00:04:44,014 --> 00:04:45,074
+-给我  -但是我...
+-Gimme that.  -But I...
+
+101
+00:04:45,075 --> 00:04:47,042
+带Vincent回营地去
+Take Vincent and go back to camp.
+
+102
+00:04:47,043 --> 00:04:49,074
+-可Locke先生在...  -快  小子
+-But Mr. Locke was...  -Now, little man.
+
+103
+00:05:01,085 --> 00:05:03,046
+你给我孩子一把刀?
+You gave my boy a knife?
+
+104
+00:05:03,047 --> 00:05:04,003
+你该先看看...
+You should've seen...
+
+105
+00:05:04,004 --> 00:05:06,007
+用不着你告诉我该看什么  老兄
+Don't tell me what I should've seen, man.
+
+106
+00:05:06,008 --> 00:05:08,022
+这要是在家里  我就去报案抓你了
+If we were back home, I'd call the police on your ass!
+
+107
+00:05:08,023 --> 00:05:10,046
+教唆孩子从他老爸那溜走
+Encouraging a kid to sneak away from his parent.
+
+108
+00:05:10,047 --> 00:05:11,082
+给他这样的一把刀
+Giving him a knife like this?
+
+109
+00:05:11,082 --> 00:05:13,014
+Walt自己能分辨是非
+Walt knows his own mind.
+
+110
+00:05:13,015 --> 00:05:15,012
+别说得像你了解他似的!
+Don't talk to me about my son like you know him!
+
+111
+00:05:15,013 --> 00:05:16,031
+你冷静一下吧
+You really need to calm down.
+
+112
+00:05:16,032 --> 00:05:18,034
+你如果继续让我儿子和我作对
+You keep playing my son against me
+
+113
+00:05:18,035 --> 00:05:20,036
+我就会...
+and I'm gonna have a...
+
+114
+00:05:23,002 --> 00:05:25,031
+人家说让你冷静
+The man said "calm down"
+
+115
+00:05:27,025 --> 00:05:29,041
+-你算哪根葱 他的走狗吗?  -冷静 冷静 冷静
+-What are you, his attack dog?  -Easy easy easy
+
+116
+00:05:29,042 --> 00:05:31,015
+是你拿把刀挥来挥去的
+You are the one who was waving the knife around.
+
+117
+00:05:31,016 --> 00:05:33,084
+他只是不想让你伤到人
+He was just trying to make sure you didn't hurt someone.
+
+118
+00:05:36,047 --> 00:05:39,007
+Michael  我知道...
+Michael, I know...
+
+119
+00:05:39,008 --> 00:05:41,010
+你和你儿子之间沟通困难
+ it's been difficult to bond with your son.
+
+120
+00:05:41,011 --> 00:05:42,088
+你知道他为什么喜欢跟我在一起吗?
+You know why he's formed an attached to me?
+
+121
+00:05:42,089 --> 00:05:43,093
+因为我把他当作大人来看待
+Because I treat him like an adult.
+
+122
+00:05:43,093 --> 00:05:45,008
+可你还是把他当成孩子
+and you still treat him like a boy.
+
+123
+00:05:45,009 --> 00:05:46,064
+他10岁
+He's ten years old.
+
+124
+00:05:46,065 --> 00:05:49,061
+他所经历的要比有些人一辈子经历的还要多
+He's been through more than most people in their entire lifetime.
+
+125
+00:05:49,062 --> 00:05:52,002
+你没和他在一起多久所以你不知道
+You haven't spent enough time with him to see it
+
+126
+00:05:52,003 --> 00:05:53,078
+但他与众不同
+but he's different.
+
+127
+00:05:53,079 --> 00:05:54,066
+你说什么
+What did you say?
+
+128
+00:05:54,067 --> 00:05:57,046
+这不是家里  Michael
+And we're not back home, Michael
+
+129
+00:05:57,062 --> 00:05:58,029
+只要我们在这儿
+As long as we're here
+
+130
+00:05:58,030 --> 00:06:01,060
+我觉得你该让他认识到他的潜能
+I think Walt should be allowed to realize his potential.
+
+131
+00:06:08,068 --> 00:06:11,012
+离我儿子...
+You stay away from my son...
+
+132
+00:06:11,067 --> 00:06:13,098
+和我远点儿
+and me.
+
+133
+00:06:19,030 --> 00:06:20,086
+你不能带走他
+You're not taking him.
+
+134
+00:06:20,087 --> 00:06:22,068
+不能带走我儿子
+You're not taking my son.
+
+135
+00:06:22,069 --> 00:06:25,027
+你想走可以走  但Walt要留下
+You can go if you want to, but Walt stays with me.
+
+136
+00:06:25,028 --> 00:06:27,002
+我是想和你商量一下
+I'm trying to have a discussion with you.
+
+137
+00:06:27,068 --> 00:06:29,066
+你说的是要去阿姆斯特丹...
+You're talking about going to Amsterdam...
+
+138
+00:06:29,067 --> 00:06:32,011
+只有你和他  这怎么能算是商量呢?
+just you and him. How is that a discussion?
+
+139
+00:06:32,012 --> 00:06:34,015
+是工作的机会  Michael  那是工作地点
+It's an offer, Michael, and that's where the job is.
+
+140
+00:06:34,016 --> 00:06:35,079
+你说过你快乐啊
+You said you were happy.
+
+141
+00:06:35,080 --> 00:06:38,006
+那"法律诊所挺适合我"又算作什么?
+What about the legal clinic being a good fit?
+
+142
+00:06:38,007 --> 00:06:41,041
+-你说过的  -千载难逢的机会啊
+-You said that.  -This is a huge opportunity.
+
+143
+00:06:41,042 --> 00:06:43,068
+你知道我一直期盼做国际法
+YOu know I've always wanted to do International Law.
+
+144
+00:06:43,068 --> 00:06:45,043
+我是该在这儿替你高兴吗?
+Am I supposed to be happy for you over here?
+
+145
+00:06:45,044 --> 00:06:48,045
+为你那"千载难逢的机会"高兴吗?
+for your huge opportunity?
+
+146
+00:06:55,085 --> 00:06:59,058
+我们谈论过要分开一段时间
+We've talked about taking some time apart.
+
+147
+00:07:02,094 --> 00:07:05,028
+宝贝儿  我以为那是...
+Look, babe, I thought that was...
+
+148
+00:07:06,007 --> 00:07:08,034
+我们谈论过很多事
+Hey, we said a lot of things.
+
+149
+00:07:08,035 --> 00:07:11,001
+你说你想在一条船上住
+You said you wanted to live on a boat.
+
+150
+00:07:14,015 --> 00:07:15,093
+我还是爱你的
+I still love you.
+
+151
+00:07:15,094 --> 00:07:17,052
+这你知道  可我...
+You know I do, but I...
+
+152
+00:07:17,053 --> 00:07:21,054
+Michael  这么短时间里我们经历的太多了
+Michael  we've been through so much in such a short time.
+
+153
+00:07:22,000 --> 00:07:24,065
+宝贝儿  我们有分歧  可那正常啊
+Babe, we got problems. That's what people have.
+
+154
+00:07:24,066 --> 00:07:26,009
+你想去咨询吗?
+You wanna go to counseling?
+
+155
+00:07:26,010 --> 00:07:28,008
+我没问题  我们走吧
+I'm down with that. Let's go.
+
+156
+00:07:28,009 --> 00:07:29,052
+好吗
+All right?
+
+157
+00:07:36,038 --> 00:07:38,073
+噢  天
+Oh, man
+
+158
+00:07:39,073 --> 00:07:42,027
+你已经接受了  是吧?
+You already took it, didn't you?
+
+159
+00:07:42,066 --> 00:07:44,024
+那份工作
+The job.
+
+160
+00:07:44,071 --> 00:07:47,004
+恩  是的
+Yeah, I did.
+
+161
+00:07:49,060 --> 00:07:51,071
+你已经几个月没工作了
+You haven't worked in months.
+
+162
+00:07:51,072 --> 00:07:53,016
+建筑业在冬季很低靡
+Construction slows in the winter.
+
+163
+00:07:53,017 --> 00:07:55,021
+-这我和你说过  -我可以给他一切
+-I already told you.  -I can provide for him
+
+164
+00:07:55,022 --> 00:07:56,048
+我会给他他所需要的一切
+I'll give him everything he needs.
+
+165
+00:07:56,049 --> 00:07:59,009
+除了他老爸  你不能带走他  不能
+Except for his dad.He's not going with you! No!
+
+166
+00:07:59,010 --> 00:08:00,074
+你真要为这事和我争吵吗?
+You wanna argue with me about this?
+
+167
+00:08:00,075 --> 00:08:02,072
+奶奶的  说对了  这种事法律上是站不住脚的
+Hell.Yes. There are laws against this kinda thing.
+
+168
+00:08:02,073 --> 00:08:04,054
+我们还没结婚  Michael
+We're not married, Michael.
+
+169
+00:08:04,055 --> 00:08:06,069
+我是他母亲并且有稳定的工作
+I'm his mother, and I'm steadily employed.
+
+170
+00:08:06,069 --> 00:08:09,028
+你说法庭会把他判给谁
+Who do you think the court's gonna side with?
+
+171
+00:08:16,053 --> 00:08:19,094
+这并不是永远说再见
+This is not goodbye forever.
+
+172
+00:08:24,052 --> 00:08:26,052
+我只是...
+I just...
+
+173
+00:08:26,053 --> 00:08:29,004
+我需要些时间
+I need some time.
+
+174
+00:08:51,006 --> 00:08:53,083
+你没事吧
+Are you all right?
+
+175
+00:08:55,085 --> 00:08:57,065
+恩  我没事
+Nah  I'm okay.
+
+176
+00:08:57,066 --> 00:08:59,035
+谢了
+Thanks.
+
+177
+00:09:01,079 --> 00:09:04,030
+还是不知道怎么和他沟通
+I just don't know how to talk to him.
+
+178
+00:09:04,041 --> 00:09:06,061
+怎么让他...
+How to get him to...
+
+179
+00:09:07,016 --> 00:09:10,042
+让他知道我站在他那一边
+you know, understand I'm on his side.
+
+180
+00:09:13,004 --> 00:09:16,077
+Locke说我不该再把他当作孩子看了
+Locke says I should stop treating him like a child.
+
+181
+00:09:16,096 --> 00:09:19,066
+我错过了他整个的童年  所以...
+I missed his whole childhood, so...
+
+182
+00:09:24,087 --> 00:09:27,013
+不能这样
+It just can't happen.
+
+183
+00:09:28,033 --> 00:09:30,043
+什么?
+What?
+
+184
+00:09:32,020 --> 00:09:34,060
+他不能在这儿长大
+He can't grow up here.
+
+185
+00:09:37,083 --> 00:09:40,059
+他不能在这儿长大
+He can't grow in this place.
+
+186
+00:09:43,004 --> 00:09:45,062
+当我认识到这些方程式是些坐标...
+Once I realized these equations were coordinates...
+
+187
+00:09:45,063 --> 00:09:47,027
+经纬度...
+latitude and longitude...
+
+188
+00:09:47,028 --> 00:09:50,098
+我猜想那法国女人是想要确定这岛的方位
+I assumed the french woman was trying to determine the location of the island.
+
+189
+00:09:50,099 --> 00:09:52,058
+可并未完成
+But it was incomplete
+
+190
+00:09:52,059 --> 00:09:54,047
+她作的记号七零八碎
+her notations fragmented
+
+191
+00:09:54,048 --> 00:09:56,044
+除了那首鱼谣
+Except for the fish song.
+
+192
+00:09:56,045 --> 00:09:57,069
+恩那
+Mm-hmm.
+
+193
+00:09:57,070 --> 00:09:58,056
+什么
+The what?
+
+194
+00:09:58,057 --> 00:10:01,052
+当我把纸象这样放着的时候
+When I lay the pages down like this
+
+195
+00:10:02,038 --> 00:10:06,051
+我发现这不是表明这座岛的方位
+I realized it wasn't showing the location of the island.
+
+196
+00:10:07,088 --> 00:10:11,011
+我看是这岛上的方位  特指这里
+I think it's a location on the island.Specifically, here.
+
+197
+00:10:11,012 --> 00:10:13,065
+那相对于三角形来说我们的位置在哪儿?
+So where are we in relation to the triangle?
+
+198
+00:10:13,066 --> 00:10:17,016
+这地图比例不准  所以我也不知道
+Well, the map is hardly at scale,so I don't know.
+
+199
+00:10:17,017 --> 00:10:19,098
+我们甚至都不确定这是否是这座岛的地图 对吧?
+We're not even sure it's a map of this island, are we?
+
+200
+00:10:19,099 --> 00:10:21,016
+对  不知道
+We're not.no.
+
+201
+00:10:21,017 --> 00:10:24,086
+但这也许是发送器发出求救信号和它电源的地方
+This may be the transmitter sending out her distress call,and its power source.
+
+202
+00:10:24,087 --> 00:10:26,078
+在谈什么呢?
+What are we talking about doing now?
+
+203
+00:10:26,079 --> 00:10:31,010
+在想方设法被追捕 被森林里的东西干掉吗?
+loking for another excuse to get chased down and killed by whatever lives in the jungle?
+
+204
+00:10:31,061 --> 00:10:33,043
+伙计们  我们不能再这样下去了...
+Guys, we can't keep doing this.
+
+205
+00:10:33,044 --> 00:10:36,031
+建造水过滤系统和打高尔夫
+Building water filtration systems,and playing golf.
+
+206
+00:10:36,032 --> 00:10:38,086
+把这当成温暖的家  我们要离开这座岛
+making a sweet home here. We need to get off this island!
+
+207
+00:10:38,087 --> 00:10:40,070
+你以为谁想这样吗?
+You think any of us wanna be here?
+
+208
+00:10:40,071 --> 00:10:44,002
+不  可我看现在谁都没有我回家的愿望那么强烈
+No. But I don't think anyone wants to get off as much as I do right now.
+
+209
+00:10:44,002 --> 00:10:45,086
+那你有什么好办法吗?
+So, are you suggesting something?
+
+210
+00:10:45,087 --> 00:10:47,039
+恩
+Yeah.
+
+211
+00:10:47,040 --> 00:10:49,005
+我们造一个木筏
+We build a raft.
+
+212
+00:10:49,006 --> 00:10:50,010
+木筏
+A raft?
+
+213
+00:10:50,011 --> 00:10:51,064
+别用那种语气跟我说话  老兄
+Don't say it like that, man
+
+214
+00:10:51,065 --> 00:10:53,073
+我们要有点乐观精神  知道吗?
+We need a little optimism here,okay?
+
+215
+00:10:53,074 --> 00:10:56,062
+我们要做点事情  因为说实话
+And we gotta do something, 'cause,let's be honest,
+
+216
+00:10:56,063 --> 00:10:58,062
+没人会来了
+no one's coming.
+
+217
+00:10:59,075 --> 00:11:02,047
+我们在机舱里拿的那些座位...就可以漂着
+Those seats we took off the fuselage, they float.
+
+218
+00:11:02,048 --> 00:11:03,025
+我们还有一把斧头
+And we got an axe.
+
+219
+00:11:03,025 --> 00:11:06,021
+还有一大片树林  竹子
+And a whole bunch of trees, bamboo.
+
+220
+00:11:06,051 --> 00:11:07,063
+我们做得到的
+We can do this.
+
+221
+00:11:07,064 --> 00:11:09,049
+在惊涛骇浪中生存的机会...
+The chances of surviving the rough waters...
+
+222
+00:11:09,050 --> 00:11:11,015
+找到一条航线的几率...
+The odds of finding a shipping lane...
+
+223
+00:11:11,016 --> 00:11:13,040
+我还严重晕船
+And I get really seasick.
+
+224
+00:11:15,038 --> 00:11:17,065
+好极了  留在这吧
+You know what? Great. Stay here.
+
+225
+00:11:17,066 --> 00:11:19,007
+度过今生  祝你们好运吧
+Grow old, good luck to you.
+
+226
+00:11:19,008 --> 00:11:21,030
+但我要这么做  我儿子和我要离开这儿
+But I'm doing this. My son and I are leaving.
+
+227
+00:11:21,031 --> 00:11:24,045
+谁要帮我们造的话会得到上帝的保佑
+Anybody that wants to help us build,  God bless you.
+
+228
+00:12:09,025 --> 00:12:11,020
+嘿  Walt
+Hey, Walt.
+
+229
+00:12:11,026 --> 00:12:12,050
+嘿  走
+Hey, come on.
+
+230
+00:12:12,051 --> 00:12:13,084
+我需要你帮点忙
+I need your help with something.
+
+231
+00:12:13,085 --> 00:12:15,060
+我在做事
+I'm doing stuff.
+
+232
+00:12:15,061 --> 00:12:18,088
+你在看西班牙文的漫画 你又不懂西班牙文
+You're reading comics in Spanish, and you don't read Spanish, man.
+
+233
+00:12:18,089 --> 00:12:20,089
+我喜欢这些画
+I like the pictures.
+
+234
+00:12:22,087 --> 00:12:25,000
+你喜欢艺术  是吧
+You like the art, huh?
+
+235
+00:12:25,007 --> 00:12:27,015
+是吧
+I guess so.
+
+236
+00:12:29,008 --> 00:12:31,089
+我像你那么大的时候...也许比你还大点...
+You know, when I was your age, I don't know, maybe a little older,
+
+237
+00:12:31,090 --> 00:12:33,057
+我总是映描漫画
+I traced comics.
+
+238
+00:12:33,058 --> 00:12:36,001
+自学透视画法  你知道是什么吗
+Taught myself about perspective.You know what that is?
+
+239
+00:12:36,002 --> 00:12:37,090
+透视画法
+Perspective?
+
+240
+00:12:40,091 --> 00:12:41,068
+嘿
+Hey.
+
+241
+00:12:41,069 --> 00:12:43,097
+我说要你帮忙  走
+I said I need your help. Let's go.
+
+242
+00:12:43,098 --> 00:12:44,072
+为什么我要去
+Why do I have to come?
+
+243
+00:12:44,073 --> 00:12:48,002
+因为我知道我一眼盯不住你就会怎样
+Because I've seen what happens when I don't keep an eye on you.
+
+244
+00:12:52,075 --> 00:12:53,088
+让我和他说说话
+Let me talk to him.
+
+245
+00:12:53,089 --> 00:12:55,082
+他才21个月  不会用电话
+He's 21 months old. He doesn't use the phone.
+
+246
+00:12:55,083 --> 00:12:57,001
+我说就行
+I'll do all the talking.
+
+247
+00:12:57,002 --> 00:12:59,026
+只是想让他听听我的声音
+I just want him to hear my voice.
+
+248
+00:12:59,027 --> 00:13:00,029
+-我想他  -我知道
+-I miss him.  -I know.
+
+249
+00:13:00,030 --> 00:13:01,045
+我回头打给你  好吗?
+Let me call you back, okay?
+
+250
+00:13:01,045 --> 00:13:02,034
+现在不方便
+This isn't a good time.
+
+251
+00:13:02,034 --> 00:13:05,080
+-我们走吧  -嘘 是Michael
+-We gotta go.  -Shh..it's Michael.
+
+252
+00:13:05,080 --> 00:13:06,030
+那是谁啊?
+Who's that?
+
+253
+00:13:06,030 --> 00:13:08,019
+明天再谈  好吗?  我上班时候打给你
+Let's talk tomorrow,okay? I'll call you from work.
+
+254
+00:13:08,019 --> 00:13:10,004
+到底怎么回事
+What the hell is going on?
+
+255
+00:13:11,026 --> 00:13:13,018
+Michael  听我说
+Michael, listen.
+
+256
+00:13:14,004 --> 00:13:16,030
+我一直在和别人约会
+I've been seeing someone.
+
+257
+00:13:16,066 --> 00:13:18,037
+什么?
+What?
+
+258
+00:13:18,093 --> 00:13:20,001
+是谁
+Who?
+
+259
+00:13:20,002 --> 00:13:22,072
+-知道有什么用呢  -是谁?
+-Does it make any difference?  -Who is it?
+
+260
+00:13:22,079 --> 00:13:24,094
+Brian Porter
+
+261
+00:13:25,014 --> 00:13:26,058
+聘用你的那个人
+The guy who hired you.
+
+262
+00:13:26,059 --> 00:13:29,061
+-不是你想的那样  -那你说你需要时间来考虑
+-It wasn't like that before.  -So when you said you needed time to think...
+
+263
+00:13:29,062 --> 00:13:30,077
+你我之间的时候,你是在说谎了?
+about us, you were just lying.?
+
+264
+00:13:30,078 --> 00:13:33,042
+-不是  我确实是  然后我... -我去阿姆斯特丹
+-No, I did, and I realized... -I'm coming to Amsterdam.
+
+265
+00:13:33,043 --> 00:13:35,034
+Michael  别来  我们之间结束了
+Michael, don't. It's over between us.
+
+266
+00:13:35,034 --> 00:13:38,051
+我不是去找你  我去找Walt
+I'm not coming for you.I'm coming for Walt.
+
+267
+00:13:38,052 --> 00:13:41,010
+我要把我儿子带回来
+I'm getting my son back.
+
+268
+00:13:47,010 --> 00:13:50,010
+快叫救护车! 救救他!
+Call an ambulance!  Help him!
+
+269
+00:13:55,069 --> 00:13:57,027
+Charlie?
+
+270
+00:13:59,086 --> 00:14:01,090
+这些是Claire的东西  谁放到这儿的
+These are Claire's things. Who brought them here?
+
+271
+00:14:01,091 --> 00:14:03,097
+是我  怎么了  你在干什么
+I did. Why? What are you doing?
+
+272
+00:14:03,098 --> 00:14:06,064
+找不到了  去哪儿了呢
+I can't find it. I don't know where it is.
+
+273
+00:14:06,077 --> 00:14:08,017
+什么?
+What?
+
+274
+00:14:08,018 --> 00:14:09,090
+Claire的日记
+Claire's diary
+
+275
+00:14:09,091 --> 00:14:14,014
+她把她的日记放到边袋里  我知道因为我看见过她放那
+She kept her diary in this side pocket.I know because I saw her put it there.
+
+276
+00:14:15,020 --> 00:14:17,031
+有人拿走了
+Someone's taken it.
+
+277
+00:14:17,041 --> 00:14:19,054
+再问一次  我们在找什么
+What are we looking for again?
+
+278
+00:14:19,055 --> 00:14:21,056
+长金属棒或塑料管
+Any long piece of metal or plastic tubing.
+
+279
+00:14:21,057 --> 00:14:22,084
+任何能当作...
+Anything that looks like...
+
+280
+00:14:22,085 --> 00:14:24,089
+框架的东西
+it'd work as a frame.
+
+281
+00:14:25,045 --> 00:14:26,093
+拿框架干什么
+A frame for what?
+
+282
+00:14:26,094 --> 00:14:28,086
+你很快就会知道的
+You'll see soon enough.
+
+283
+00:14:28,087 --> 00:14:31,002
+嘿  把坐垫  塑料  油布归类
+Hey,separate the cushions, the plastic, the tarp.
+
+284
+00:14:31,002 --> 00:14:34,034
+把你找到的东西都分类摆放  那样容易区分
+Put everything you find in different piles so we can take stock.
+
+285
+00:14:36,026 --> 00:14:38,044
+是在惩罚我吗?
+Am I being punished?
+
+286
+00:14:38,070 --> 00:14:41,046
+什么  和你老头子在一起干活就是惩罚你吗?
+What You think working with your old man is punishment?
+
+287
+00:14:41,047 --> 00:14:43,011
+不是的  小子
+No man
+
+288
+00:14:43,012 --> 00:14:47,012
+是我们在掌控自己命运
+It's just us taking control of our destiny.
+
+289
+00:14:48,016 --> 00:14:50,049
+感觉是在惩罚我
+Feels like punishment.
+
+290
+00:14:51,090 --> 00:14:53,094
+Sawyer...
+
+291
+00:14:55,029 --> 00:14:57,034
+嘿  Sawyer
+Hey Sawyer
+
+292
+00:14:58,092 --> 00:15:01,009
+其实,我可以直接进去
+You know, I could just go inside.
+
+293
+00:15:01,010 --> 00:15:03,097
+敬酒还是罚酒
+Trick or treat.
+
+294
+00:15:05,060 --> 00:15:07,010
+你二人今天要卖些什么呢?
+So, what are you two selling today?
+
+295
+00:15:07,011 --> 00:15:08,063
+Claire的日记在哪儿
+Where's Claire's diary?
+
+296
+00:15:08,064 --> 00:15:10,090
+有人从她包里拿走了
+Someone took it from her bag.
+
+297
+00:15:10,091 --> 00:15:12,046
+噢  我懂了
+Oh, I get it.
+
+298
+00:15:12,047 --> 00:15:13,039
+东西一丢
+Something goes missing
+
+299
+00:15:13,040 --> 00:15:16,034
+你立刻就会想到是我拿的
+and right away you figure it's gotta be me that took it.
+
+300
+00:15:16,035 --> 00:15:18,080
+你到底拿没拿那日记?
+Do you have the diary or not?
+
+301
+00:15:19,017 --> 00:15:20,051
+说的是这个吗?
+You mean this one?
+
+302
+00:15:20,052 --> 00:15:21,018
+给我
+Give it to me.
+
+303
+00:15:21,019 --> 00:15:23,029
+我看不好吧
+I'm not sure that's the best idea.
+
+304
+00:15:23,030 --> 00:15:26,027
+或许Claire小姐们儿不乐意让你看呢
+Maybe Missy Claire don't want you reading it.
+
+305
+00:15:26,028 --> 00:15:27,035
+我没想要看
+I wasn't gonna read it.
+
+306
+00:15:27,036 --> 00:15:30,030
+你就不好奇她怎么描述你的吗?
+You're not curious what she wrote about you?
+
+307
+00:15:31,016 --> 00:15:32,084
+你个混蛋  你看了吗?
+You bastard. Did you read it?
+
+308
+00:15:32,084 --> 00:15:34,070
+这附近好的文学作品不多
+Good literature's kinda scarce around here.
+
+309
+00:15:34,071 --> 00:15:35,024
+他看了!
+He read it!
+
+310
+00:15:35,025 --> 00:15:36,032
+给我们吧
+Just give it to us.
+
+311
+00:15:36,033 --> 00:15:39,030
+"亲爱的日记  我被过气的...
+"Dear Diary, I'm getting really freaked out by that has-been...
+
+312
+00:15:39,031 --> 00:15:41,038
+流行天王吓坏了
+pop star
+
+313
+00:15:41,039 --> 00:15:42,096
+我想他在跟踪我"
+I think he's stalking me"
+
+314
+00:15:42,097 --> 00:15:43,057
+Sawyer!
+
+315
+00:15:43,058 --> 00:15:46,041
+"日记  英国的小矮子还是弃而不舍"
+"Diary, the little limey runt just won't let up."
+
+316
+00:15:52,016 --> 00:15:53,067
+你打的象个娘们儿
+You hit like a ponce.
+
+317
+00:15:53,068 --> 00:15:56,018
+-噢  是吗?  -好了  够了
+-Oh, yeah?  -All right, enough.
+
+318
+00:15:57,076 --> 00:16:00,015
+你其实没看过  是吧
+You didn't really read it, did you?
+
+319
+00:16:00,034 --> 00:16:03,001
+只是还没来得及看
+I just hadn't gotten around to it yet.
+
+320
+00:16:26,076 --> 00:16:29,000
+我去拿些水
+I'm gonna get some water.
+
+321
+00:16:29,079 --> 00:16:31,035
+恩  好
+Yeah, okay.
+
+322
+00:16:31,036 --> 00:16:33,056
+给我带些
+Would you bring me some?
+
+323
+00:16:33,080 --> 00:16:35,058
+好吗
+Please?
+
+324
+00:16:35,059 --> 00:16:37,059
+好吗  谢谢
+Please and thank you.
+
+325
+00:16:37,060 --> 00:16:39,053
+我还真得多练练
+You gotta work on that.
+
+326
+00:16:40,083 --> 00:16:42,060
+Boone
+
+327
+00:16:44,068 --> 00:16:48,017
+你们还要继续空手而归吗?
+So you guys are just gonna keep coming back without any food?
+
+328
+00:16:48,088 --> 00:16:50,026
+嘿  我说正经的呐
+Hey, I'm serious.
+
+329
+00:16:52,018 --> 00:16:54,001
+你怎么了  Boone
+What's going on with you,Boone?
+
+330
+00:16:54,002 --> 00:16:55,073
+你好怪异啊
+Could you be acting any weirder?
+
+331
+00:16:55,074 --> 00:16:57,004
+Shannon
+
+332
+00:16:57,005 --> 00:17:00,019
+你自从初中就得了贪食症
+You've been a functioning bulimic since junior high.
+
+333
+00:17:00,080 --> 00:17:03,098
+我想如果能减一两个尺码你会很激动吧
+I thought you'd be excited about dropping a size or two.
+
+334
+00:17:04,055 --> 00:17:07,060
+既然你总是空手而归
+Well,since you're not having any luck with the hunting,
+
+335
+00:17:07,061 --> 00:17:09,024
+也许你该去帮一下Michael
+maybe you should help Michael.
+
+336
+00:17:09,025 --> 00:17:11,042
+他在造木筏
+He's building a raft.
+
+337
+00:17:12,028 --> 00:17:13,071
+我还想去帮他呢
+I was thinking I would help him out.
+
+338
+00:17:13,072 --> 00:17:16,028
+也许最后会从这儿出去
+maybe finally get the hell outta here.
+
+339
+00:17:17,088 --> 00:17:19,084
+你帮我好吗?
+Why don't you help me?
+
+340
+00:17:23,084 --> 00:17:25,099
+不  谢了
+No, thanks.
+
+341
+00:17:35,029 --> 00:17:38,057
+你父亲不愿意让我们在一起
+Your father doesn't want us spending time together.
+
+342
+00:17:39,018 --> 00:17:41,040
+他又不是我老大
+He's not the boss of me.
+
+343
+00:17:41,052 --> 00:17:43,058
+可他是你父亲
+But he's your father.
+
+344
+00:17:44,061 --> 00:17:48,020
+并且他关心你  你要尊重他
+And he cares about you,and you need to show him respect.
+
+345
+00:17:49,052 --> 00:17:51,032
+我是说真的  Walt
+I'm serious, Walt.
+
+346
+00:17:51,033 --> 00:17:53,082
+你别再来找我了
+You're not to come to me anymore.
+
+347
+00:17:54,068 --> 00:17:55,083
+该死!
+Damn it!
+
+348
+00:17:55,084 --> 00:17:58,052
+你怎么回事?
+What is wrong with you?
+
+349
+00:17:58,070 --> 00:18:01,042
+-我刚要去看...  -我告诉过你离我儿子远点儿!
+-I was just coming to see...  -I told you to stay away from my son!
+
+350
+00:18:01,043 --> 00:18:03,062
+-不是他,我只是...  -Walt  我不想听你解释
+-He didn't.I was just...  -Walt I don't want to hear it from you!
+
+351
+00:18:03,063 --> 00:18:06,006
+我只是让他把这铅笔带给你
+I was giving him this pencil to give to you.
+
+352
+00:18:06,007 --> 00:18:08,019
+我想你会用得着
+I thought you could use it.
+
+353
+00:18:09,022 --> 00:18:10,081
+把它当作是...
+Consider it...
+
+354
+00:18:10,082 --> 00:18:13,093
+友好的赠品
+a peace offering.
+
+355
+00:18:16,075 --> 00:18:18,097
+我要是再看到你和我儿子在一起
+I catch you with my son again
+
+356
+00:18:18,098 --> 00:18:21,013
+我就干掉你
+I'll kill you.
+
+357
+00:18:38,065 --> 00:18:39,075
+你个混蛋
+You're a jerk.
+
+358
+00:18:39,076 --> 00:18:40,069
+你说我什么?
+What did you say to me?
+
+359
+00:18:40,070 --> 00:18:42,053
+Locke没做错什么  他是我的朋友!
+Mr Locke didn't do anything. He's my friend!
+
+360
+00:18:42,053 --> 00:18:43,099
+现在不是了
+He's not anymore.
+
+361
+00:18:44,000 --> 00:18:45,012
+是我在照顾你
+I'm looking out for you.
+
+362
+00:18:45,013 --> 00:18:47,004
+你才不关心我  你从未关心过我
+You don't care about me. You never cared about me.
+
+363
+00:18:47,005 --> 00:18:48,094
+-什么?  -你只是在我妈死后才出现了
+-What?  -You only showed up after Mom died.
+
+364
+00:18:48,094 --> 00:18:51,005
+我小时候你到哪儿去了  没影了吧
+Where were you when I was growing up,huh? Nowhere!
+
+365
+00:18:51,005 --> 00:18:53,054
+听着  Walt  这一言难尽
+Listen, Walt. It's complicated.
+
+366
+00:18:53,054 --> 00:18:56,037
+我才不管  你不是我父亲
+I don't even care! You're not my father!
+
+367
+00:18:59,065 --> 00:19:01,058
+你要恨我吗?
+You wanna hate me?
+
+368
+00:19:01,085 --> 00:19:04,052
+你要因为一些我无法改变的事来惩罚我吗?  好
+You gonna punish me for something I can't change? Fine.
+
+369
+00:19:04,053 --> 00:19:07,023
+但你还是要听我话
+But you will listen to me.
+
+370
+00:19:12,069 --> 00:19:16,009
+你现在给我到那边去
+Now, you get over there,
+
+371
+00:19:16,055 --> 00:19:18,062
+就在那呆着
+and you stay there.
+
+372
+00:19:20,054 --> 00:19:22,065
+快!
+Now!
+
+373
+00:19:54,057 --> 00:19:56,014
+真不错呢
+That's really wonderful.
+
+374
+00:19:56,015 --> 00:19:58,037
+噢  多谢
+Oh, thanks.
+
+375
+00:19:58,038 --> 00:19:59,063
+给我儿子的
+For my son.
+
+376
+00:19:59,064 --> 00:20:00,095
+他下周就要两岁了
+He's gonna be two next week.
+
+377
+00:20:00,096 --> 00:20:02,098
+是吗  我还不知道你有个孩子
+Yeah? I didn't know you have a kid.
+
+378
+00:20:02,099 --> 00:20:04,075
+有的
+Yeah.
+
+379
+00:20:05,000 --> 00:20:06,051
+恩  呃
+Yeah.Um
+
+380
+00:20:06,052 --> 00:20:09,009
+他和他妈住在阿姆斯特丹
+He lives in Amsterdam with his mom.
+
+381
+00:20:09,036 --> 00:20:11,040
+去看过他吗
+Ever gonna visit him?
+
+382
+00:20:11,041 --> 00:20:13,008
+没有
+No
+
+383
+00:20:13,009 --> 00:20:14,041
+还没看过
+not yet.
+
+384
+00:20:14,042 --> 00:20:18,035
+我与小轿车来了个拥抱
+I had a little, you know,run-in with a car.
+
+385
+00:20:19,058 --> 00:20:21,023
+不知道该写些什么
+I never know what to write.
+
+386
+00:20:21,024 --> 00:20:22,067
+笑话怎么样
+How about a joke?
+
+387
+00:20:22,068 --> 00:20:24,011
+不知道
+I don't know.
+
+388
+00:20:24,012 --> 00:20:25,022
+哪类笑话
+ What kinda joke?
+
+389
+00:20:25,023 --> 00:20:28,041
+"什么东西有黑色  白色和红色呢"
+How about "What's black, white and red all over?"
+
+390
+00:20:28,042 --> 00:20:29,073
+恩  报纸  对吧
+Yeah, a newspaper, right?
+
+391
+00:20:29,074 --> 00:20:32,068
+被太阳晒伤的企鹅
+A penguin with a sunburn.
+
+392
+00:20:33,066 --> 00:20:36,065
+-好傻哦  -相信我  我是四个孩子的妈
+-That's really dumb  -Trust me.Mother of four talking here.
+
+393
+00:20:36,066 --> 00:20:38,085
+他会很开心的
+He'll get a kick out of it.
+
+394
+00:20:42,053 --> 00:20:44,090
+你好  Michael
+Hello, Michael.
+
+395
+00:20:53,026 --> 00:20:55,023
+Susan
+
+396
+00:20:57,069 --> 00:20:59,003
+我最后还是给Andy打电话了
+Finally called Andy
+
+397
+00:20:59,004 --> 00:21:01,097
+因为两个多月没有你的音信
+when I hadn't heard from you in over two months.
+
+398
+00:21:02,046 --> 00:21:05,084
+我还是从他那知道你发生了意外  你该给我打电话
+I had to hear about your accident from him. You should've called me.
+
+399
+00:21:07,028 --> 00:21:09,021
+恩
+Yeah
+
+400
+00:21:09,022 --> 00:21:11,039
+考虑到我们最后一次谈话的情况...
+well, considering how our last conversation went...
+
+401
+00:21:11,040 --> 00:21:14,079
+我真的很抱歉
+I'm so sorry about that.
+
+402
+00:21:14,080 --> 00:21:15,097
+你带Walt来了吗?
+Hey, did you bring Walt?
+
+403
+00:21:15,098 --> 00:21:18,038
+没带  他在家
+No.No. He's at home.
+
+404
+00:21:19,053 --> 00:21:22,078
+在家  和Brian在一起?
+Home.With Brian?
+
+405
+00:21:26,085 --> 00:21:29,014
+那你来这干什么
+So, what are you doing here, anyway?
+
+406
+00:21:29,055 --> 00:21:31,074
+来看你
+I came to see you.
+
+407
+00:21:32,032 --> 00:21:34,061
+我看起来相当不错  是吧
+So, I look pretty good, huh?
+
+408
+00:21:34,063 --> 00:21:36,060
+没那么糟糕
+Not that bad.
+
+409
+00:21:37,037 --> 00:21:39,094
+护士说你能够完全康复
+The nurses say you're expected to make a full recovery.
+
+410
+00:21:39,095 --> 00:21:42,035
+恩  要进行一年的理疗
+Yeah, after a year of physical therapy.
+
+411
+00:21:42,036 --> 00:21:44,034
+一年
+A year.
+
+412
+00:21:45,054 --> 00:21:48,040
+-我会替你付所有的医疗费用  -什么
+-I'm covering all your medical costs.  -What?
+
+413
+00:21:48,041 --> 00:21:50,070
+我和医院管理部门说过了
+I've already spoken to the hospital administrator,
+
+414
+00:21:50,071 --> 00:21:52,059
+你的帐单都由我来付
+And all your bills are coming directly toward me.
+
+415
+00:21:52,060 --> 00:21:54,063
+怎么回事
+What is this about?
+
+416
+00:21:56,042 --> 00:21:58,093
+Brian和我要结婚了
+Brian and I are getting married.
+
+417
+00:22:01,035 --> 00:22:02,031
+多好啊...
+How nice for...
+
+418
+00:22:02,032 --> 00:22:05,068
+你什么都不必说  听着就行
+You don't have to say anything. Just listen.
+
+419
+00:22:05,093 --> 00:22:08,004
+我们月底将搬到意大利
+We're moving to Italy at the end of the month.
+
+420
+00:22:08,005 --> 00:22:10,006
+Brian将接管公司在罗马的办公室
+Brian's taking over the firm's Rome offices.
+
+421
+00:22:10,007 --> 00:22:12,045
+听起来Brian万事顺心呐
+Sounds like Brian's on a roll.
+
+422
+00:22:13,041 --> 00:22:15,099
+并且他想要领养Walt
+And he wants to adopt Walt.
+
+423
+00:22:18,035 --> 00:22:19,075
+我知道很难受
+Look, I know this is hard.
+
+424
+00:22:19,076 --> 00:22:22,022
+但就考虑一下
+But just think about it.
+
+425
+00:22:22,057 --> 00:22:23,080
+你跟我开玩笑  是吗?
+You're kidding me, right?
+
+426
+00:22:23,081 --> 00:22:26,016
+想想怎么做才对Walt好
+Consider what's best for Walt.
+
+427
+00:22:26,017 --> 00:22:30,021
+你可以一直坚持自己的立场 但自问一下...
+You can keep holding on if you want.But ask yourself...
+
+428
+00:22:30,022 --> 00:22:33,029
+为什么要这么做  是真的为了他?
+why you're doing that. Is it really for him?
+
+429
+00:22:33,082 --> 00:22:35,086
+还是为了你自己?
+Or is it for you?
+
+430
+00:22:41,099 --> 00:22:43,063
+嘿 老兄
+Uh, dude
+
+431
+00:22:43,064 --> 00:22:45,044
+你孩子不见了
+your kid's gone.
+
+432
+00:22:45,045 --> 00:22:46,038
+什么?
+What?
+
+433
+00:22:46,039 --> 00:22:49,010
+他牵着狗走了
+He just grabbed the dog and took off.
+
+434
+00:22:55,023 --> 00:22:57,027
+我知道他去哪儿了
+I know where he's gone.
+
+435
+00:23:03,069 --> 00:23:05,034
+Locke
+
+436
+00:23:05,035 --> 00:23:06,099
+他到底在哪儿?
+Where the hell is he?
+
+437
+00:23:07,000 --> 00:23:10,067
+-什么  -我没心情和你捉迷藏  Walt在哪儿?
+-What  -I'm not in the mood for your games, man. Where's Walt?
+
+438
+00:23:10,068 --> 00:23:12,025
+-Walt不在这里  Michael  -别骗我
+-Walt's not here, Michael  -Don't lie to me.
+
+439
+00:23:12,026 --> 00:23:13,098
+老兄  他不在这  看看周围
+Hey man, he is not here. Look around.
+
+440
+00:23:13,099 --> 00:23:15,011
+我没和你说话
+Hey, I'm not talking to you.
+
+441
+00:23:15,012 --> 00:23:19,000
+今早我告诉他别来找我了
+I told him this morning that he couldn't be around me anymore.
+
+442
+00:23:19,034 --> 00:23:21,082
+我在试着尊重你的意愿
+I'm trying to respect your wishes.
+
+443
+00:23:27,082 --> 00:23:30,004
+那如果他没有...
+Well, then if he's not...
+
+444
+00:23:39,015 --> 00:23:41,026
+咱们走  去找你孩子吧
+Let's go find your boy.
+
+445
+00:23:44,058 --> 00:23:46,034
+谢谢...
+Thanks...
+
+446
+00:23:46,076 --> 00:23:48,092
+其实不用你帮我
+You really didn't have to help, you know.
+
+447
+00:23:48,093 --> 00:23:50,095
+我能行
+I could've managed.
+
+448
+00:23:50,096 --> 00:23:53,030
+我打架也不是第一次了
+I've had my share of manly encounters.
+
+449
+00:23:53,031 --> 00:23:55,079
+我只是看你需要个同伴
+I just thought you could use the company.
+
+450
+00:23:57,017 --> 00:23:58,094
+你还好吧
+You okay?
+
+451
+00:24:01,035 --> 00:24:03,007
+恩
+Yeah.
+
+452
+00:24:05,068 --> 00:24:07,072
+怪事
+It's weird.
+
+453
+00:24:09,008 --> 00:24:12,053
+我以前都不怎么了解她...现在也不怎么了解她
+I barely knew her...Barely know her
+
+454
+00:24:12,054 --> 00:24:14,056
+Claire
+
+455
+00:24:14,075 --> 00:24:17,028
+她失踪一周了
+She's been missing over a week, and...
+
+456
+00:24:17,067 --> 00:24:20,070
+没有她的每一天  感觉自己就象...
+every day she's gone, it feels like...
+
+457
+00:24:22,004 --> 00:24:24,076
+支离破碎...
+bits of me are crumbling...
+
+458
+00:24:24,077 --> 00:24:26,076
+或是什么的
+or something.
+
+459
+00:24:28,081 --> 00:24:31,068
+你应该保护好她的东西
+I think it's right that you should keep her stuff safe...
+
+460
+00:24:31,084 --> 00:24:33,093
+直到她会回来
+till she gets back.
+
+461
+00:24:36,086 --> 00:24:38,093
+恩
+Yeah.
+
+462
+00:25:38,084 --> 00:25:40,092
+来  Vincent
+Come on, Vincent.
+
+463
+00:26:06,041 --> 00:26:08,088
+Vincent  别乱动
+Vincent! Cut it out!
+
+464
+00:26:09,051 --> 00:26:12,010
+别乱动  Vincent  怎么了?
+Cut it out! Vincent What's wrong?
+
+465
+00:26:12,084 --> 00:26:14,045
+Vincent
+
+466
+00:26:20,046 --> 00:26:22,016
+Vincent
+
+467
+00:26:22,058 --> 00:26:24,026
+Vincent
+
+468
+00:26:25,098 --> 00:26:28,016
+你该看看他是如何设法逃避责任的
+You should have seen him trying to weasel his way out.
+
+469
+00:26:28,017 --> 00:26:30,066
+不遗余力地推延案子进展
+Anything not to let the case go forward.
+
+470
+00:26:30,067 --> 00:26:33,015
+-他说不是他司法管辖范围  -你跟我开玩笑是吧
+He was arguing it wasn't his jurisdiction.  -Oh, you're kidding me.
+
+471
+00:26:33,016 --> 00:26:36,024
+我倒想呢  连续三次同样的论据
+I wish I was. Same argument third time in a row.
+
+472
+00:26:36,025 --> 00:26:37,090
+Barkley说是移民问题
+Barkley said it was an immigration issue.
+
+473
+00:26:37,090 --> 00:26:40,010
+Barkley  老样子
+Barkley. That's classic.
+
+474
+00:26:40,023 --> 00:26:43,070
+他以为我刚接触到澳大利亚的法律  我就是乡巴佬什么的
+He thinks 'cause I'm new to Australian law that I'm some kind of yokel or something.
+
+475
+00:26:43,071 --> 00:26:46,037
+嘿...干嘛呐?
+Hey. Hello?
+
+476
+00:26:46,041 --> 00:26:47,025
+做作业
+Homework.
+
+477
+00:26:47,026 --> 00:26:48,088
+我说过我需要帮助
+I told you I need help.
+
+478
+00:26:48,089 --> 00:26:49,065
+他需要帮助
+He needs help.
+
+479
+00:26:49,065 --> 00:26:51,098
+我是律师  甜心  我能分辨出谁在偷懒
+I'm a lawyer,sweetheart. I can tell when someone's stalling.
+
+480
+00:26:51,099 --> 00:26:54,026
+谁在乎澳大利亚的鸟儿?
+Who cares about birds of Australia?
+
+481
+00:26:54,027 --> 00:26:56,024
+我们在澳大利亚
+We're in Australia.
+
+482
+00:26:57,034 --> 00:26:58,023
+没事吧
+You okay?
+
+483
+00:26:58,024 --> 00:26:59,086
+我觉得有点...感冒了
+I think I'm feeling kind of...flu-ey.
+
+484
+00:26:59,087 --> 00:27:03,039
+-难道我们不该研究埃及的鸟之类的吗  -你最近没睡多少觉
+-Shouldn't we study birds of Egypt or somthing?  -You haven't been sleeping much lately.
+
+485
+00:27:03,040 --> 00:27:05,079
+也许你该请一天假
+Maybe you need to take a personal day.
+
+486
+00:27:05,087 --> 00:27:07,070
+我选了青铜杜鹃
+I picked the bronze-cuckoo.
+
+487
+00:27:07,071 --> 00:27:09,029
+-有意思  你想看看吗?  -那Barkley呢?
+-It's funny, you wanna see?  -What about Barkley?
+
+488
+00:27:09,030 --> 00:27:12,054
+我是说看起来没意思  只是因为那名字
+I mean, it doesn't look funny. Just the name.
+
+489
+00:27:12,055 --> 00:27:17,049
+-睡懒觉? 那是奢望  -Brian  看  看
+-Sleeping in late? That's too much of a fantasy  -Hey Brain look! look!
+
+490
+00:27:20,023 --> 00:27:22,005
+你没在看啊
+You're not looking!
+
+491
+00:27:25,061 --> 00:27:27,085
+你没在看啊
+You're not looking!
+
+492
+00:27:30,057 --> 00:27:32,031
+噢  天那!
+Oh, my God!
+
+493
+00:27:40,043 --> 00:27:42,018
+它死了吗?
+Is it dead?
+
+494
+00:27:42,019 --> 00:27:43,090
+恩
+Yeah.
+
+495
+00:27:43,091 --> 00:27:45,093
+可怜的家伙
+Poor guy.
+
+496
+00:28:05,099 --> 00:28:07,073
+Vincent
+
+497
+00:28:11,006 --> 00:28:12,095
+Vincent
+
+498
+00:28:34,022 --> 00:28:35,096
+Michael Dawson?
+
+499
+00:28:36,031 --> 00:28:38,079
+恩  有何贵干?
+Yeah. Can I help you?
+
+500
+00:28:40,066 --> 00:28:42,062
+我是Brian Porter
+I'm Brian Porter.
+
+501
+00:28:43,057 --> 00:28:45,052
+Susan的Brian吗
+Susan's Brian?
+
+502
+00:28:50,061 --> 00:28:52,050
+是的 能进来吗?
+Yeah.Can I come in?
+
+503
+00:28:53,040 --> 00:28:54,015
+我要和你谈谈
+I need to talk to you.
+
+504
+00:28:54,016 --> 00:28:56,046
+Susan知道你来这吗  老兄
+Susan know you're here, man?
+
+505
+00:28:56,083 --> 00:28:58,097
+Susan昨天死了
+Susan died yesterday.
+
+506
+00:29:04,056 --> 00:29:06,048
+拜托
+Please
+
+507
+00:29:11,036 --> 00:29:13,054
+她  呃...
+She, uh...
+
+508
+00:29:14,000 --> 00:29:16,083
+她得的是血液病
+It turns out she had a blood disorder.
+
+509
+00:29:17,095 --> 00:29:20,035
+发病只有一周时间
+She was only sick for about a week.
+
+510
+00:29:20,037 --> 00:29:21,091
+我不知...我  呃...
+I didn't know...I uh...
+
+511
+00:29:21,092 --> 00:29:23,036
+我和她有段时间没说话了
+I hadn't talked to her in a while...
+
+512
+00:29:23,037 --> 00:29:25,041
+坐
+Sit down.
+
+513
+00:29:25,093 --> 00:29:27,048
+呃  那Walt呢?
+Uh...and Walt?
+
+514
+00:29:27,049 --> 00:29:30,036
+-他怎么样  呃...?  -挺好的  他  呃...
+-How is he, uh...?  -Yeah, he's fine.He is,uh...
+
+515
+00:29:30,037 --> 00:29:32,022
+他和他保姆在家
+He's back home with his nanny.
+
+516
+00:29:32,023 --> 00:29:33,036
+什么?
+What?
+
+517
+00:29:33,037 --> 00:29:34,071
+我是说他没事
+I mean he's fine
+
+518
+00:29:34,072 --> 00:29:37,034
+我是说,考虑到...你也知道的
+I mean, considering...You know.
+
+519
+00:29:37,035 --> 00:29:40,093
+他刚失去母亲你就把他丢在家里吗?
+You left him home after he just lost his mother?
+
+520
+00:29:41,062 --> 00:29:42,098
+在她死之前
+Before she died,
+
+521
+00:29:42,099 --> 00:29:44,081
+Susan...
+
+522
+00:29:44,082 --> 00:29:47,088
+她告诉我她想让你作Walt的监护人
+she told me she wanted you to have custody of Walt.
+
+523
+00:29:48,066 --> 00:29:49,094
+她什么
+She what?
+
+524
+00:29:49,095 --> 00:29:51,054
+恩  我想她只是认为...
+Well, I think she just thought...
+
+525
+00:29:51,055 --> 00:29:53,067
+我是说  因为你是他的父亲
+I mean, since you're his father...
+
+526
+00:29:53,067 --> 00:29:56,064
+我已经有九年没当他的父亲了
+I haven't been his father in nine years.
+
+527
+00:29:57,004 --> 00:29:58,078
+恩
+Yeah, well,
+
+528
+00:29:59,030 --> 00:30:01,071
+你瞧说的就是这事...
+that's kinda the thing, see...
+
+529
+00:30:02,087 --> 00:30:05,045
+听着  我深爱Susan
+Look, I loved Susan very much.
+
+530
+00:30:05,073 --> 00:30:08,038
+我从开始就对她开门见山
+And I was honest with her from the beginning,
+
+531
+00:30:08,039 --> 00:30:11,031
+可她...她不听
+but she...she wouldn't hear it.
+
+532
+00:30:11,032 --> 00:30:12,028
+听什么?
+Hear what?
+
+533
+00:30:12,029 --> 00:30:15,035
+我...我不想当父亲  知道吗?
+That I...I didn't want to be a father, all right?
+
+534
+00:30:15,035 --> 00:30:16,042
+我就是不知道如何去当父亲
+I just don't know how.
+
+535
+00:30:16,043 --> 00:30:18,062
+你到底在说什么啊  老兄?  你领养了他
+What the hell are you talking about,man? You adopted him.
+
+536
+00:30:18,063 --> 00:30:20,075
+对  对  我是领养了他. 因为她想要那样
+Yes,yes,I did.because she wanted that,
+
+537
+00:30:20,076 --> 00:30:22,065
+而我想要她
+and I wanted her
+
+538
+00:30:23,043 --> 00:30:25,017
+听我说...
+Look...
+
+539
+00:30:26,097 --> 00:30:28,070
+这是两张机票...一张往返
+Theses are two tickets...one round-trip
+
+540
+00:30:28,070 --> 00:30:30,069
+一张单程从悉尼到纽约
+the other one-way, Sydney to New York.
+
+541
+00:30:30,070 --> 00:30:33,073
+信封里有旅行的费用
+The envelope has money in it for travel expenses.
+
+542
+00:30:34,055 --> 00:30:35,066
+她没告诉你...
+She didn't tell you...
+
+543
+00:30:35,067 --> 00:30:38,030
+她想让我来当监护人  这是你的主意
+she wanted me to have custody of him. This is your idea.
+
+544
+00:30:38,031 --> 00:30:39,062
+我现在快崩溃了  知道吗?
+I'm a wreck right now, okay?
+
+545
+00:30:39,063 --> 00:30:40,098
+那我该体谅你吗?
+I'm supposed to give a damn about you?
+
+546
+00:30:40,099 --> 00:30:43,054
+我刚失去了我爱的女人  我没法当他的父亲
+Hey I just lost the woman I love.And I can't be his father.
+
+547
+00:30:43,054 --> 00:30:46,004
+-他不是我儿子  -你个婊子养的  你说什么呐?
+-He is not my son  -You son of a bitch! What are you talking about?
+
+548
+00:30:46,004 --> 00:30:47,065
+-他只知道你这么一个父亲!  -不光是这样
+-You're the only father he knows!  -It's more than that.
+
+549
+00:30:47,065 --> 00:30:50,076
+-好吧,那是什么?  -他有些不对劲
+-Well,then,waht?  -There's something about him.
+
+550
+00:30:52,033 --> 00:30:54,073
+你到底在说什么  老兄?
+What the hell are you talking about,man?
+
+551
+00:30:57,050 --> 00:30:59,066
+有时候有他在
+Sometimes when he's around
+
+552
+00:30:59,079 --> 00:31:01,074
+就会有事发生
+things happen.
+
+553
+00:31:04,031 --> 00:31:06,035
+不知为何  他与众不同
+He's different somehow.
+
+554
+00:31:11,044 --> 00:31:13,027
+在这里!
+Over here!
+
+555
+00:31:16,045 --> 00:31:19,040
+-到底怎么...  -救命啊
+-What the hell would...  -Help, please! Help!
+
+556
+00:31:19,041 --> 00:31:21,059
+-Walt?  -这边
+-Walt?  -This way.
+
+557
+00:31:23,058 --> 00:31:25,025
+Walt
+
+558
+00:31:25,035 --> 00:31:27,006
+Walt
+
+559
+00:31:28,066 --> 00:31:31,055
+Walt随时会从学校回来
+Walt should be home from school any minute.
+
+560
+00:31:33,035 --> 00:31:35,075
+Porter先生让我把这个交给你
+Mr. Porter asked me to give you that.
+
+561
+00:31:35,090 --> 00:31:38,001
+一些Susan的遗物
+Some of Susan's effects.
+
+562
+00:31:38,002 --> 00:31:40,045
+噢  好  谢谢
+Oh,okay,thanks.
+
+563
+00:31:40,080 --> 00:31:42,083
+还有些别的东西
+There's something else.
+
+564
+00:31:51,047 --> 00:31:52,043
+是什么?
+What's that?
+
+565
+00:31:52,044 --> 00:31:54,092
+我认为Walt应该得到的东西
+Something I think Walt should have.
+
+566
+00:31:59,020 --> 00:32:00,091
+失陪
+Excuse me.
+
+567
+00:32:31,046 --> 00:32:33,053
+Walt
+
+568
+00:32:33,082 --> 00:32:36,081
+-恩  -有人来看你了
+-Yeah?  -There's somebody here to see you.
+
+569
+00:32:52,024 --> 00:32:55,042
+爸!  救命!
+Dad! Help!
+
+570
+00:32:57,046 --> 00:32:58,086
+-爸!  -Walt!
+-Dad!  -Walt!
+
+571
+00:32:58,086 --> 00:33:01,056
+爸  救我! 快!
+Dad, help! Please!
+
+572
+00:33:02,033 --> 00:33:04,050
+-救命  -嘿  Walt...
+-Help!  -Hey, Walt...
+
+573
+00:33:04,053 --> 00:33:06,079
+嘘  嘘  嘘
+Shh,Shh,Shh
+
+574
+00:33:09,014 --> 00:33:10,085
+爸!
+Dad!
+
+575
+00:33:12,006 --> 00:33:13,099
+来!  爬上去!
+Come on! Up here!
+
+576
+00:33:14,000 --> 00:33:15,031
+Michael
+
+577
+00:33:15,032 --> 00:33:17,006
+爸
+Dad
+
+578
+00:33:17,072 --> 00:33:19,042
+爸
+Dad
+
+579
+00:33:33,005 --> 00:33:34,079
+嘿  Walt
+Hey, Walt.
+
+580
+00:33:37,081 --> 00:33:39,055
+你是谁
+Who are you?
+
+581
+00:33:41,021 --> 00:33:43,017
+我  呃...
+I'm, uh...
+
+582
+00:33:50,083 --> 00:33:52,073
+我是你父亲
+I'm your father.
+
+583
+00:34:03,071 --> 00:34:05,064
+你要知道...
+I want you to know...
+
+584
+00:34:07,009 --> 00:34:10,017
+听我说  我无法解释对你母亲的事...
+Listen, I can't explain how sorry I am...
+
+585
+00:34:10,032 --> 00:34:12,006
+我有多抱歉
+about your mom.
+
+586
+00:34:13,005 --> 00:34:16,070
+你要知道我们  呃...
+You should know that we, uh...
+
+587
+00:34:17,012 --> 00:34:20,045
+我们有你的时候我们很恩爱
+we loved each other very much when we had you.
+
+588
+00:34:22,034 --> 00:34:24,015
+Brian在哪儿?
+Where's Brian?
+
+589
+00:34:25,005 --> 00:34:26,090
+Brian不在这儿
+Brian's not here.
+
+590
+00:34:27,044 --> 00:34:31,082
+我是来接你回家的
+I come to bring you home with me.
+
+591
+00:34:33,087 --> 00:34:36,016
+我不会和你走
+I'm not going anywhere with you.
+
+592
+00:34:39,072 --> 00:34:42,008
+Walt  我能...?
+Walt, can I...?
+
+593
+00:34:44,060 --> 00:34:47,084
+呃...我知道
+Uh...I know
+
+594
+00:34:47,085 --> 00:34:51,019
+真的很难理解...这所有的事
+this is really hard to understand...all of this.
+
+595
+00:34:52,005 --> 00:34:53,097
+知道吗  Brian...
+See, Brian...
+
+596
+00:34:56,061 --> 00:34:59,041
+Brian非常爱你
+Brian loves you very much.
+
+597
+00:34:59,042 --> 00:35:03,017
+他想让你和他在一起 但不是他能决定的
+And he wants you to stay with him, but it's not his choice.
+
+598
+00:35:03,025 --> 00:35:05,049
+是我决定的
+It's mine.
+
+599
+00:35:05,054 --> 00:35:07,087
+我是你的合法监护人
+I'm your legal guardian.
+
+600
+00:35:09,046 --> 00:35:10,092
+并且  呃
+And, uh
+
+601
+00:35:10,093 --> 00:35:13,056
+不是说他会从此消失
+it's not like he's gonna disappear from your life.
+
+602
+00:35:13,057 --> 00:35:16,003
+他还会打电话给你  写信给你
+He'll still call you, write to you,
+
+603
+00:35:16,004 --> 00:35:18,054
+有时间就来看你
+come to see you whenever he can.
+
+604
+00:35:19,055 --> 00:35:21,025
+还有你知道吗
+And you know
+
+605
+00:35:21,055 --> 00:35:23,080
+你可以继续带着你的狗
+you'll still have your dog.
+
+606
+00:35:24,099 --> 00:35:28,042
+可Vincent不是我的
+But Vincent isn't mine.
+
+607
+00:35:28,048 --> 00:35:30,033
+是Brian的
+He's Brian's.
+
+608
+00:35:32,001 --> 00:35:34,019
+Brian说它是你的了
+Brian said you could have him.
+
+609
+00:35:42,008 --> 00:35:43,023
+爸
+Dad.
+
+610
+00:35:43,024 --> 00:35:45,039
+-嘿  Walt!  -爸
+-Hey, Walt!  -Dad!
+
+611
+00:35:45,040 --> 00:35:46,097
+-爸!  -你在哪儿  爸?
+-Dad!  -Where are you, Dad?
+
+612
+00:35:46,098 --> 00:35:48,099
+坚持住
+Hang on
+
+613
+00:35:58,017 --> 00:36:01,014
+好  我们走  走
+Okay. Let's go. Let's go.
+
+614
+00:36:06,092 --> 00:36:09,039
+Walt  在那别动  知道吗
+Hey Walt, just hang in there, okay?
+
+615
+00:36:14,019 --> 00:36:15,099
+我来了  小子
+I'm coming, man.
+
+616
+00:36:16,077 --> 00:36:19,059
+-爸!  -Walt!
+-Dad!  -Walt!
+
+617
+00:36:19,060 --> 00:36:21,055
+把刀丢给他
+Throw him the knife.
+
+618
+00:36:24,030 --> 00:36:26,003
+Walt
+
+619
+00:36:28,030 --> 00:36:31,040
+他要是靠近了  就用刀!
+If he comes near you, use it!
+
+620
+00:36:38,026 --> 00:36:40,036
+在那别动  小子!
+Stay there, buddy!
+
+621
+00:36:45,033 --> 00:36:46,083
+来
+Come here.
+
+622
+00:36:46,084 --> 00:36:48,055
+爸
+Dad
+
+623
+00:36:51,062 --> 00:36:52,051
+-你没事吧?  -恩
+-You okay?  -Yeah.
+
+624
+00:36:52,052 --> 00:36:53,075
+-你没事吧?  -恩
+-Are you okay?  -Yeah.
+
+625
+00:36:53,076 --> 00:36:56,077
+好  无论如何
+All right.Whatever you do
+
+626
+00:36:56,078 --> 00:36:59,043
+你都紧紧抓住这个  知道吗  紧紧抓住
+you hold onto this tight. You got me? Tight
+
+627
+00:36:59,043 --> 00:37:01,027
+-那你呢  -别管我
+-What about you?  -Don't worry about me.
+
+628
+00:37:01,028 --> 00:37:03,047
+我马上就来  好吗?
+I'll be right behind you, okay?
+
+629
+00:37:03,048 --> 00:37:04,089
+好,抓住了
+So, hold on.
+
+630
+00:37:04,090 --> 00:37:07,023
+好了  Locke  快!
+Okay, Locke, now!
+
+631
+00:37:08,050 --> 00:37:10,038
+拉
+Pull
+
+632
+00:37:17,036 --> 00:37:20,039
+拉  Locke  拉
+Pull him. Locke Pull
+
+633
+00:37:50,040 --> 00:37:52,000
+过来
+Come here.
+
+634
+00:37:57,001 --> 00:37:58,029
+对不起  对不起
+I'm sorry. I'm sorry
+
+635
+00:37:58,030 --> 00:38:00,017
+不  不  不
+No No No
+
+636
+00:38:00,018 --> 00:38:01,086
+没关系
+It's okay
+
+637
+00:38:01,087 --> 00:38:03,063
+我不会说你
+We're okay.
+
+638
+00:38:03,064 --> 00:38:05,021
+你安全了就好
+I'm just glad you're safe.
+
+639
+00:38:05,022 --> 00:38:07,013
+可Vincent,他又跑开了
+But Vincent, he ran off again.
+
+640
+00:38:07,013 --> 00:38:08,071
+他回来...
+He found his way...
+
+641
+00:38:08,072 --> 00:38:11,025
+找到过你一次  Walt
+back to you once, Walt.
+
+642
+00:38:13,047 --> 00:38:15,079
+他还会回来的
+He will again.
+
+643
+00:38:34,099 --> 00:38:36,083
+我有份礼物要送给你
+I got a present for you.
+
+644
+00:38:40,091 --> 00:38:43,041
+你说你喜欢看图片
+Since you like to look at pictures.
+
+645
+00:38:44,006 --> 00:38:46,080
+-这是什么  -打开看看
+-What's this?  -Well...
+
+646
+00:38:52,061 --> 00:38:57,005
+过去八年我寄给你的每封信 每张卡片
+Every card, every letter I sent you over the last eight years.
+
+647
+00:38:59,006 --> 00:39:00,062
+你给我写信了?
+You wrote me?
+
+648
+00:39:05,040 --> 00:39:07,050
+我从没见过
+I never saw these.
+
+649
+00:39:11,022 --> 00:39:13,047
+我妈知道吗?
+Did my mom have these?
+
+650
+00:39:18,067 --> 00:39:20,084
+为什么她不给我呢?
+Why didn't she give 'em to me?
+
+651
+00:39:20,085 --> 00:39:22,026
+不知道
+I don't know
+
+652
+00:39:22,027 --> 00:39:24,041
+可她也没有扔掉  也就是说...
+But she didn't throw 'em away either,which means,you know...
+
+653
+00:39:24,042 --> 00:39:27,013
+她内心深处还是想让你看到的
+somewhere inside,she wanted you to have them.
+
+654
+00:39:28,039 --> 00:39:30,070
+那  这些是你画的喽?
+So, you drew these?
+
+655
+00:39:30,071 --> 00:39:32,082
+为你画的
+Just for you.
+
+656
+00:39:33,081 --> 00:39:35,065
+这个
+This one
+
+657
+00:39:35,086 --> 00:39:38,022
+你两岁生日时我给你画的
+I did for your second birthday.
+
+658
+00:39:42,098 --> 00:39:46,016
+被晒伤的...企鹅?
+A penguin... with a sunburn?
+
+659
+00:39:46,081 --> 00:39:50,056
+-好傻哦  -恩  我知道  我也是那么说的
+-That's dumb.  -Yeah, I know.That's what I said.
+
+660
+00:40:36,090 --> 00:40:38,067
+Jack
+
+661
+00:40:39,071 --> 00:40:41,008
+Sayid
+
+662
+00:40:41,009 --> 00:40:42,064
+你得听听这个
+You have to hear this.
+
+663
+00:40:42,065 --> 00:40:43,044
+是什么?
+What is that?
+
+664
+00:40:43,045 --> 00:40:45,018
+是Claire的...她的日记
+It's Claire's, her diary.
+
+665
+00:40:45,019 --> 00:40:47,051
+-你看人家日记吗  -恩  我知道
+-You're reading her diary?  -Yeah, I know, I'm bloody scum.
+
+666
+00:40:47,052 --> 00:40:49,099
+我是他妈的人渣  听听这段
+I'm bloody scum. Just listen to this.
+
+667
+00:40:50,000 --> 00:40:53,042
+"我又做了那个诡异的梦  无法从那黑岩挣脱的梦
+"I had that weird dream again, the one with the black rock I can't get away from.
+
+668
+00:40:53,043 --> 00:40:55,037
+我尝试着要离开  可它不让"
+I try to leave it, but it won't let me."
+
+669
+00:40:55,038 --> 00:40:56,032
+黑岩?
+Black rock?
+
+670
+00:40:56,033 --> 00:40:57,069
+只是梦而已  Charlie
+They're just dreams. Charlie
+
+671
+00:40:57,070 --> 00:41:00,085
+不  Sayid先前提到过黑岩
+No. Sayid mentioned the black rock before.
+
+672
+00:41:00,086 --> 00:41:04,090
+那法国女人说过关于她的队伍从黑岩回来的事
+The Frenchwoman said her team was returning from the black rock.
+
+673
+00:41:06,051 --> 00:41:08,061
+地图上的三角形
+The triangle on the map.
+
+674
+00:41:08,063 --> 00:41:10,036
+也许是地图上的三角形
+Maybe it's the triangle on the map.
+
+675
+00:41:10,037 --> 00:41:11,096
+也许Claire被劫到那去了
+Maybe it's where Claire was taken.
+
+676
+00:41:11,097 --> 00:41:14,061
+-也许她在那里  -也许吧
+-Maybe she's there  -Maybe
+
+677
+00:41:14,062 --> 00:41:17,013
+Charlie  我们都想找到Claire
+Charlie  we all want to find Claire.
+
+678
+00:41:17,014 --> 00:41:18,095
+但半夜去那森林里...
+But there's no sense...
+
+679
+00:41:18,095 --> 00:41:21,014
+是不理智的
+going out into the jungle in the middle of the night.
+
+680
+00:41:28,008 --> 00:41:30,087
+我看那口哨没用  John
+I don't think that whistle's working, John.
+
+681
+00:41:31,095 --> 00:41:34,000
+你不是什么都听得见  Boone
+You can't hear everything, Boone.
+
+682
+00:41:34,001 --> 00:41:36,093
+你应该早点认识到这点
+The sooner you learn that, the better.
+
+683
+00:41:44,048 --> 00:41:46,046
+这我听见了
+Well, I heard that.
+
+684
+00:41:48,003 --> 00:41:49,087
+Vincent
+
+685
+00:41:51,017 --> 00:41:53,056
+Vincent  是你吗?
+Vincent, is that you?
+
+686
+00:41:58,002 --> 00:41:59,086
+Vincent
+
+687
+00:42:18,061 --> 00:42:20,042
+Claire
+
+688
+00:42:21,060 --> 00:42:38,060
+==============|  YYeTs字幕组招募启示  |==============
+英文字幕录制(居住在加拿大和美国)  双语字幕校正   时间轴调整   
+英语翻译   欧美影视新闻翻译  影视评论  论坛版主  美工人员  
+服务器提供者  发布宣传  联系地址：www.YYeTs.com
+==== YYeTs属于网络爱好者组织 加入者仅凭个人兴趣爱好 无报酬 ====
+
