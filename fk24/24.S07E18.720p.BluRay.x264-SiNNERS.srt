@@ -1,0 +1,3916 @@
+1
+00:00:00,000 --> 00:00:09,000
+ 本字幕由YYeTs人人影视翻译制作
+更多美剧下载 请登陆 www.YYeTs.net
+
+
+2
+00:00:00,000 --> 00:00:09,000
+■
+
+3
+00:00:12,059 --> 00:00:15,005
+《反恐24小时》前情提要
+Previously on 24
+
+4
+00:00:15,040 --> 00:00:16,098
+诺尔斯先生  我是杰克·鲍尔
+Mr. Knowles, my name is Jack Bauer.
+
+5
+00:00:16,098 --> 00:00:20,002
+乔纳斯·霍奇斯手上持有军用级生化武器
+Jonas Hodges is in possession of a military-grade bioweapon.
+
+6
+00:00:20,008 --> 00:00:22,038
+我试图拦截毒气罐时被感染了
+I was contaminated when trying to intercept the canisters.
+
+7
+00:00:22,045 --> 00:00:25,002
+先生  我保证  武器就在你们的基地
+I promise you, sir, the weapon is on your base.
+
+8
+00:00:25,008 --> 00:00:26,085
+你是否知道武器可能所在的位置
+Do you have any idea where they might be?
+
+9
+00:00:26,085 --> 00:00:27,099
+我想我可能知道
+I think I might.
+
+10
+00:00:27,099 --> 00:00:30,088
+我是奉美国总统之令行事
+I have an order from the President of the United States.
+
+11
+00:00:30,095 --> 00:00:32,018
+奉命来搜查这栋楼
+To search this building.
+
+12
+00:00:32,025 --> 00:00:33,078
+有大规模杀伤性武器吗
+Are there weapons of mass destruction?
+
+13
+00:00:33,085 --> 00:00:35,035
+有任何武器吗
+Are there weapons of any kind?
+
+14
+00:00:35,042 --> 00:00:36,058
+给你5分钟时间
+You've got five minutes
+
+15
+00:00:36,065 --> 00:00:38,075
+你和你的手下坐着这些直升机
+To get these helicopters flying out of here
+
+16
+00:00:38,082 --> 00:00:40,018
+给我离开这儿
+With all of you on board.
+
+17
+00:00:40,025 --> 00:00:41,042
+拉里  我要你和你的人
+Larry, I want you and your men
+
+18
+00:00:41,048 --> 00:00:42,085
+佯装按霍奇斯的意思准时撤兵
+To pull out on Hodges' Timetable.
+
+19
+00:00:42,092 --> 00:00:44,088
+托尼  你想办法潜伏下来
+Tony, you're gonna need to find a way to stay behind.
+
+20
+00:00:44,095 --> 00:00:46,037
+我们会通过无线电让你
+We're gonna get your vectors over to a man
+
+21
+00:00:46,037 --> 00:00:48,012
+跟一个斯塔克伍德内部人士取得联系
+That we contacted inside Starkwood.
+
+22
+00:00:48,018 --> 00:00:49,028
+他叫道格拉斯·诺尔斯
+His name is Douglas Knowles.
+
+23
+00:00:49,035 --> 00:00:50,078
+他觉得自己知道武器藏在哪里
+He believes he knows where the weapons are.
+
+24
+00:00:50,085 --> 00:00:53,038
+待在这  我马上回来
+Stay here. I'll be right back.
+
+25
+00:00:55,002 --> 00:00:56,062
+杰克
+Jack!
+
+26
+00:00:56,068 --> 00:00:58,008
+叫医护人员来
+We need a medic!
+
+27
+00:00:58,015 --> 00:01:00,008
+生化剂比我们想的要厉害得多
+The bioagent is more virulent than we thought.
+
+28
+00:01:00,015 --> 00:01:02,075
+我们所做的只是掩蔽症状而已
+All we're doing here is just masking the symptoms.
+
+29
+00:01:02,075 --> 00:01:04,029
+我明白
+I understand.
+
+30
+00:01:04,068 --> 00:01:05,095
+不过有件事你也许会考虑一下
+There's something you may want to consider.
+
+31
+00:01:06,002 --> 00:01:07,022
+什么事
+What's that?
+
+32
+00:01:07,028 --> 00:01:09,008
+一种采用干细胞的可能疗法
+A possible treatment using stem cells
+
+33
+00:01:09,008 --> 00:01:10,081
+需从基因匹配的捐赠者身上提取
+From a genetically compatible donor.
+
+34
+00:01:10,081 --> 00:01:12,038
+我看过你的档案  你有个女儿
+I saw your file, and it says you have a daughter.
+
+35
+00:01:12,045 --> 00:01:15,062
+我不想把我的女儿牵扯进来
+I don't want my daughter involved in this.
+
+36
+00:01:15,068 --> 00:01:17,065
+这应该由她来决定
+It should be her choice.
+
+37
+00:01:17,072 --> 00:01:18,075
+不是
+Well, it's not.
+
+38
+00:01:18,082 --> 00:01:20,042
+我才是快死的那个
+I'm the one who's dying.
+
+39
+00:01:20,048 --> 00:01:21,065
+我进来了
+I'm in.
+
+40
+00:01:21,072 --> 00:01:23,025
+但他们带走了诺尔斯
+But they got Knowles.
+
+41
+00:01:23,032 --> 00:01:25,012
+你的那一点点忠心
+A little loyalty.
+
+42
+00:01:25,018 --> 00:01:26,092
+我还是应得的吧
+Wasn't that the least I deserved?
+
+43
+00:01:26,098 --> 00:01:29,035
+你不能和政府作对啊
+You can't take on the federal government.
+
+44
+00:01:33,065 --> 00:01:36,012
+我看见武器了
+I have a visual on the weapon.
+
+45
+00:01:36,018 --> 00:01:37,055
+是毒气罐
+Okay, those are the canisters.
+
+46
+00:01:37,065 --> 00:01:40,065
+我去通知史密斯上将  目标已找到并确认
+I'll notify Admiral Smith the target is located and confirmed.
+
+47
+00:01:40,072 --> 00:01:43,062
+您还记得斯塔克伍德驻扎在巴基斯坦吧
+You remember Starkwood was deployed to Pakistan,
+
+48
+00:01:43,068 --> 00:01:46,045
+那时我们征用过一种导弹系统
+That we requisitioned a missile system at that Time.
+
+49
+00:01:46,052 --> 00:01:49,002
+三枚那样的导弹
+Well, three of those missiles
+
+50
+00:01:49,008 --> 00:01:50,052
+现正装满病原体
+Are now loaded with a pathogen
+
+51
+00:01:50,058 --> 00:01:53,065
+目标是东部沿海各城市
+And aimed at cities on our eastern seaboard.
+
+52
+00:01:53,072 --> 00:01:55,065
+您要对此次会晤守口如瓶
+You will keep this conversation to yourself
+
+53
+00:01:55,072 --> 00:01:56,085
+并且召回战斗机
+And turn the planes around.
+
+54
+00:01:56,092 --> 00:01:59,028
+您要是不答应的话  总统阁下
+And if you do not comply, Madam President,
+
+55
+00:01:59,035 --> 00:02:01,002
+我就别无选择
+I will have no choice
+
+56
+00:02:01,008 --> 00:02:02,082
+只能发射那些导弹
+But to launch those missiles.
+
+57
+00:02:02,088 --> 00:02:04,082
+史密斯上将  取消空袭
+Abort the air strike, Admiral Smith.
+
+58
+00:02:04,088 --> 00:02:05,098
+阁下  恕我直言
+Ma'am, with all respect...
+
+59
+00:02:06,005 --> 00:02:07,002
+见鬼  上将
+Damn it, admiral.
+
+60
+00:02:07,008 --> 00:02:09,022
+马上取消空袭
+Abort the air strike immediately!
+
+61
+00:02:11,012 --> 00:02:16,026
+以下情节发生在凌晨1点至2点间
+The following takes place between 1 a.m. and 2 a.m.
+
+62
+00:02:16,000 --> 00:02:26,000
+ 翻译：吉吉    祭司    aiai    非燕   校对：何何   非燕
+
+63
+00:02:16,000 --> 00:02:26,000
+■
+
+64
+00:02:26,010 --> 00:02:36,000
+   时间轴：after    后期：冰河   总监：何何
+
+65
+00:02:26,010 --> 00:02:36,000
+■
+
+66
+00:02:37,077 --> 00:02:39,022
+托尼  我是杰克  听到没
+Tony, it's Jack. Do you copy?
+
+67
+00:02:39,028 --> 00:02:41,010
+杰克  究竟发生什么事了
+Jack, what the hell is going on?
+
+68
+00:02:41,010 --> 00:02:42,034
+F-18战斗机呢
+Where are those F-18s?
+
+69
+00:02:42,034 --> 00:02:43,082
+蒂姆·伍兹刚从白宫打电话来说
+Tim Woods just called from the White House.
+
+70
+00:02:43,088 --> 00:02:45,065
+总统取消了空袭
+The president canceled the air strike.
+
+71
+00:02:45,072 --> 00:02:46,068
+什么
+What?
+
+72
+00:02:46,075 --> 00:02:47,075
+为什么
+Why?
+
+73
+00:02:47,082 --> 00:02:49,015
+她觉得我们的情报
+She doesn't believe our intel
+
+74
+00:02:49,022 --> 00:02:50,095
+不足以构成军事打击的理由
+Is strong enough to justify military action.
+
+75
+00:02:51,002 --> 00:02:52,065
+她疯了吗
+Is she out of her mind?
+
+76
+00:02:52,072 --> 00:02:54,085
+杰克  我亲眼见到那些毒气罐
+Jack, I saw those canisters with my own eyes.
+
+77
+00:02:54,092 --> 00:02:56,038
+你也看见了  它们就在那地堡里
+So did you. they're in that bunker.
+
+78
+00:02:56,045 --> 00:02:58,098
+-没有比这更好的证据了  -我知道
+- She's not gonna get any better intel than that. - I know.
+
+79
+00:02:59,005 --> 00:03:00,022
+是想不明白  但现在
+It doesn't make any sense, but right now,
+
+80
+00:03:00,022 --> 00:03:01,095
+总统下令  你和周边的小队
+We've got a presidential order to pull you out
+
+81
+00:03:02,002 --> 00:03:03,052
+得马上撤出斯塔克伍德
+Of the Starkwood compound, along with the perimeter teams.
+
+82
+00:03:03,058 --> 00:03:04,098
+托尼  拉里已经知道了总统的决定
+Tony, Larry's been told the president's decision.
+
+83
+00:03:05,005 --> 00:03:07,022
+他正准备把队伍撤走
+He's preparing to move his teams out
+
+84
+00:03:07,028 --> 00:03:08,068
+但这之前他得先把你弄出去
+but he's got to get you out of there first.
+
+85
+00:03:08,075 --> 00:03:10,075
+他会给你发送坐标  在西南边上
+He'll be sending you coordinates for an exfiltration point
+
+86
+00:03:10,082 --> 00:03:13,002
+有一个逃出的缺口
+Along the southwest perimeter.
+
+87
+00:03:13,008 --> 00:03:14,032
+托尼
+Tony?
+
+88
+00:03:14,038 --> 00:03:16,038
+等等
+Hold on a second.
+
+89
+00:03:24,006 --> 00:03:25,042
+托尼  怎么了
+Tony, what's going on?
+
+90
+00:03:27,015 --> 00:03:29,015
+杰克  我可能知道为什么总统取消空袭了
+Jack, I might know why the president called off that air strike.
+
+91
+00:03:29,022 --> 00:03:30,068
+什么意思
+What do you mean?
+
+92
+00:03:30,075 --> 00:03:34,022
+我觉得斯塔克伍德拥有地对地导弹
+I think Starkwood's got surface-to-surface missiles.
+
+93
+00:03:34,028 --> 00:03:35,098
+这些导弹正可用来部署生化武器
+That's how they're gonna deploy the bioweapon.
+
+94
+00:03:36,005 --> 00:03:37,052
+你怎么知道的
+How do you know this?
+
+95
+00:03:37,058 --> 00:03:40,032
+有辆油罐车刚停在了地堡旁边
+A fuel truck just pulled up next to the bunker
+
+96
+00:03:40,032 --> 00:03:41,088
+武器就在地堡里
+Where they're storing the weapons.
+
+97
+00:03:42,072 --> 00:03:46,064
+他们正把RP-7输送进地下燃料库里
+They're pumping RP-7 into an underground depot.
+
+98
+00:03:46,064 --> 00:03:47,038
+RP-7是什么
+What's RP-7?
+
+99
+00:03:47,045 --> 00:03:50,044
+是一种助推燃料  只用于地对地导弹
+It's a propellant only used in surface-to-surface missiles.
+
+100
+00:03:50,044 --> 00:03:51,084
+托尼  你确定吗
+Tony, are you sure?
+
+101
+00:03:51,084 --> 00:03:53,000
+杰克  这东西就在我眼前呢
+I'm looking right at it, Jack.
+
+102
+00:03:55,012 --> 00:03:56,065
+你带了C-4炸药没
+Do you have any C-4 on you?
+
+103
+00:03:56,072 --> 00:03:58,095
+带了三个  还有一个遥控引爆器
+Yeah, I've got three charges and a remote detonator.
+
+104
+00:03:58,095 --> 00:04:01,038
+你觉得你可以进到地下燃料库吗
+Do you think you can gain access to the underground fuel depot?
+
+105
+00:04:01,045 --> 00:04:02,092
+我觉得可以赌一把
+Yeah, I think we've got a play,
+
+106
+00:04:02,098 --> 00:04:04,055
+但我得赶在油罐车开走前
+But I've got to move soon...
+
+107
+00:04:04,062 --> 00:04:06,032
+赶快行动了
+Before that fuel truck pulls away.
+
+108
+00:04:06,038 --> 00:04:07,095
+好  原地待命
+Okay, I want you to maintain your position.
+
+109
+00:04:08,002 --> 00:04:09,032
+我去给总统打电话
+I'm gonna call the president.
+
+110
+00:04:09,038 --> 00:04:11,035
+跟我来
+Come with me.
+
+111
+00:04:15,052 --> 00:04:17,042
+蒂姆  什么事
+What is it, Tim?
+
+112
+00:04:19,058 --> 00:04:21,062
+总统阁下  参谋长联席会议委员们
+Madam President, the Joint Chiefs
+
+113
+00:04:21,068 --> 00:04:23,022
+开始质疑您
+Are beginning to question your decision
+
+114
+00:04:23,028 --> 00:04:26,018
+取消对斯塔克伍德进行空中打击的决定了
+To call off the air strike against Starkwood.
+
+115
+00:04:26,025 --> 00:04:28,068
+他们认为  从托尼·阿尔梅达那里
+They think the intelligence we received from Tony Almeida
+
+116
+00:04:28,075 --> 00:04:30,085
+收到的情报很充分  我们可能正错失
+Was sufficient and that we may be missing
+
+117
+00:04:30,092 --> 00:04:33,013
+毁灭生化武器的大好时机
+An opportunity to destroy the bioweapons.
+
+118
+00:04:33,013 --> 00:04:34,028
+蒂姆  我已经下了命令
+I gave my orders, Tim.
+
+119
+00:04:34,035 --> 00:04:35,092
+不进行空中打击
+No air strike.
+
+120
+00:04:35,098 --> 00:04:39,045
+也不进行针对斯塔克伍德的一切军事行动
+No military action of any kind against Starkwood.
+
+121
+00:04:40,092 --> 00:04:43,043
+现在  我要你去处理好联席参谋长会议事宜
+Now, I asked you to handle the Joint Chiefs;
+
+122
+00:04:43,043 --> 00:04:44,034
+并安抚好他们
+Handle them.
+
+123
+00:04:44,034 --> 00:04:46,025
+阁下  我会尽力而为  但斗胆问一下
+I'll do my best, ma'am, But if I may...
+
+124
+00:04:46,032 --> 00:04:48,033
+我们下一步计划是什么
+What is our next move?
+
+125
+00:04:50,048 --> 00:04:52,095
+乔纳斯·霍奇斯在来白宫的路上了
+Jonas Hodges is coming to the White House.
+
+126
+00:04:54,032 --> 00:04:57,050
+他想跟我单独谈谈
+He wants to speak with me alone.
+
+127
+00:04:57,050 --> 00:04:59,078
+-他来干什么  -我不知道
+- For what possible reason? - I don't know.
+
+128
+00:04:59,085 --> 00:05:01,038
+总统阁下  您的顾问们
+Madam President, shouldn't your advisors
+
+129
+00:05:01,045 --> 00:05:02,038
+不应该出席这次会面吗
+Be at that meeting?
+
+130
+00:05:02,045 --> 00:05:04,035
+蒂姆  别再向我发难了
+Tim, stop asking me questions.
+
+131
+00:05:07,078 --> 00:05:09,042
+如果你真想帮忙
+If you want to help,
+
+132
+00:05:09,048 --> 00:05:11,045
+乔纳斯·霍奇斯要来的消息
+Make sure as few people as possible know
+
+133
+00:05:11,052 --> 00:05:13,005
+让越少人知道越好
+That Jonas Hodges is coming here.
+
+134
+00:05:13,012 --> 00:05:17,045
+把他从东南面的便门带进来
+And bring him in through the southeast service entrance.
+
+135
+00:05:18,085 --> 00:05:19,078
+什么事
+Yes?
+
+136
+00:05:19,085 --> 00:05:21,015
+总统阁下  杰克·鲍尔
+Madam President, Jack Bauer
+
+137
+00:05:21,022 --> 00:05:23,052
+和蕾妮·沃克从联邦调查局打来电话
+And Renee Walker are calling from FBI.
+
+138
+00:05:23,052 --> 00:05:24,079
+你通知过调查局了吧
+You did speak to FBI?
+
+139
+00:05:24,079 --> 00:05:26,022
+是的  阁下  五分钟前
+Yes, ma'am, five minutes ago.
+
+140
+00:05:26,028 --> 00:05:27,072
+我跟他们说了您取消空袭的原因
+I gave them your reason for calling off
+
+141
+00:05:27,078 --> 00:05:29,028
+但不得不提醒您
+The air strike, but I must warn you,
+
+142
+00:05:29,035 --> 00:05:31,022
+他们对此也深表怀疑
+They were skeptical as well.
+
+143
+00:05:31,022 --> 00:05:32,072
+准备好接霍奇斯
+Be ready for Hodges.
+
+144
+00:05:38,075 --> 00:05:39,098
+鲍尔先生
+Mr. Bauer,
+
+145
+00:05:40,005 --> 00:05:41,052
+沃克探员  我是总统
+Agent Walker, this is the president.
+
+146
+00:05:41,058 --> 00:05:43,008
+总统阁下  我得跟您谈谈
+Madam President, we need to talk.
+
+147
+00:05:43,015 --> 00:05:45,038
+不  鲍尔先生  不需要
+No, Mr. Bauer, we don't.
+
+148
+00:05:45,045 --> 00:05:46,055
+你得听我说
+You need to listen.
+
+149
+00:05:46,062 --> 00:05:49,052
+感谢你为了收集这些情报所做的一切
+I appreciate everything that you have done in gathering this intel,
+
+150
+00:05:49,058 --> 00:05:51,020
+但在下令进行空袭前
+But I still need more
+
+151
+00:05:51,020 --> 00:05:52,065
+我还需要更多信息
+Before I can authorize an air strike.
+
+152
+00:05:52,072 --> 00:05:53,065
+抱歉
+I'm sorry.
+
+153
+00:05:53,072 --> 00:05:54,098
+总统阁下  恕我直言
+Madam President, with all due respect,
+
+154
+00:05:55,005 --> 00:05:58,045
+我觉得您没跟我们说实话
+I don't believe you're being truthful with us.
+
+155
+00:05:58,052 --> 00:05:59,098
+什么
+Excuse me?
+
+156
+00:06:00,005 --> 00:06:01,042
+我认为您取消空袭
+I think you called off the air strike
+
+157
+00:06:01,048 --> 00:06:02,075
+是因为乔纳斯·霍奇斯拥有
+Because Jonas Hodges is in possession
+
+158
+00:06:02,082 --> 00:06:05,012
+载有生化武器的地对地导弹
+Of surface-to-surface missiles armed with the bioweapon,
+
+159
+00:06:05,018 --> 00:06:06,058
+他以此要挟
+And he's threatening to use them
+
+160
+00:06:06,065 --> 00:06:09,045
+防止您对他采取行动
+In case you try to take action against him.
+
+161
+00:06:09,052 --> 00:06:11,038
+总统阁下  托尼·阿尔梅达亲眼见到
+Madam President, Tony Almeida witnessed a truck
+
+162
+00:06:11,045 --> 00:06:14,052
+油罐车把RP-7火箭助推剂输送到
+Pumping RP-7 rocket fuel into an underground depot
+
+163
+00:06:14,058 --> 00:06:15,092
+地堡旁的燃料库里
+Situated right next to the bunker
+
+164
+00:06:15,098 --> 00:06:17,075
+生化武器就藏在地堡中
+Where the bioweapons are being stored.
+
+165
+00:06:17,082 --> 00:06:20,015
+而RP-7火箭助推剂的唯一用途
+The only purpose for RP-7 rocket fuel
+
+166
+00:06:20,022 --> 00:06:21,058
+就是发射导弹
+Is to launch missiles.
+
+167
+00:06:24,078 --> 00:06:27,022
+总统阁下  请告诉我们实情好吗
+Madam President, please just tell us the truth.
+
+168
+00:06:28,042 --> 00:06:31,052
+杰克  霍奇斯持有13枚
+Jack, Hodges has 13 Python missiles
+
+169
+00:06:31,058 --> 00:06:33,028
+载有生化武器的巨蟒导弹
+Armed with the bioweapons.
+
+170
+00:06:33,035 --> 00:06:36,058
+其中三枚正对准美国城市
+Three are currently aimed at American cities.
+
+171
+00:06:36,065 --> 00:06:39,079
+他要求我召回战斗机  否则就会发射导弹
+He demanded that I recall the planes, or he would launch.
+
+172
+00:06:39,079 --> 00:06:41,003
+霍奇斯葫芦里卖的什么药啊
+What does Hodges want?
+
+173
+00:06:41,003 --> 00:06:43,078
+我不知道  但他要求几分钟后在白宫
+I don't know... But he's requested a face-to-face meeting.
+
+174
+00:06:43,078 --> 00:06:45,012
+跟我面对面谈话
+He'll be at the White House in a few minutes.
+
+175
+00:06:45,018 --> 00:06:47,068
+总统阁下  他想面对面对话的唯一目的
+Madam President, the only reason he wants a face-to-face meeting
+
+176
+00:06:47,068 --> 00:06:48,074
+就是摆出他的要求
+is to lay out his demands,
+
+177
+00:06:48,074 --> 00:06:50,065
+不管他要求什么  您都不能妥协
+And whatever they are, you cannot negotiate with him.
+
+178
+00:06:50,072 --> 00:06:53,008
+杰克  我并未打算跟他谈判
+I'm not planning on negotiating with him, Jack.
+
+179
+00:06:53,015 --> 00:06:55,092
+一旦他摊牌了
+Once he places his cards on the table,
+
+180
+00:06:55,098 --> 00:06:58,055
+我确信我能  我能让他认识到
+I am sure that I can... I can make him realize
+
+181
+00:06:58,062 --> 00:07:01,002
+他所做的这一切只是枉费心机
+The futility of what he is trying to do.
+
+182
+00:07:01,008 --> 00:07:03,062
+乔纳斯·霍奇斯是叛国者  是恐怖分子
+Jonas Hodges is a traitor and a terrorist,
+
+183
+00:07:03,068 --> 00:07:05,040
+基于他今天的所作所为
+And after everything that's happened today,
+
+184
+00:07:05,040 --> 00:07:08,008
+你还真的天真到认为能说服他
+Are you really naive enough to believe that you can simply talk to him
+
+185
+00:07:08,015 --> 00:07:09,015
+改变他的想法
+And change his mind?
+
+186
+00:07:09,022 --> 00:07:10,075
+杰克  这方面我有经验的
+I'm not new at this, Jack,
+
+187
+00:07:10,082 --> 00:07:12,078
+而且现在  我已别无选择了
+And right now, I don't have another option.
+
+188
+00:07:12,085 --> 00:07:14,036
+总统阁下  您仍有选择的
+Madam President, you do.
+
+189
+00:07:14,036 --> 00:07:16,030
+托尼·阿尔梅达还在斯塔克伍德里面
+Tony Almeida is still inside Starkwood.
+
+190
+00:07:16,030 --> 00:07:18,061
+我下过令让他马上撤离的
+I ordered him exfiltrated immediately.
+
+191
+00:07:18,061 --> 00:07:19,063
+他还在那里干什么
+What's he still doing there?
+
+192
+00:07:19,063 --> 00:07:21,070
+在我跟您商量过之前  我叫他原地待命
+I asked him to stand by until I could talk to you.
+
+193
+00:07:21,070 --> 00:07:23,093
+他认为自己能够进到燃料库
+He believes he can gain access to the fuel depot
+
+194
+00:07:23,093 --> 00:07:25,029
+放置连环炸药装置
+And lay a series of explosive charges
+
+195
+00:07:25,029 --> 00:07:26,058
+从而摧毁那些导弹
+And take the missiles out.
+
+196
+00:07:26,065 --> 00:07:29,005
+我相信能成功  但我们得赶快行动
+Now, I believe this can work, but we need to act quickly.
+
+197
+00:07:29,012 --> 00:07:30,042
+毒气不会扩散吗
+What about the bioweapons?
+
+198
+00:07:30,048 --> 00:07:32,088
+RP-7火箭助推剂燃烧起来有5000度
+RP-7 rocket fuel burns at 5,000 degrees.
+
+199
+00:07:32,095 --> 00:07:34,038
+毒气会被燃烧殆尽
+There will be nothing left.
+
+200
+00:07:34,045 --> 00:07:36,052
+一旦摧毁了武器  拉里·莫斯跟他的队伍
+Once the weapons are destroyed, Larry Moss and his teams
+
+201
+00:07:36,058 --> 00:07:38,078
+就能进入斯塔克伍德并封锁那里
+Can move in on Starkwood and lock it down.
+
+202
+00:07:38,085 --> 00:07:41,015
+霍奇斯给他的手下下令
+Hodges gave standing orders to his men
+
+203
+00:07:41,042 --> 00:07:43,055
+一旦发现政府介入
+To launch the missiles at the first detection
+
+204
+00:07:43,062 --> 00:07:45,055
+立即发射导弹
+Of government interference.
+
+205
+00:07:45,062 --> 00:07:46,098
+杰克  如果阿尔梅达被发现了
+If Almeida is detected,
+
+206
+00:07:47,005 --> 00:07:49,032
+会有成千上万美国人丧生
+Thousands of Americans will die, Jack.
+
+207
+00:07:49,038 --> 00:07:51,002
+总统阁下  我知道这有风险
+Madam President, I know that there's a risk,
+
+208
+00:07:51,008 --> 00:07:53,008
+但要是没有成功的把握
+But I would not be asking you to do this
+
+209
+00:07:53,015 --> 00:07:55,025
+我也不会求您这么做
+If I didn't think it would work.
+
+210
+00:07:55,052 --> 00:07:57,048
+拜托了  我求您了
+Please, I am begging you.
+
+211
+00:07:57,077 --> 00:07:59,026
+相信我
+Trust me.
+
+212
+00:08:04,058 --> 00:08:07,006
+医生有没有说你还能活多久
+How long didthe doctors give you to live?
+
+213
+00:08:10,028 --> 00:08:11,068
+他们还不确定
+Uh, they're not sure,
+
+214
+00:08:12,046 --> 00:08:15,068
+但是已经开始发病了
+But the pathogen has started to take effect.
+
+215
+00:08:18,025 --> 00:08:21,025
+那我也没什么可威胁你的了  对吗
+Then there's not much I can threaten you with, is there?
+
+216
+00:08:22,072 --> 00:08:26,012
+觉得对的  你就去做吧
+I expect you'll do what you think is right.
+
+217
+00:08:35,012 --> 00:08:37,048
+那是什么意思
+What the hell does that mean?
+
+218
+00:08:37,055 --> 00:08:39,038
+她希望我们继续干
+She wants us to go in.
+
+219
+00:08:39,045 --> 00:08:41,095
+但她没有授权啊
+But she didn't authorize it.
+
+220
+00:08:42,002 --> 00:08:43,008
+她不能
+She can't.
+
+221
+00:08:43,015 --> 00:08:45,022
+这只能是一次秘密行动
+She needs this to be a covert operation.
+
+222
+00:08:45,028 --> 00:08:46,062
+若有半点差池
+If something were to go wrong
+
+223
+00:08:46,068 --> 00:08:48,010
+致使导弹发射出去
+And those missiles were to be launched,
+
+224
+00:08:48,025 --> 00:08:49,075
+总统必须得发誓
+The president needs to be able to swear
+
+225
+00:08:49,082 --> 00:08:51,034
+这绝对只是我们单方面擅自行动
+Under oath that we were working on our own
+
+226
+00:08:51,034 --> 00:08:53,022
+她希望我们继续行动
+She wants us to go in.
+
+227
+00:08:53,028 --> 00:08:55,068
+通知拉里  我们得快点
+Notify Larry. we need to move fast.
+
+228
+00:09:00,012 --> 00:09:02,032
+我告诉过你我能把你带到白宫
+I told you I'd get you to the White House.
+
+229
+00:09:02,038 --> 00:09:05,075
+只是没想到  是以这种方式
+I just didn't think it would be under these conditions.
+
+230
+00:09:09,007 --> 00:09:10,065
+太有才了
+It was brilliant, you know.
+
+231
+00:09:12,005 --> 00:09:13,022
+长官  您指什么
+What was that, sir?
+
+232
+00:09:14,007 --> 00:09:16,058
+就是你让阿尔梅达相信
+What you didto make Almeida think
+
+233
+00:09:16,058 --> 00:09:18,006
+你会背叛我
+That you were betraying me.
+
+234
+00:09:19,013 --> 00:09:20,008
+太有才了
+Quite brilliant.
+
+235
+00:09:20,008 --> 00:09:21,024
+谢谢  长官
+Thank you, sir.
+
+236
+00:09:22,012 --> 00:09:24,068
+格雷格  你不顾个人安危
+You put yourself in harm's way, Greg,
+
+237
+00:09:24,075 --> 00:09:26,082
+我会铭记在心
+And I'll never forget that.
+
+238
+00:09:29,082 --> 00:09:32,052
+不敢相信  我居然紧张了
+I can't believe... I'm feeling nervous.
+
+239
+00:09:32,058 --> 00:09:34,088
+长官  你会没事的
+You're gonna do fine, sir.
+
+240
+00:09:36,022 --> 00:09:37,028
+谢谢你  蒂姆
+Thank you, Tim.
+
+241
+00:09:37,035 --> 00:09:38,072
+不客气
+You're welcome.
+
+242
+00:09:40,022 --> 00:09:43,062
+感觉像是总统并没有批准此事
+So, it sounds to me like the president didn't actually authorize this.
+
+243
+00:09:43,068 --> 00:09:45,021
+严格地说  她是没有
+Technically, no.
+
+244
+00:09:45,021 --> 00:09:47,005
+更像是个间接命令
+It was more of an... an indirect order,
+
+245
+00:09:47,012 --> 00:09:49,012
+但是拉里  她希望我们这么做
+But believe me, Larry, she wants this to happen.
+
+246
+00:09:49,018 --> 00:09:50,078
+她要和霍奇斯会面
+She's gonna meet with Hodges,
+
+247
+00:09:50,085 --> 00:09:52,072
+我们要把燃料罐炸掉
+And we're gonna blow those fuel tanks.
+
+248
+00:09:53,072 --> 00:09:56,068
+拉里  你对这次行动有意见吗
+Larry, do you have a problem with this?
+
+249
+00:09:59,002 --> 00:10:00,065
+事实上  没有
+As a matter of fact, no.
+
+250
+00:10:00,072 --> 00:10:02,012
+没有任何意见
+None whatsoever.
+
+251
+00:10:02,018 --> 00:10:04,062
+这些斯塔克伍德的杂种们竟敢招惹我的人
+These Starkwood bastards drew on my men.
+
+252
+00:10:04,062 --> 00:10:06,023
+我盼着再进去跟他们干一场呢
+I'm looking forward to getting back in there.
+
+253
+00:10:06,025 --> 00:10:08,042
+好的  让你的队伍原地待命
+All right, have your teams hold their position
+
+254
+00:10:08,048 --> 00:10:09,048
+随时准备行动
+And be ready to move.
+
+255
+00:10:09,055 --> 00:10:10,098
+相信我  爆炸时你会知道的
+Believe me, you'll know when it happens.
+
+256
+00:10:11,005 --> 00:10:13,032
+好的
+All right.
+
+257
+00:10:28,022 --> 00:10:30,098
+-托尼  我是杰克  听到没  -我在
+- Tony, It's Jack. do you copy?  - Yeah, I'm here.
+
+258
+00:10:31,005 --> 00:10:32,021
+你说对了  那是导弹
+You were right about the missiles.
+
+259
+00:10:32,021 --> 00:10:33,008
+总统证实了
+The president confirmed it.
+
+260
+00:10:33,015 --> 00:10:35,038
+我们这次行动  必须秘密进行
+We're gonna have to carry this out as a covert operation.
+
+261
+00:10:35,045 --> 00:10:37,012
+一旦导弹被销毁
+Larry and his men are standing by to lock down Starkwood
+
+262
+00:10:37,018 --> 00:10:38,075
+拉里和他的部队就会封锁斯塔克伍德
+As soon as the missiles have been destroyed.
+
+263
+00:10:38,082 --> 00:10:39,082
+-好  -托尼
+- Good.  - Tony...
+
+264
+00:10:39,088 --> 00:10:42,065
+我要你干得神不知  鬼不觉
+I need to know that you can do this without being detected.
+
+265
+00:10:42,072 --> 00:10:44,025
+霍奇斯已经下令
+Hodges's given his men standing orders
+
+266
+00:10:44,032 --> 00:10:45,046
+出现任何形式违反协议的行为
+To launch those missiles
+
+267
+00:10:45,046 --> 00:10:46,087
+立即发射导弹
+if there's a breach of any kind.
+
+268
+00:10:46,087 --> 00:10:48,068
+我能做到
+Yeah. I can do it.
+
+269
+00:10:48,075 --> 00:10:50,055
+祝你好运
+Okay. Good luck.
+
+270
+00:10:50,062 --> 00:10:52,062
+好
+Yeah.
+
+271
+00:11:04,058 --> 00:11:06,055
+这里完事了
+We're done here.
+
+272
+00:11:06,062 --> 00:11:08,078
+我到周围巡逻下
+I'm going to go run a perimeter check.
+
+273
+00:11:08,085 --> 00:11:10,055
+你不是才巡逻过吗
+You said you just finished one.
+
+274
+00:11:10,062 --> 00:11:11,098
+我知道
+I know.
+
+275
+00:11:12,005 --> 00:11:14,032
+但现在要加倍小心
+But I don't think we can be too careful right now.
+
+276
+00:11:36,058 --> 00:11:38,055
+-喂  -是我
+- yeah.  - It's me.
+
+277
+00:11:38,062 --> 00:11:40,008
+辅助罐已加满燃料做好准备了
+Auxiliary tanks are fueled and ready.
+
+278
+00:11:40,015 --> 00:11:41,058
+已确认
+Confirmed.
+
+279
+00:11:41,065 --> 00:11:43,028
+我稍后就下来
+I'll be down in a few minutes.
+
+280
+00:11:43,035 --> 00:11:44,035
+收到
+Copy that.
+
+281
+00:11:47,062 --> 00:11:48,088
+不许动
+Freeze!
+
+282
+00:11:48,095 --> 00:11:50,095
+举起手来
+Let me see your hands.
+
+283
+00:11:53,062 --> 00:11:55,065
+阿尔梅达
+Almeida.
+
+284
+00:11:55,072 --> 00:11:57,098
+把枪放在地上
+Put your gun on the ground.
+
+285
+00:11:58,005 --> 00:12:00,005
+慢慢地
+Slowly.
+
+286
+00:12:05,032 --> 00:12:06,025
+踢出去
+Kick it.
+
+287
+00:12:10,086 --> 00:12:12,032
+把他拖到卡车下面
+Drag him under the truck.
+
+288
+00:12:12,082 --> 00:12:13,096
+快点  去啊
+Now! let's go!
+
+289
+00:12:26,018 --> 00:12:27,082
+举起手来
+Hands up.
+
+290
+00:12:28,066 --> 00:12:29,093
+你知道自己在做什么吗
+What do you think you're doing?
+
+291
+00:12:29,093 --> 00:12:31,077
+带我去燃料罐那里
+You're going to take me down to the fuel tanks.
+
+292
+00:12:32,036 --> 00:12:33,065
+走吧
+Let's go.
+
+293
+00:12:51,041 --> 00:12:52,048
+打开
+Open it up.
+
+294
+00:12:59,067 --> 00:13:00,037
+进去
+Go ahead.
+
+295
+00:13:28,053 --> 00:13:29,093
+总统现在可以接见你们了
+President will see you now.
+
+296
+00:13:30,053 --> 00:13:32,053
+很好  谢谢
+Very good. Thank you.
+
+297
+00:13:37,000 --> 00:13:38,056
+霍奇斯先生
+Mr. Hodges.
+
+298
+00:13:38,063 --> 00:13:40,006
+总统阁下
+Madam President.
+
+299
+00:13:40,013 --> 00:13:42,036
+这位是格雷格·西顿
+This is Greg Seaton,
+
+300
+00:13:42,043 --> 00:13:43,070
+我的助手
+My associate.
+
+301
+00:13:43,070 --> 00:13:45,017
+他非同寻常
+He's a remarkable man.
+
+302
+00:13:45,017 --> 00:13:46,037
+看起来不像
+Doesn't look remarkable,
+
+303
+00:13:47,009 --> 00:13:48,039
+但是相信我  他是个天才
+But believe me, he's a genius.
+
+304
+00:13:48,046 --> 00:13:51,023
+是啊  我认识西顿先生
+Yes, I know Mr. Seaton.
+
+305
+00:13:53,063 --> 00:13:54,069
+没事了  先生们
+Thank you, gentlemen.
+
+306
+00:13:56,066 --> 00:13:58,066
+还是老样子  对吧
+It never gets old, does it?
+
+307
+00:13:59,063 --> 00:14:02,079
+走进总统办公室
+Stepping into the... the Oval Office.
+
+308
+00:14:02,086 --> 00:14:03,083
+几乎
+Almost
+
+309
+00:14:03,089 --> 00:14:05,079
+能闻到历史的味道
+Smells of history.
+
+310
+00:14:05,086 --> 00:14:06,083
+我们能坐下来吗
+Can we sit?
+
+311
+00:14:06,089 --> 00:14:08,086
+请坐
+Please.
+
+312
+00:14:09,057 --> 00:14:11,013
+自从您上任以来
+You know, this is the first Time
+
+313
+00:14:11,019 --> 00:14:13,016
+我还是第一次到这办公室来
+I've been in this room since you were elected?
+
+314
+00:14:13,023 --> 00:14:14,056
+这我知道
+I'm aware of that, yes.
+
+315
+00:14:14,063 --> 00:14:16,002
+在前任总统执政期间
+Under your predecessor,
+
+316
+00:14:16,002 --> 00:14:19,009
+我每两个月会来一次
+I used to drop by every couple of months.
+
+317
+00:14:19,016 --> 00:14:21,026
+我会向丹尼尔斯总统
+I'd brief President Daniels
+
+318
+00:14:21,033 --> 00:14:24,043
+报告世界上都发生了些什么
+On what was really going on in the world.
+
+319
+00:14:24,049 --> 00:14:26,093
+而现如今你却失了宠被晾在了一边
+And you've been excluded now.
+
+320
+00:14:26,099 --> 00:14:29,016
+就是因为这个吗
+Is that what this is about?
+
+321
+00:14:29,023 --> 00:14:30,099
+不  阁下
+No, ma'am.
+
+322
+00:14:31,006 --> 00:14:32,043
+是关于让斯塔克伍德
+It's about allowing Starkwood
+
+323
+00:14:32,049 --> 00:14:34,043
+完成它的既定使命
+To fulfill the purpose for which was founded
+
+324
+00:14:34,049 --> 00:14:36,046
+保卫这个国家
+Protecting this country.
+
+325
+00:14:36,053 --> 00:14:39,019
+你一直都在攻击这个国家
+You have been attacking this country.
+
+326
+00:14:39,026 --> 00:14:40,086
+你和朱玛将军
+You and General Juma
+
+327
+00:14:40,093 --> 00:14:43,086
+杀害了数以百计的无辜民众
+Have killed hundreds of innocent people,
+
+328
+00:14:43,093 --> 00:14:45,093
+包括我的儿子
+Including my son.
+
+329
+00:14:47,086 --> 00:14:49,010
+总统阁下
+Madam President,
+
+330
+00:14:50,013 --> 00:14:52,079
+对于您儿子的死  我深表遗憾
+I'm deeply sorry for your loss,
+
+331
+00:14:52,086 --> 00:14:56,026
+同时我也为今天逝去的那些生命而心碎
+And my heart breaks for all the lives that were taken today,
+
+332
+00:14:56,033 --> 00:14:58,062
+但您认为我和此事有关
+But I'm shocked that you would think that I had anything
+
+333
+00:14:58,062 --> 00:15:00,073
+-让我很是震惊  -我们有证据
+- To do with it.  - we have evidence
+
+334
+00:15:00,079 --> 00:15:02,079
+表明你和朱玛狼狈为奸
+That you've been working with Juma.
+
+335
+00:15:03,082 --> 00:15:06,039
+您的情报部门辜负了您的期望
+Your intelligence agencies have failed you.
+
+336
+00:15:06,046 --> 00:15:08,026
+如果我知道朱玛的阴谋诡计
+If I had known what Juma was up to,
+
+337
+00:15:08,033 --> 00:15:11,006
+我会竭尽所能地去阻止他得逞
+I would have done everything in my power to stop him.
+
+338
+00:15:11,013 --> 00:15:14,046
+不如我们把这些莫须有的控告放到一边
+So let's push aside all these baseless accusations
+
+339
+00:15:14,053 --> 00:15:16,046
+说不定我们还可以精诚合作
+And maybe we can do some business here.
+
+340
+00:15:16,053 --> 00:15:18,053
+我洗耳恭听
+I'm listening.
+
+341
+00:15:20,056 --> 00:15:22,049
+总统阁下
+Madam President,
+
+342
+00:15:22,056 --> 00:15:24,049
+我知道您是历史系毕业的
+I know you're a student of history,
+
+343
+00:15:24,056 --> 00:15:25,096
+您肯定清楚地知道
+And so you're well aware
+
+344
+00:15:26,003 --> 00:15:27,096
+我们国家是借助私人部队的协助
+That our nation's independence was won
+
+345
+00:15:28,003 --> 00:15:29,019
+才取得了独立
+With the aid of private armies,
+
+346
+00:15:29,026 --> 00:15:32,036
+没有他们就没有这个国家的今天
+And we can't survive without them.
+
+347
+00:15:32,043 --> 00:15:34,076
+您看把生化武器带进国门是多么易如反掌
+Look how easy it was to get bioweapons into this country.
+
+348
+00:15:34,083 --> 00:15:36,036
+我们的国防不堪一击
+Our defenses are fragile.
+
+349
+00:15:36,043 --> 00:15:38,026
+濒临崩溃
+They're on the verge of collapse.
+
+350
+00:15:38,033 --> 00:15:41,033
+但亡羊补牢为时不晚
+But it's not too late to do something about it.
+
+351
+00:15:41,039 --> 00:15:43,053
+那你有何高见呢
+So what are you suggesting?
+
+352
+00:15:43,059 --> 00:15:45,053
+简言之
+In short,
+
+353
+00:15:45,059 --> 00:15:47,049
+我想要个政府职位
+I want a seat at the table.
+
+354
+00:15:47,056 --> 00:15:50,022
+斯塔克伍德要参与
+Starkwood needs to be involved in the shaping
+
+355
+00:15:50,022 --> 00:15:53,053
+国内外军事政策的制定
+Of military policy, domestic and global.
+
+356
+00:15:54,045 --> 00:15:57,086
+这听起来更像  你是想要第一把交椅
+It sounds more like you want a seat at the head of the table.
+
+357
+00:15:57,093 --> 00:16:01,003
+总统阁下  我不是来篡权夺位的
+Madam President, I'm not here to supplant your authority.
+
+358
+00:16:01,009 --> 00:16:03,006
+我是来提议精诚合作的
+What I'm proposing is a partnership.
+
+359
+00:16:03,013 --> 00:16:04,070
+请考虑
+Think of Starkwood
+
+360
+00:16:04,070 --> 00:16:07,026
+把斯塔克伍德作为军队的第五分支
+As the fifth branch of the military.
+
+361
+00:16:07,033 --> 00:16:09,036
+格雷格
+Greg?
+
+362
+00:16:11,063 --> 00:16:15,026
+这里包含了协议的基本条款
+This contains the protocols that will serve as the basis of our agreement.
+
+363
+00:16:17,009 --> 00:16:19,003
+我建议咱们一起来看看
+I suggest that we review them together.
+
+364
+00:16:19,009 --> 00:16:22,003
+乔纳斯  我同意会面
+Jonas, I agreed to this meeting
+
+365
+00:16:22,009 --> 00:16:24,096
+是因为我想听听你想说些什么
+Because I wanted to hear what you had to say.
+
+366
+00:16:25,003 --> 00:16:27,079
+但你的提议简直是敲诈勒索
+But what you're proposing is blackmail.
+
+367
+00:16:27,086 --> 00:16:30,073
+您那是竟往最坏处想了啊
+Well, that's putting it in the worst possible light.
+
+368
+00:16:30,079 --> 00:16:34,026
+你威胁说要杀害数以千计的平民
+You are threatening to kill thousands of people.
+
+369
+00:16:36,029 --> 00:16:39,059
+我并不以此为荣
+I'm not proud of this chapter.
+
+370
+00:16:39,066 --> 00:16:42,039
+我也第一次这样承认
+I'm the first to admit it.
+
+371
+00:16:42,046 --> 00:16:43,063
+过去的就让它过去吧
+And it's Time to turn the page.
+
+372
+00:16:43,069 --> 00:16:45,063
+今天这个国家经历了太多的血雨腥风
+This country has seen enough bloodshed today.
+
+373
+00:16:45,069 --> 00:16:48,063
+总统阁下  为谋天下百姓之福祉
+For the sake of the American people, Madam President,
+
+374
+00:16:48,069 --> 00:16:51,009
+我恳请您与我同舟共济
+I implore you to work with me,
+
+375
+00:16:51,016 --> 00:16:53,063
+往日恩怨一笔勾销
+And let's move past this.
+
+376
+00:17:01,016 --> 00:17:03,083
+请看文件  总统阁下
+Pick up the document, Madam President.
+
+377
+00:17:27,036 --> 00:17:28,069
+我们走
+Let's go.
+
+378
+00:17:28,076 --> 00:17:30,035
+快点起来  不然我把你留这了
+Come on. get up now, or I'll leave you down here.
+
+379
+00:17:30,035 --> 00:17:31,081
+你不希望那样的  相信我  起来啊
+And you don't want that, believe me. get up!
+
+380
+00:17:31,081 --> 00:17:32,039
+走
+Let's go!
+
+381
+00:18:18,039 --> 00:18:19,049
+来啊
+Come on!
+
+382
+00:18:27,006 --> 00:18:28,016
+怎么了
+What is it?
+
+383
+00:18:28,066 --> 00:18:29,096
+代码363
+Code 363.
+
+384
+00:18:31,006 --> 00:18:32,026
+我们该发射了
+We're supposed to launch.
+
+385
+00:18:32,033 --> 00:18:33,053
+你确定不是错误警报
+Are you sure it's not a false alarm?
+
+386
+00:18:33,059 --> 00:18:34,066
+无法判断
+No way to tell.
+
+387
+00:18:34,073 --> 00:18:36,046
+但我们有作战命令
+We've got standing orders, though.
+
+388
+00:18:36,046 --> 00:18:38,026
+启动发射序列
+Let's start the launch sequence.
+
+389
+00:18:45,033 --> 00:18:46,069
+太迟了
+Too late.
+
+390
+00:18:58,019 --> 00:18:59,029
+发射序列完成
+Launch sequence complete.
+
+391
+00:19:00,099 --> 00:19:02,029
+输入开火密码
+Enter the firing codes.
+
+392
+00:19:02,036 --> 00:19:03,069
+长官  我们得确认此事
+Sir, we need to confirm this.
+
+393
+00:19:03,076 --> 00:19:05,063
+那不是标准程序
+That's not the correct protocol.
+
+394
+00:19:05,069 --> 00:19:06,099
+我们会杀死一万人啊
+We're about to kill 10,000 people.
+
+395
+00:19:06,099 --> 00:19:08,093
+我们应该打电话确认一下
+We should get someone on the phone.
+
+396
+00:19:08,099 --> 00:19:10,053
+输入密码
+Enter the codes.
+
+397
+00:19:10,059 --> 00:19:11,056
+马上
+Now!
+
+398
+00:19:11,063 --> 00:19:13,026
+不行  长官
+No, sir.
+
+399
+00:19:49,096 --> 00:19:51,089
+炸了  我们的人得手了  该咱们上场了
+That's it. that's us. let's go.
+
+400
+00:19:51,096 --> 00:19:53,006
+出发
+We're a go!
+
+401
+00:19:53,013 --> 00:19:54,096
+出发
+We're a go!
+
+402
+00:20:05,029 --> 00:20:06,063
+他完成任务了
+It's done.
+
+403
+00:20:06,069 --> 00:20:07,099
+托尼
+Tony?
+
+404
+00:20:08,006 --> 00:20:10,023
+托尼  听到了吗
+Tony, do you copy?
+
+405
+00:20:10,029 --> 00:20:12,063
+如此规模的爆炸可能短路了他的通讯设备
+An explosion of that magnitude would have shorted out his com.
+
+406
+00:20:12,069 --> 00:20:15,003
+我们只能等拉里和他的人进去后再说了
+We're gonna have to wait for Larry and his men to move in.
+
+407
+00:20:22,089 --> 00:20:24,063
+上面写你想成为
+It says here that you want
+
+408
+00:20:24,069 --> 00:20:27,049
+国防部战略计划组的核心成员
+Active status in the Pentagon's Strategic Planning Group.
+
+409
+00:20:27,056 --> 00:20:28,099
+是的
+That's correct.
+
+410
+00:20:29,006 --> 00:20:32,086
+那你就可以进入6级保密资料了
+That would give you access to level 6 classified material.
+
+411
+00:20:32,093 --> 00:20:34,069
+即使副总统也没那个权限
+Not even the vice president has that clearance.
+
+412
+00:20:34,076 --> 00:20:37,004
+这点没得商量
+These points are nonnegotiable.
+
+413
+00:20:37,004 --> 00:20:40,006
+我不是来这跟你讨价还价的
+I'm not here to debate them.
+
+414
+00:20:40,013 --> 00:20:41,049
+我们看下一部分关于
+Let's review the next section,
+
+415
+00:20:41,056 --> 00:20:45,096
+参议院对斯塔克伍德外勤的监督权
+Which concerns senate oversight of Starkwood field operations.
+
+416
+00:20:46,033 --> 00:20:47,039
+抱歉打扰  总统阁下
+I'm sorry to interrupt, Madam President
+
+417
+00:20:47,039 --> 00:20:49,026
+我得跟您说点事
+But I need to speak with you.
+
+418
+00:20:49,033 --> 00:20:50,039
+等等可以吗
+Can it wait?
+
+419
+00:20:50,046 --> 00:20:52,036
+总统阁下  必须现在
+No, ma'am, it can't.
+
+420
+00:20:52,043 --> 00:20:53,086
+失陪一下
+Will you excuse me for a moment?
+
+421
+00:20:53,093 --> 00:20:55,093
+当然
+Of course.
+
+422
+00:21:06,073 --> 00:21:08,013
+通讯卫星刚刚探测到
+Satcom has just detected
+
+423
+00:21:08,019 --> 00:21:10,019
+斯塔克伍德基地发生了剧烈的爆炸
+A massive explosion on the Starkwood compound.
+
+424
+00:21:10,026 --> 00:21:12,029
+生化武器设备已经被销毁了
+The bioweapons facility has been destroyed.
+
+425
+00:21:12,036 --> 00:21:14,013
+-确定吗  -是的  阁下
+- Are you sure? - Yes, ma'am.
+
+426
+00:21:14,013 --> 00:21:15,040
+这么大规模的爆炸
+Judging by the size of the explosion,
+
+427
+00:21:15,040 --> 00:21:16,042
+几乎可以摧毁任何东西
+Nothing could have survived.
+
+428
+00:21:16,042 --> 00:21:18,066
+但我不清楚是谁做的  不是我们的人干的
+But I don't know how this happened. This wasn't us.
+
+429
+00:21:18,073 --> 00:21:20,033
+让调查局把斯塔克伍德封锁起来
+Call FBI and have them lock down Starkwood.
+
+430
+00:21:20,039 --> 00:21:22,049
+-他们已经行动了  -很好
+- They're already moving in. - Good.
+
+431
+00:21:23,032 --> 00:21:26,013
+这事结束之后  我要跟杰克·鲍尔通话
+And when this is over, I want to speak to Jack Bauer.
+
+432
+00:21:26,019 --> 00:21:27,023
+好的  阁下
+Yes, ma'am.
+
+433
+00:21:31,063 --> 00:21:33,036
+我没把握是否已说动她
+I'm not sure I'm reaching her.
+
+434
+00:21:33,043 --> 00:21:36,004
+我觉得您干得很棒  长官
+I think you handled it perfectly, sir.
+
+435
+00:21:36,080 --> 00:21:38,090
+很快就能见分晓了
+We'll see.
+
+436
+00:21:41,066 --> 00:21:43,016
+你们要干嘛
+What the hell is this?
+
+437
+00:21:43,023 --> 00:21:45,011
+把这些材料作为证据
+Put this document into evidence
+
+438
+00:21:45,011 --> 00:21:47,026
+把这两个人抓起来
+And take these men into custody.
+
+439
+00:21:47,033 --> 00:21:48,083
+你想干什么  你疯了吗
+What are you thinking? Have you lost your mind?
+
+440
+00:21:48,083 --> 00:21:51,036
+乔纳斯  你的导弹已经被我们摧毁了
+Jonas, we've taken out your missiles.
+
+441
+00:21:51,043 --> 00:21:53,053
+你玩完了
+It's over.
+
+442
+00:21:55,007 --> 00:21:56,006
+不可能
+That's impossible.
+
+443
+00:21:56,085 --> 00:21:58,056
+这是事实
+It's the truth.
+
+444
+00:21:59,017 --> 00:22:00,073
+你被捕了
+And you're under arrest.
+
+445
+00:22:00,073 --> 00:22:03,016
+你是个恐怖分子和杀人犯
+You are a terrorist and a murderer
+
+446
+00:22:03,019 --> 00:22:05,008
+我要尽我一切所能
+And I'm gonna do everything in my power
+
+447
+00:22:05,008 --> 00:22:08,009
+让你为犯下的罪行付出惨痛的代价
+to make sure that you pay dearly for your crimes.
+
+448
+00:22:09,073 --> 00:22:14,026
+我唯一的罪过就是想保护我的祖国
+My only crime is that I'm trying to protect my country!
+
+449
+00:22:14,033 --> 00:22:17,009
+你觉得逮捕我这事就完了吗
+You think this ends with me?
+
+450
+00:22:17,016 --> 00:22:19,029
+我只是这次行动的冰山一角
+I'm just a small cog in a very big machine.
+
+451
+00:22:19,036 --> 00:22:20,049
+稍等
+Hold on.
+
+452
+00:22:23,053 --> 00:22:25,093
+你将面对的  是你无法想象的对手
+You can't even begin to imagine what you're up against.
+
+453
+00:22:26,062 --> 00:22:28,049
+你在说些什么
+What are you talking about?
+
+454
+00:22:30,036 --> 00:22:32,066
+你会知道的
+You'll find out.
+
+455
+00:22:36,036 --> 00:22:38,016
+把他带出去
+Get him out of here.
+
+456
+00:23:12,032 --> 00:23:14,025
+生化先遣小组的报告说
+The advance biohazard team is reporting no trace
+
+457
+00:23:14,025 --> 00:23:15,097
+爆炸点附近没有监测到生化武器的痕迹
+Of the bioweapon anywhere near the blast sight.
+
+458
+00:23:15,097 --> 00:23:17,025
+已在爆炸中全部被烧毁
+It was incinerated in the explosion.
+
+459
+00:23:17,095 --> 00:23:19,005
+很好
+Good.
+
+460
+00:23:19,012 --> 00:23:20,042
+-联系上托尼了吗  -还没
+- Any word on Tony? - Not yet.
+
+461
+00:23:20,049 --> 00:23:21,059
+拉里正在基地里搜查
+Larry's searching the compound now.
+
+462
+00:23:21,065 --> 00:23:22,089
+马上会有消息了
+We should hear something soon.
+
+463
+00:23:22,095 --> 00:23:24,002
+鲍尔先生
+Mr. Bauer,
+
+464
+00:23:24,009 --> 00:23:26,012
+总统的电话
+You have a phone call; it's the president.
+
+465
+00:23:27,000 --> 00:23:28,062
+我在会议室接  谢谢
+I'll take it in the conference room. thank you.
+
+466
+00:23:28,069 --> 00:23:30,015
+我马上就回来
+I'll be right back.
+
+467
+00:23:41,069 --> 00:23:42,072
+总统阁下
+Madam President.
+
+468
+00:23:42,079 --> 00:23:46,092
+鲍尔先生  乔纳斯·霍奇斯已经被捕
+Mr. Bauer, Jonas Hodges is under arrest.
+
+469
+00:23:46,099 --> 00:23:48,012
+好消息
+That's good news.
+
+470
+00:23:48,019 --> 00:23:49,039
+实在是太好了
+That's very good.
+
+471
+00:23:49,045 --> 00:23:53,082
+杰克  你和你的队伍给了我一条出路
+Jack, you and your team provided me with an option.
+
+472
+00:23:53,089 --> 00:23:56,072
+我和美国人民
+And for that, I am deeply grateful.
+
+473
+00:23:56,079 --> 00:23:59,022
+都对你感激不尽
+And so are the American people.
+
+474
+00:23:59,029 --> 00:24:01,065
+总统阁下  应该是托尼
+Madam President, it was Tony Almeida
+
+475
+00:24:01,072 --> 00:24:04,022
+冒着生命危险摧毁了导弹
+Who risked his life to destroy those missiles.
+
+476
+00:24:04,029 --> 00:24:05,055
+您知道  他现在正因一些
+And as you know, he's facing arrest
+
+477
+00:24:05,062 --> 00:24:07,012
+导致今天事件的罪名而被追捕
+For things he didleading up to today,
+
+478
+00:24:07,019 --> 00:24:08,082
+希望您也许
+And I was hoping that maybe
+
+479
+00:24:08,089 --> 00:24:11,032
+可以
+You could...
+
+480
+00:24:11,039 --> 00:24:13,022
+鲍尔先生
+Yes, Mr. Bauer?
+
+481
+00:24:17,099 --> 00:24:19,075
+杰克
+Jack?
+
+482
+00:24:21,079 --> 00:24:23,022
+抱歉  我
+Um, I'm sorry, I...
+
+483
+00:24:23,029 --> 00:24:25,085
+忘记自己刚在说什么了
+Completely forgot what I was saying.
+
+484
+00:24:25,092 --> 00:24:28,069
+你刚才在说阿尔梅达的事
+You were talking about Mr. Almeida.
+
+485
+00:24:28,075 --> 00:24:29,097
+我的回答是  可以
+And my answer is yes,
+
+486
+00:24:29,097 --> 00:24:32,060
+我会考虑到他今天所做的贡献
+I-I will take his actions into account.
+
+487
+00:24:32,060 --> 00:24:34,002
+谢谢您
+Thank you.
+
+488
+00:24:36,062 --> 00:24:38,042
+你怎么了
+What's happening?
+
+489
+00:24:39,028 --> 00:24:41,065
+我  我不太确定
+I-I-I'm not exactly sure.
+
+490
+00:24:41,072 --> 00:24:44,085
+杰克  我为你的遭遇而感到难过
+Jack, I am so sorry you're going through this.
+
+491
+00:24:44,092 --> 00:24:47,019
+我真希望能为你做些什么
+I wish that there were something I could do.
+
+492
+00:24:47,025 --> 00:24:50,009
+总统阁下  谢谢您的来电
+M-Madam President, I appreciate this phone call.
+
+493
+00:24:51,006 --> 00:24:52,085
+但是我有事要挂机了
+But I'm sorry. I-I have to go.
+
+494
+00:24:52,092 --> 00:24:53,085
+我了解
+Of course.
+
+495
+00:24:53,092 --> 00:24:54,095
+谢谢您
+Thank you.
+
+496
+00:25:02,062 --> 00:25:04,062
+乔纳斯·霍奇斯已经被捕
+Jonas Hodges has been arrested.
+
+497
+00:25:04,069 --> 00:25:07,002
+你一和托尼联系上就通知我一声
+Let me know as soon as you got Tony.
+
+498
+00:25:07,009 --> 00:25:08,079
+我要去梅瑟尔医生那一下
+I need to go see Dr.Macer.
+
+499
+00:25:10,082 --> 00:25:12,052
+总统阁下  请讲
+Yes, Madam President?
+
+500
+00:25:12,059 --> 00:25:14,095
+联系疾病预防控制中心的本·兰德利
+Call Ben Landry at CDC.
+
+501
+00:25:15,002 --> 00:25:17,059
+跟他讲我要关于杰克·鲍尔
+Tell him that I want real-Time updates
+
+502
+00:25:17,065 --> 00:25:18,088
+健康状况的即时消息
+On Jack Bauer's condition.
+
+503
+00:25:18,088 --> 00:25:20,002
+是的  阁下
+Yes, ma'am.
+
+504
+00:25:31,085 --> 00:25:34,009
+我们已把守住了所有入口和指挥所
+We've secured all entry points and command posts
+
+505
+00:25:34,015 --> 00:25:37,009
+现在正对该基地进行地毯式搜查
+And are sweeping the compound on a grid-by-gridbasis.
+
+506
+00:25:37,015 --> 00:25:38,025
+遇到反抗了吗
+Are you meeting any resistance?
+
+507
+00:25:38,032 --> 00:25:39,089
+没
+No.
+
+508
+00:25:39,095 --> 00:25:42,012
+他们都顺从地缴械投降了
+They're surrendering peacefully and cooperating.
+
+509
+00:25:42,019 --> 00:25:44,029
+我觉得基地的大多数人
+Most of the men on this base,
+
+510
+00:25:44,035 --> 00:25:47,005
+都不知道发生了什么事
+I don't think they had any idea what was going on.
+
+511
+00:25:47,012 --> 00:25:48,075
+阿尔梅达呢
+What about Almeida?
+
+512
+00:25:48,082 --> 00:25:50,032
+他在这
+Uh, he's here.
+
+513
+00:25:50,039 --> 00:25:51,032
+找到他了
+We found him.
+
+514
+00:25:51,039 --> 00:25:52,099
+-他还好吗  -只是些小伤和淤青
+- Is he okay? - Some cuts and bruises,
+
+515
+00:25:53,005 --> 00:25:54,085
+其它的没事  他很好
+But otherwise, he's in pretty good shape.
+
+516
+00:25:54,092 --> 00:25:56,005
+好的  很好
+Good. good.
+
+517
+00:25:56,012 --> 00:25:57,052
+杰克知道的话  肯定会很高兴的
+Jack will be glad to hear that.
+
+518
+00:25:57,059 --> 00:25:59,082
+蕾妮  听着
+Listen, Renee...
+
+519
+00:25:59,089 --> 00:26:01,092
+我们认识也很久了
+We've known each other a long Time, you know.
+
+520
+00:26:01,099 --> 00:26:04,050
+今天发生了太多的事
+Um, so much stuff has happened today.
+
+521
+00:26:04,050 --> 00:26:05,059
+是啊
+Yeah.
+
+522
+00:26:05,059 --> 00:26:06,075
+我们要好好谈谈了
+We have a lot to talk about.
+
+523
+00:26:06,082 --> 00:26:07,051
+我知道
+I know.
+
+524
+00:26:07,051 --> 00:26:08,094
+打扰一下  沃克探员
+Excuse me, agent Walker.
+
+525
+00:26:08,094 --> 00:26:10,062
+您的客人到了  她等在会客区
+Your visitor's arrived. She's in the waiting area.
+
+526
+00:26:10,069 --> 00:26:11,067
+好的  谢谢
+Okay, thank you.
+
+527
+00:26:11,067 --> 00:26:13,008
+拉里  我要挂了
+Larry, I've got to go.
+
+528
+00:26:13,008 --> 00:26:14,069
+-金·鲍尔来了  -杰克的女儿吗
+- Kim Bauer's here. - Jack's daughter?
+
+529
+00:26:14,075 --> 00:26:16,039
+是啊  我叫她来的
+Yes. I-I asked her to come.
+
+530
+00:26:16,045 --> 00:26:18,089
+治疗杰克的病有一种试验疗法
+There's this experimental treatment
+
+531
+00:26:18,095 --> 00:26:20,089
+但是需要匹配的干细胞
+For Jack's disease, but he needs compatible stem cells.
+
+532
+00:26:20,095 --> 00:26:24,005
+疗效不确定  但这是杰克唯一的希望
+It's a long shot, but it's the only hope he's got.
+
+533
+00:26:24,090 --> 00:26:25,093
+很好
+Okay.
+
+534
+00:26:25,093 --> 00:26:27,022
+及时通知我结果  好吧
+Let me know how it goes, all right?
+
+535
+00:26:27,029 --> 00:26:28,095
+会的  我挂了
+I will. I'm going off com.
+
+536
+00:26:29,002 --> 00:26:31,059
+好的
+All right.
+
+537
+00:26:33,042 --> 00:26:34,085
+他们在说金·鲍尔吗
+Didthey say something about Kim Bauer?
+
+538
+00:26:34,092 --> 00:26:37,069
+是啊  她现在在调查局
+Yeah, she's at FBI
+
+539
+00:26:37,075 --> 00:26:39,009
+为了帮助杰克进行治疗
+Helping with a treatment for Jack,
+
+540
+00:26:39,015 --> 00:26:40,092
+什么干细胞疗法
+Some, uh, some kind of stem cell therapy.
+
+541
+00:26:40,099 --> 00:26:43,022
+他会好起来吗
+So they think he's gonna be all right?
+
+542
+00:26:43,022 --> 00:26:45,059
+不容乐观
+Didn't sound promising.
+
+543
+00:26:48,025 --> 00:26:50,072
+托尼  我也很为难
+Listen, Tony, this isn't easy for me,
+
+544
+00:26:50,079 --> 00:26:55,002
+但是我接到命令  要求逮捕你
+But, uh... I'm under orders to take you into federal custody.
+
+545
+00:26:56,030 --> 00:26:57,027
+我了解
+Yeah, I know.
+
+546
+00:26:57,027 --> 00:26:58,035
+你刚才的英勇壮举
+You dida brave thing here.
+
+547
+00:26:58,042 --> 00:27:00,055
+救了几千条性命
+Probably saved thousands of lives.
+
+548
+00:27:01,056 --> 00:27:02,052
+说真的
+For the record,
+
+549
+00:27:03,026 --> 00:27:05,034
+我觉得这不是你应得的回报
+I don't think this is how you should be repaid.
+
+550
+00:27:05,034 --> 00:27:06,095
+感谢你能这么说  不过
+I appreciate that, but, uh...
+
+551
+00:27:08,095 --> 00:27:10,075
+我完全是咎由自取  是我活该
+I'm ready to pay for what I've done.
+
+552
+00:27:11,045 --> 00:27:12,069
+帮他把手铐解了
+Get the cuffs off him, will you?
+
+553
+00:27:14,065 --> 00:27:15,075
+直升机马上就到
+Chopper's on the way.
+
+554
+00:27:15,082 --> 00:27:17,085
+我会把你带回调查局
+I'll be taking you back to FBI, all right?
+
+555
+00:27:22,002 --> 00:27:24,059
+这种病会一直伴有失忆的症状  鲍尔先生
+Memory loss is consistent with the disease,Mr. Bauer.
+
+556
+00:27:24,065 --> 00:27:27,065
+但我没料到症状会出现地这么快
+I just wouldn't have expected it to manifest this quickly.
+
+557
+00:27:27,072 --> 00:27:30,052
+不止是失忆
+It's not just memory loss.
+
+558
+00:27:31,044 --> 00:27:32,059
+感觉好像
+It feels like...
+
+559
+00:27:36,002 --> 00:27:38,059
+我不知该怎么说
+I don't know exactly how to explain it.
+
+560
+00:27:38,065 --> 00:27:40,089
+我觉得
+I feel like, uh,
+
+561
+00:27:40,095 --> 00:27:43,025
+就像我的部分机体丧失了能力
+Like I'm losing some part of myself.
+
+562
+00:27:43,032 --> 00:27:45,029
+病的症状包括
+The disease profile includes
+
+563
+00:27:45,035 --> 00:27:48,092
+人格转变  有时还会产生幻觉
+Personality changes, someTimes even hallucinations.
+
+564
+00:27:48,099 --> 00:27:51,054
+但这是一种武器化了的病原体
+But this is a weaponized pathogen
+
+565
+00:27:51,054 --> 00:27:52,094
+我们对其了解微乎其微
+We don't know much about.
+
+566
+00:27:52,094 --> 00:27:54,085
+军方现在还在桑加拉的生化武器
+Military's still combing through the remains
+
+567
+00:27:54,092 --> 00:27:56,039
+实验室的废墟中展开彻底搜查
+Of the bioweapons lab in Sangala,
+
+568
+00:27:56,045 --> 00:27:59,012
+很快我们就能更进一步地了解了
+So we expect to learn something very soon.
+
+569
+00:27:59,019 --> 00:28:01,095
+你刚才给了我控制身体发抖的药
+You were able to give me something that controlled the shaking.
+
+570
+00:28:03,035 --> 00:28:05,055
+能再给我一些防止失忆的药吗
+Is there anything that you can give me that would help me with this?
+
+571
+00:28:06,000 --> 00:28:07,012
+没有
+No.
+
+572
+00:28:07,093 --> 00:28:09,033
+很抱歉
+I'm sorry.
+
+573
+00:28:10,089 --> 00:28:12,059
+知道了
+Okay.
+
+574
+00:28:12,065 --> 00:28:14,022
+谢谢  失陪
+Thank you. Excuse me.
+
+575
+00:28:28,013 --> 00:28:29,099
+杰克  还好吗
+Jack, is it all right?
+
+576
+00:28:30,005 --> 00:28:31,032
+还好
+Yeah, um,
+
+577
+00:28:31,039 --> 00:28:34,062
+我要对今天发生的事情做下笔录
+I'm gonna need to go on record about everything that happened today.
+
+578
+00:28:34,069 --> 00:28:35,092
+必须要尽快
+And we need to do it soon.
+
+579
+00:28:35,099 --> 00:28:37,075
+我不知道自己还能
+I'm not sure how much longer I'm gonna be
+
+580
+00:28:37,082 --> 00:28:38,071
+保持清醒多久
+Able to provide you with the details.
+
+581
+00:28:38,071 --> 00:28:40,001
+好吧
+Okay.
+
+582
+00:28:40,092 --> 00:28:42,065
+我有点事要先对你讲
+First, there's something that you need to know.
+
+583
+00:28:42,072 --> 00:28:44,025
+什么
+What?
+
+584
+00:28:44,032 --> 00:28:46,015
+是金
+It's about Kim.
+
+585
+00:28:46,022 --> 00:28:47,065
+她来了  杰克
+She's here, Jack.
+
+586
+00:28:47,072 --> 00:28:49,015
+我告诉她你病了
+I told her that you were sick
+
+587
+00:28:49,022 --> 00:28:52,024
+而且她可能有助于你的治疗
+And that she might be able to help with the treatment.
+
+588
+00:28:53,009 --> 00:28:55,009
+你
+You did...
+
+589
+00:28:57,009 --> 00:28:59,002
+你干嘛了
+You didwhat?
+
+590
+00:28:59,009 --> 00:29:00,002
+过来
+Come here.
+
+591
+00:29:05,099 --> 00:29:07,079
+你以为你是谁啊
+Who the hell do you think you are?
+
+592
+00:29:08,041 --> 00:29:11,006
+你少自以为是
+Who the hell do you think you are?
+
+593
+00:29:11,085 --> 00:29:14,005
+你觉得我好过吗
+You think this is easy?
+
+594
+00:29:14,012 --> 00:29:16,005
+你以为你这样做很体贴吗
+You think you understand what I'm going through?
+
+595
+00:29:16,012 --> 00:29:17,012
+你想错了
+Because you don't.
+
+596
+00:29:17,019 --> 00:29:18,056
+我快不行了
+I am dying.
+
+597
+00:29:19,013 --> 00:29:20,055
+但我没事的
+And I was okay with it.
+
+598
+00:29:20,062 --> 00:29:23,015
+我还能独自承受这一切
+I could handle it.
+
+599
+00:29:23,022 --> 00:29:26,025
+而现在你却让我面临如此境地
+And now you've put in front of me the one thing,
+
+600
+00:29:26,032 --> 00:29:28,082
+你把她牵扯进来  这让我忍无可忍
+The one thing that is gonna make this unbearable.
+
+601
+00:29:28,089 --> 00:29:30,079
+-杰克  听我说  -不  你听我说
+- Jack, listen... - No, you listen to me.
+
+602
+00:29:30,085 --> 00:29:34,071
+我特地警告过你不要把我女儿牵扯进来
+I specifically told you do not drag my daughter into this.
+
+603
+00:29:34,071 --> 00:29:37,014
+没人逼她做任何事情
+No one dragged her into anything.
+
+604
+00:29:37,014 --> 00:29:38,069
+她一整天都想见你
+She's been trying to see you all day.
+
+605
+00:29:45,005 --> 00:29:46,019
+什么
+What?
+
+606
+00:29:46,025 --> 00:29:49,049
+她今早出席了参议院听证会
+She was at the senate hearing this morning.
+
+607
+00:29:49,055 --> 00:29:52,015
+她特地从洛杉矶赶到这里
+She flew out from L.A. to be there,
+
+608
+00:29:52,022 --> 00:29:54,015
+但我们在她见到你之前把你带了出来
+But we pulled you out before she could see you.
+
+609
+00:29:54,022 --> 00:29:56,009
+她一整天都在不断给我们办公室留言
+She's been leaving messages at our office all day.
+
+610
+00:29:56,019 --> 00:29:58,015
+只是他们现在才告诉我
+They just didn't get to me till now.
+
+611
+00:30:02,042 --> 00:30:04,029
+如果你愿意  我可以告诉她你不在这
+If you want, I can tell her that you're not here.
+
+612
+00:30:04,035 --> 00:30:07,035
+我可以告诉她你无法见她
+I can tell her that you can't see her.
+
+613
+00:30:10,045 --> 00:30:12,082
+我不能这么做
+Can't do that.
+
+614
+00:30:16,052 --> 00:30:18,029
+她在哪里
+Where is she?
+
+615
+00:30:18,035 --> 00:30:20,015
+楼下大厅
+Down the hall.
+
+616
+00:30:21,005 --> 00:30:22,075
+带我去
+Show me.
+
+617
+00:30:58,022 --> 00:30:59,057
+爸
+Daddy.
+
+618
+00:31:03,010 --> 00:31:05,044
+你感觉怎样
+How are you feeling?
+
+619
+00:31:06,047 --> 00:31:08,084
+我  我没事
+I'm-I'm okay.
+
+620
+00:31:08,090 --> 00:31:11,037
+不疼吗
+You're not in any pain?
+
+621
+00:31:11,044 --> 00:31:13,017
+不疼
+No.
+
+622
+00:31:14,064 --> 00:31:16,087
+过来坐吧
+Come sit down.
+
+623
+00:31:31,017 --> 00:31:34,027
+沃克探员告诉过你我一直在找你吗
+Didagent Walker tell you that I was trying to find you?
+
+624
+00:31:34,034 --> 00:31:37,070
+她说了
+Yeah.
+
+625
+00:31:37,077 --> 00:31:40,060
+我想方设法打听你的下落
+I've tried everything to track you down.
+
+626
+00:31:40,067 --> 00:31:43,046
+我找了国务院  私人侦探
+State Department, private investigators.
+
+627
+00:31:43,046 --> 00:31:45,020
+每次得到了电话号码或者地址
+Every Time I got a phone number or an address,
+
+628
+00:31:45,027 --> 00:31:47,020
+我赶到那里总是迟你一步
+You were already gone.
+
+629
+00:31:47,027 --> 00:31:48,090
+对不起
+I'm sorry.
+
+630
+00:31:48,097 --> 00:31:52,097
+我以为我远走高飞是为你好
+I thought I was doing the best thing for you by staying away.
+
+631
+00:31:55,050 --> 00:31:58,060
+爸  我想死你了
+Daddy, I've missed you so much.
+
+632
+00:32:01,024 --> 00:32:05,027
+我也一直在想你
+I've missed you,too.
+
+633
+00:32:06,054 --> 00:32:08,070
+你要知道  因为我的缘故
+You need to know how sorry I am
+
+634
+00:32:08,077 --> 00:32:11,057
+让你受了这么多苦  我有多么抱歉
+For everything that you've had to live through because of me.
+
+635
+00:32:11,064 --> 00:32:13,007
+不  别这么说
+No, don't do that.
+
+636
+00:32:13,014 --> 00:32:14,037
+别太自责了
+Don't put that on yourself.
+
+637
+00:32:14,044 --> 00:32:15,094
+我才应该道歉
+I'm the one that should apologize.
+
+638
+00:32:16,000 --> 00:32:17,027
+是我拒你于千里之外
+I pushed you away.
+
+639
+00:32:17,034 --> 00:32:19,017
+我不仅没有为我一生所犯的过错
+And instead of taking responsibility
+
+640
+00:32:19,024 --> 00:32:23,037
+而负起责任  反而责怪你
+For all the mistakes I've made in my life, I blamed you.
+
+641
+00:32:23,044 --> 00:32:25,074
+我愚蠢至极
+And it was stupid
+
+642
+00:32:25,080 --> 00:32:27,080
+也太不成熟了
+And immature.
+
+643
+00:32:29,034 --> 00:32:32,064
+如今  我们错过的这些时光
+And now, all the Time that we've lost...
+
+644
+00:32:35,090 --> 00:32:39,024
+沃克探员告诉我还有希望
+Agent Walker told me that there's a chance--
+
+645
+00:32:39,030 --> 00:32:42,060
+一线希望  我可能救得了你
+A small chance that I could help you,
+
+646
+00:32:42,067 --> 00:32:44,030
+而你却不希望我救你
+And you don't want me to.
+
+647
+00:32:44,037 --> 00:32:46,033
+这个治疗还在临床试验阶段
+The treatment is experimental.
+
+648
+00:32:46,087 --> 00:32:48,090
+我觉得不可行
+And I don't think it's going to work.
+
+649
+00:32:48,097 --> 00:32:52,007
+你不想这么做  因为你害怕来求我
+And you don't want to because you're afraidto ask me.
+
+650
+00:32:52,014 --> 00:32:54,014
+不
+No.
+
+651
+00:32:55,034 --> 00:32:57,027
+这对你有风险
+There's a risk to you.
+
+652
+00:32:58,016 --> 00:32:59,080
+风险很小
+A small risk...
+
+653
+00:32:59,087 --> 00:33:01,031
+值得一试
+Worth taking.
+
+654
+00:33:01,031 --> 00:33:02,087
+我觉得不值得
+Not to me.
+
+655
+00:33:04,057 --> 00:33:07,070
+金  我快死了
+Kim... I'm dying.
+
+656
+00:33:08,097 --> 00:33:12,087
+即便有能让我幸存的一线生机
+And whatever small chance there is to stop that from happening
+
+657
+00:33:12,094 --> 00:33:16,073
+我也决不愿承受  让你坐在我身边
+It is not worth the pain for me to let you
+
+658
+00:33:16,073 --> 00:33:18,029
+看着我死去时的那种切肤之痛
+Sit there and watch me die.
+
+659
+00:33:18,029 --> 00:33:21,017
+爸  我不想失去你
+Daddy, I don't want to lose you.
+
+660
+00:33:21,024 --> 00:33:23,034
+过来
+Come here.
+
+661
+00:33:23,040 --> 00:33:24,083
+我不想失去你
+I don't.
+
+662
+00:33:24,083 --> 00:33:28,024
+宝贝  一切都会好起来的
+Sweetheart, it's going to be all right.
+
+663
+00:33:28,030 --> 00:33:30,087
+会好起来的  我保证
+It's gonna be all right. I promise you.
+
+664
+00:33:36,050 --> 00:33:37,067
+怎么了
+What is it?
+
+665
+00:33:39,074 --> 00:33:42,040
+怎么了
+What?
+
+666
+00:33:44,074 --> 00:33:46,090
+宝贝  抱歉
+Sweetheart, I'm sorry...
+
+667
+00:33:47,018 --> 00:33:50,017
+但你还是走吧
+But you need to go.
+
+668
+00:33:52,057 --> 00:33:54,067
+求你了  宝贝  求你了  爸爸求你了
+Please, baby, please, I'm begging you.
+
+669
+00:33:55,070 --> 00:33:57,097
+我真的很爱你
+I love you so much.
+
+670
+00:33:58,004 --> 00:33:59,087
+亲爱的  我也爱你  求你了  宝贝
+Honey, I love you, too. please, baby.
+
+671
+00:34:01,064 --> 00:34:03,084
+谢谢  走吧
+Thank you. Go.
+
+672
+00:34:46,084 --> 00:34:50,020
+2区岗哨呼叫调度中心  6号侧门安全
+Perimeter 2 to Dispatch. Auxiliary gate 6 is clear.
+
+673
+00:34:50,020 --> 00:34:53,004
+收到  2区岗哨  坚守岗位
+Copy that, P-2. hold your position.
+
+674
+00:35:01,053 --> 00:35:02,051
+别动
+Freeze!
+
+675
+00:35:02,089 --> 00:35:03,083
+把手举起来
+Show me your hands.
+
+676
+00:35:03,083 --> 00:35:05,022
+举起来
+Get 'em up!
+
+677
+00:35:16,077 --> 00:35:18,073
+2区岗哨呼叫调度中心
+P-2 to Dispatch.
+
+678
+00:35:18,073 --> 00:35:20,054
+一名探员被射杀  我扣留了一名嫌犯
+I have an agent down and a suspect in custody.
+
+679
+00:35:20,060 --> 00:35:21,074
+红色警戒
+Code red.
+
+680
+00:35:21,080 --> 00:35:23,020
+收到  2区岗哨
+Copy that, P-2.
+
+681
+00:35:23,027 --> 00:35:25,024
+所有空余探员速速增援6号侧门
+All available agents respond to auxiliary gate 6.
+
+682
+00:35:25,030 --> 00:35:26,080
+-把包放下  -红色警戒
+- Drop the bag. - Code red.
+
+683
+00:35:32,093 --> 00:35:34,020
+把手放在引擎盖上
+Hands on the hood.
+
+684
+00:35:50,020 --> 00:35:52,010
+[危险  危险军备物资]
+Danger.Hazardous Materiel.
+
+685
+00:35:53,094 --> 00:35:55,000
+2区岗哨呼叫调度中心
+P-2 to Dispatch.
+
+686
+00:35:55,007 --> 00:35:57,037
+帮我接莫斯探员  十万火急
+Put me through to agent Moss. it's urgent.
+
+687
+00:36:00,080 --> 00:36:02,047
+我是莫斯探员
+Agent Moss.
+
+688
+00:36:02,054 --> 00:36:04,090
+莫斯探员  我是戴维斯  在6号侧门
+Agent Moss, this is Davis at auxiliary gate 6.
+
+689
+00:36:04,097 --> 00:36:06,074
+我抓到了一个斯塔克伍德的雇佣兵
+I have a Starkwood op in custody.
+
+690
+00:36:06,080 --> 00:36:08,030
+他杀了一名探员
+He killed one of our agents.
+
+691
+00:36:08,037 --> 00:36:10,007
+他随身携带一罐生化武器
+He was carrying a canister of the bioweapon,
+
+692
+00:36:10,014 --> 00:36:12,034
+他正试图用我们的车辆偷运出去
+Trying to smuggle it out using one of our vehicles.
+
+693
+00:36:12,040 --> 00:36:14,024
+什么  确定是生化武器吗
+What?! are you sure?
+
+694
+00:36:14,030 --> 00:36:16,017
+就在我眼前
+I'm looking at it right now.
+
+695
+00:36:19,004 --> 00:36:21,084
+戴维斯探员
+Agent Davis?
+
+696
+00:36:21,090 --> 00:36:23,070
+戴维斯
+Davis?!
+
+697
+00:36:28,097 --> 00:36:30,067
+我是沃克
+Walker.
+
+698
+00:36:30,074 --> 00:36:32,097
+蕾妮  有人从封锁区6号门逃走
+Renee, we got a breach in the cordon at gate 6.
+
+699
+00:36:33,004 --> 00:36:34,014
+是斯塔克伍德的一名雇佣兵
+One of the Starkwood ops
+
+700
+00:36:34,020 --> 00:36:35,060
+他带走了一罐生化武器
+He's got a canister of the bioweapon.
+
+701
+00:36:35,067 --> 00:36:36,077
+什么
+What?
+
+702
+00:36:36,084 --> 00:36:38,010
+戴维斯探员已经确认
+It was IDed by agent Davis,
+
+703
+00:36:38,017 --> 00:36:39,067
+我相信他已经被射杀
+Who I believe has just been shot.
+
+704
+00:36:39,074 --> 00:36:41,067
+嫌犯可能正驾驶调查局车辆潜逃
+The suspect may be fleeing in an FBI vehicle,
+
+705
+00:36:41,074 --> 00:36:43,090
+所以我要你封锁所有出去的道路
+So I need you to close down all access roads,
+
+706
+00:36:43,097 --> 00:36:45,050
+让周边小组和首府警察保持警戒
+And alert perimeter units and Metro Police.
+
+707
+00:36:45,057 --> 00:36:46,077
+詹尼丝  给我接通首府警局
+Janis, get me DCMetro.
+
+708
+00:36:46,084 --> 00:36:48,027
+我将进行空中追捕
+I'm gonna pursue it from the air.
+
+709
+00:36:48,034 --> 00:36:50,044
+快走  起飞
+Let's go! let us up!
+
+710
+00:36:52,004 --> 00:36:53,034
+蕾妮
+Renee,
+
+711
+00:36:53,040 --> 00:36:55,024
+通告国土安全局  让他们知道详情
+Alert Homeland, let them know what's going on.
+
+712
+00:36:55,030 --> 00:36:57,017
+拉里  这是另一场袭击吗
+Are we thinking this is another attack, Larry?
+
+713
+00:36:57,024 --> 00:36:59,004
+不清楚  但其中一罐中的朊病毒变体
+I don't know, but there's enough prion variant
+
+714
+00:36:59,010 --> 00:37:01,074
+足以毁灭一座小城市
+In one of those canisters to take out a small city.
+
+715
+00:37:27,057 --> 00:37:29,050
+米勒探员  我们周围是否有
+Agent Miller, are there any major roadways
+
+716
+00:37:29,057 --> 00:37:31,087
+那个雇佣兵可能会走的主干道
+In our perimeter that Starkwood operatives could have used?
+
+717
+00:37:31,094 --> 00:37:34,034
+有  长官  我们离42号高速公路很近
+Yes, sir. We're coming up on highway 42.
+
+718
+00:37:34,040 --> 00:37:36,016
+要我们的人赶往那边吗
+Should I turn us that way?
+
+719
+00:37:36,016 --> 00:37:37,053
+好  收到沃克探员的指示前
+Yeah, let's head that way
+
+720
+00:37:37,053 --> 00:37:38,077
+我们先朝那边走
+until we hear something from agent Walker.
+
+721
+00:37:38,084 --> 00:37:40,077
+收到
+Roger that.
+
+722
+00:37:40,084 --> 00:37:43,007
+好  长官  我们会向国土安全局
+Yes, sir. we'll keep Homeland apprised
+
+723
+00:37:43,014 --> 00:37:44,077
+实时汇报最新信息
+With real-Time updates.
+
+724
+00:37:44,084 --> 00:37:47,068
+你登陆全球定位系统了吗
+Didyou access the GPS locator system?
+
+725
+00:37:47,068 --> 00:37:49,027
+登陆了  我正在异频雷达收发机上
+Yeah, I'm scanning transponders
+
+726
+00:37:49,027 --> 00:37:50,074
+扫描搜寻被盗调查局车辆
+for the stolen FBI vehicle.
+
+727
+00:37:50,080 --> 00:37:51,046
+需要多久
+How long will that take?
+
+728
+00:37:51,046 --> 00:37:53,090
+卫星重定位车辆位置后即可完成
+As long as it takes for the satellite to reposition.
+
+729
+00:37:53,097 --> 00:37:58,027
+你和拉里通话时提到有人遇袭  对吗
+When you spoke to Larry, you mentioned an attack?
+
+730
+00:37:58,098 --> 00:38:00,024
+提到了斯塔克伍德的雇佣兵
+The Starkwood operative,
+
+731
+00:38:00,024 --> 00:38:02,097
+我们在找一罐被盗的生化武器
+We're trying to find a stolen canister of the bioweapon.
+
+732
+00:38:03,004 --> 00:38:05,007
+我还以为托尼·阿尔梅达销毁了所有武器
+I thought Tony Almeida destroyed all the weapons.
+
+733
+00:38:05,081 --> 00:38:06,071
+显然没有
+Apparently not.
+
+734
+00:38:06,071 --> 00:38:08,066
+这个家伙是怎么越过封锁线的呢
+How didthis operative get past our perimeter?
+
+735
+00:38:08,066 --> 00:38:10,078
+他射杀了我们的两名探员
+Shot and killed two of our agents.
+
+736
+00:38:12,061 --> 00:38:13,042
+找到了
+This is it.
+
+737
+00:38:14,037 --> 00:38:16,070
+嫌犯正从烟树大道下了42号高速公路
+The suspect is getting off highway 42 at Smoketree Avenue.
+
+738
+00:38:16,077 --> 00:38:18,064
+他正开往工业走廊
+He's heading toward the industrial corridor.
+
+739
+00:38:18,070 --> 00:38:20,044
+帮我接通各部门公共频道
+Put me on the interagency channel.
+
+740
+00:38:20,050 --> 00:38:22,014
+-请讲  -所有小组注意
+- Go ahead. - All units,
+
+741
+00:38:22,020 --> 00:38:23,034
+我是调查局的沃克探员
+This is agent Walker with FBI.
+
+742
+00:38:23,040 --> 00:38:26,037
+嫌犯已在烟树大道出了42号高速公路
+Suspect has exited highway 42 at Smoketree.
+
+743
+00:38:26,044 --> 00:38:27,097
+正向北驱驶  开往工业走廊
+He's heading north into the industrial corridor.
+
+744
+00:38:28,004 --> 00:38:29,054
+附近小组  请回答
+Units in the vicinity, please respond.
+
+745
+00:38:29,060 --> 00:38:30,070
+蕾妮  是我
+Renee, it's me.
+
+746
+00:38:30,077 --> 00:38:32,004
+我们正赶往烟树大道
+We're over Smoketree right now.
+
+747
+00:38:32,010 --> 00:38:33,080
+我们正重定向  将紧跟目标
+We're redirecting, and we'll tighten our pursuit.
+
+748
+00:38:33,087 --> 00:38:36,040
+收到  我会命特警A小队赶往现场
+Got it. I'll reroute SWAT team Alpha to the scene.
+
+749
+00:38:37,067 --> 00:38:39,090
+特警A小队 我们要在费尔法科斯县边界处
+SWAT team Alpha, we need to set up a roadblock
+
+750
+00:38:39,097 --> 00:38:41,037
+建立一道路障
+At the Fairfax county line.
+
+751
+00:38:41,044 --> 00:38:43,037
+首府警察正封锁这条地区的边界线
+DCMetro's covering the district line in case he tries
+
+752
+00:38:43,044 --> 00:38:46,009
+-以防他折回逃脱  -收到  前往县边界处
+- To double back.- Copy that. County line.
+
+753
+00:38:51,004 --> 00:38:52,057
+长官
+Sir.
+
+754
+00:38:52,064 --> 00:38:54,064
+看到了
+I have a visual.
+
+755
+00:38:54,070 --> 00:38:56,087
+好  看到了
+Yeah. got him.
+
+756
+00:39:03,017 --> 00:39:04,094
+下降些
+Send us lower.
+
+757
+00:39:12,007 --> 00:39:13,094
+他拐下路了  放我们下去
+Yeah, he's pulling off the road. Get us down there now.
+
+758
+00:39:18,017 --> 00:39:19,037
+蕾妮  我是拉里  嫌犯改为步行
+Renee, it's Larry. suspect is on foot.
+
+759
+00:39:19,044 --> 00:39:20,070
+等不及后援了
+We can't wait for backup.
+
+760
+00:39:20,077 --> 00:39:22,000
+我们现在行动
+We're moving in right now.
+
+761
+00:39:22,007 --> 00:39:23,084
+好  特警队还需几分钟赶到
+All right. SWAT team's a few minutes out.
+
+762
+00:39:23,090 --> 00:39:25,080
+-小心行事  拉里  -好
+- Careful, Larry. - Yeah.
+
+763
+00:39:25,087 --> 00:39:29,004
+记住  嫌犯携带毒气罐
+Remember, suspect has a canister,
+
+764
+00:39:29,010 --> 00:39:30,020
+不要轻易射击
+So pic your shots.
+
+765
+00:39:30,027 --> 00:39:31,064
+可能的话  活捉他
+If possible, let's take him alive.
+
+766
+00:39:31,070 --> 00:39:32,090
+遵命  长官
+Yes, sir.
+
+767
+00:39:40,034 --> 00:39:41,017
+我们得下机
+We got to get out of here.
+
+768
+00:39:41,024 --> 00:39:42,054
+阿尔梅达  掩护我  走
+Almeida, cover. let's go.
+
+769
+00:39:43,035 --> 00:39:44,060
+快
+Come on!
+
+770
+00:40:13,099 --> 00:40:14,080
+放松
+Sir, relax.
+
+771
+00:40:16,097 --> 00:40:18,040
+-我没事  -放松
+- I'm okay. - Relax.
+
+772
+00:40:22,064 --> 00:40:24,034
+-忍一下  -托尼
+- Swallow. - Tony.
+
+773
+00:40:25,060 --> 00:40:26,077
+托尼
+Tony!
+
+774
+00:40:26,084 --> 00:40:29,044
+托尼
+Tony!
+
+775
+00:40:35,084 --> 00:40:38,067
+怎么
+What...?
+
+776
+00:40:38,074 --> 00:40:41,057
+抱歉  拉里
+I'm sorry, Larry.
+
+777
+00:40:41,064 --> 00:40:43,077
+老天
+Oh... god...
+
+778
+00:41:34,018 --> 00:41:35,030
+让我看看
+Let me see it.
+
+779
+00:41:58,050 --> 00:42:00,004
+我们该怎么脱身呢
+How the hell do we get out of here?
+
+780
+00:42:00,010 --> 00:42:02,097
+你带上它  找个地方藏身
+I want you to take this, find a place to hide.
+
+781
+00:42:03,004 --> 00:42:04,077
+-等我电话  -你呢
+- Wait for my call. - What about you?
+
+782
+00:42:04,084 --> 00:42:06,024
+我等调查局的人来
+I'm gonna wait on the FBI,
+
+783
+00:42:06,030 --> 00:42:08,060
+想办法帮你脱身
+Figure out a way to get you out of here.
+
+784
+00:42:08,067 --> 00:42:09,084
+快走
+Go!
+

@@ -80,7 +80,7 @@ def cvgen(fn, fno):
             
         
         #去掉带有这些关键字的条目
-        dirty_keys = [u'字幕', u'翻译', u'后期', '监制']
+        dirty_keys = [u'字幕', u'翻译', u'后期', u'监制', u'<', u'>', u'=', u'【', u'[', u'*', u'■']
         
         ncps = []
         for cp in cps:

@@ -1,0 +1,4035 @@
+1
+00:00:12,072 --> 00:00:14,051
+《反恐24小时》前情提要
+Previously on 24
+
+2
+00:00:15,090 --> 00:00:17,050
+杰克
+Jack!
+
+3
+00:00:17,056 --> 00:00:18,097
+叫医护人员来
+We need a medic!
+
+4
+00:00:19,003 --> 00:00:20,087
+生化剂比我们想的要厉害得多
+The bioagent is more virulent than we thought.
+
+5
+00:00:20,094 --> 00:00:22,020
+我们所做的
+All we're doing here is just
+
+6
+00:00:22,027 --> 00:00:24,004
+-只是掩蔽症状而已  -我明白
+- Masking the symptoms. - I understand.
+
+7
+00:00:25,090 --> 00:00:27,016
+不过有件事你也许会考虑一下
+There's something you may want to consider.
+
+8
+00:00:27,023 --> 00:00:28,040
+什么事
+What's that?
+
+9
+00:00:28,047 --> 00:00:29,092
+一种采用干细胞的可能疗法
+A possible treatment using stem cells
+
+10
+00:00:29,092 --> 00:00:31,038
+需从基因匹配的捐赠者身上提取
+From a genetically compatible donor.
+
+11
+00:00:31,050 --> 00:00:33,042
+我看过你的档案  你有个女儿
+I saw your file, and it says you have a daughter.
+
+12
+00:00:33,042 --> 00:00:35,024
+我不想把我的女儿牵扯进来
+I don't want my daughter involved in this.
+
+13
+00:00:35,081 --> 00:00:37,034
+爸
+Daddy.
+
+14
+00:00:37,041 --> 00:00:40,031
+沃克探员告诉我还有希望
+Agent Walker told me that there's a chance,
+
+15
+00:00:40,038 --> 00:00:43,025
+一线希望  我可能救得了你
+A small chance that I could help you,
+
+16
+00:00:43,031 --> 00:00:45,008
+而你却不希望我救你
+And you don't want me to.
+
+17
+00:00:45,015 --> 00:00:47,032
+我快死了
+I'm dying,
+
+18
+00:00:47,038 --> 00:00:50,031
+即便有能让我幸存的一线生机
+And whatever small chance there is to stop that from happening
+
+19
+00:00:50,092 --> 00:00:53,094
+我也不要冒着风险  让你坐在我身边
+It is not worth the pain for me to let you
+
+20
+00:00:53,094 --> 00:00:55,089
+看我死去  那样太痛苦了
+Sit there and watch me die.
+
+21
+00:00:55,096 --> 00:00:59,046
+杰克  霍奇斯持有13枚
+Jack, hodges has 13 python missiles
+
+22
+00:00:59,053 --> 00:01:01,020
+载有生化武器的巨蟒导弹
+Armed with the bioweapons.
+
+23
+00:01:01,027 --> 00:01:03,047
+他要求我召回战斗机
+He demanded that i recall the planes,
+
+24
+00:01:03,053 --> 00:01:04,047
+否则就会发射导弹
+Or he would launch.
+
+25
+00:01:04,054 --> 00:01:06,054
+托尼·阿尔梅达还在斯塔克伍德里面
+Tony almeida is still inside Starkwood.
+
+26
+00:01:06,060 --> 00:01:08,067
+他认为自己能够进到燃料库
+He believes he can gain access to the fuel depot,
+
+27
+00:01:08,074 --> 00:01:10,014
+放置连环炸药装置
+And lay a series of explosive charges,
+
+28
+00:01:10,021 --> 00:01:11,031
+从而摧毁那些导弹
+And take the missiles out.
+
+29
+00:01:11,038 --> 00:01:12,058
+你知道自己在做什么吗
+What do you think you're doing?
+
+30
+00:01:12,064 --> 00:01:15,038
+带我去燃料罐那里
+You're gonna take me down to the fuel tanks.
+
+31
+00:01:30,046 --> 00:01:32,090
+乔纳斯  你的导弹已经被我们摧毁了
+Jonas, we've taken out your missiles.
+
+32
+00:01:32,096 --> 00:01:34,043
+你玩完了  你被捕了
+It's over, and you're under arrest.
+
+33
+00:01:34,050 --> 00:01:36,090
+你将面对的  是你无法想象的对手
+You can't even begin to imagine what you're up against.
+
+34
+00:01:36,097 --> 00:01:38,010
+你在说些什么
+What are you talking about?
+
+35
+00:01:38,017 --> 00:01:39,094
+你会知道的
+You'll find out.
+
+36
+00:01:40,000 --> 00:01:41,044
+莫斯探员  我是戴维斯  在6号侧门
+Agent Moss, this is Davis at auxiliary gate 6.
+
+37
+00:01:41,051 --> 00:01:43,047
+我抓到了一个斯塔克伍德的人
+I have a Starkwood op in custody.
+
+38
+00:01:43,054 --> 00:01:45,014
+他随身携带一罐生化武器
+He was carrying a canister of the bioweapon.
+
+39
+00:01:45,021 --> 00:01:47,051
+-确定是生化武器吗  -就在我眼前
+- Are you sure? - I'm looking at it right now.
+
+40
+00:01:50,021 --> 00:01:51,041
+斯塔克伍德的一个雇佣兵
+One of the Starkwood ops
+
+41
+00:01:51,048 --> 00:01:53,018
+他带走了一罐生化武器
+He's got a canister of the bioweapon.
+
+42
+00:01:53,025 --> 00:01:55,075
+所以我要你封锁所有出去的道路
+So I need you to close down all access roads,
+
+43
+00:01:55,082 --> 00:01:57,002
+让周边小组和首府警察保持警戒
+And alert perimeter units and metro police.
+
+44
+00:01:57,009 --> 00:01:58,039
+詹尼丝  给我接通首府警局
+Janis, get me D.C. metro.
+
+45
+00:01:58,046 --> 00:01:59,079
+我将进行空中追捕
+I'm gonna pursue from the air.
+
+46
+00:01:59,086 --> 00:02:01,002
+快走
+Let's go!
+
+47
+00:02:03,039 --> 00:02:06,023
+快
+Come on!
+
+48
+00:02:11,074 --> 00:02:13,004
+我没事
+I'm okay.
+
+49
+00:02:13,010 --> 00:02:14,080
+托尼  托尼
+Tony! Tony!
+
+50
+00:02:16,091 --> 00:02:20,034
+老天
+Oh, god. oh...
+
+51
+00:02:26,044 --> 00:02:30,089
+以下情节发生在凌晨2点至3点间
+The following takes place between 2 a.m. and 3 a.m.
+
+52
+00:02:34,082 --> 00:02:36,002
+帕特丽夏  我是马特
+Patricia, Matt.
+
+53
+00:02:36,009 --> 00:02:37,076
+我刚跟特勤组通完电话
+I just got off phone with secret service.
+
+54
+00:02:37,083 --> 00:02:39,001
+已在白宫南门入口安检处
+You're cleared with white house
+
+55
+00:02:39,001 --> 00:02:40,020
+给你办了出入手续
+Security at the south entrance.
+
+56
+00:02:40,026 --> 00:02:43,000
+你多久能到那里
+How soon do you think you can get there?
+
+57
+00:02:43,093 --> 00:02:46,013
+有关于霍奇斯被拘捕的更多信息吗
+Do you have any more information why Hodges was arrested?
+
+58
+00:02:46,020 --> 00:02:47,050
+他们没有透露太多
+They didn't give me a lot.
+
+59
+00:02:47,057 --> 00:02:48,090
+明显的是  乔纳斯当时正跟总统
+Apparently, Jonas was in some kind
+
+60
+00:02:48,097 --> 00:02:50,027
+进行某种政治会面
+Of policy meeting with the president,
+
+61
+00:02:50,034 --> 00:02:51,087
+然后情况失控了
+And things got out of hand.
+
+62
+00:02:51,094 --> 00:02:54,051
+接着他要求见他亲爱的律师
+That's when he requested his favorite attorney.
+
+63
+00:02:54,057 --> 00:02:55,078
+荣幸之至
+I'm flattered.
+
+64
+00:02:55,084 --> 00:02:58,044
+我跟他谈完再给你电话
+I'll call you after I've spoken to him.
+
+65
+00:03:39,012 --> 00:03:40,032
+搞快点
+Hurry it up.
+
+66
+00:04:08,043 --> 00:04:11,020
+詹尼斯  我们刚刚识别出了疑犯的身份
+Janis, we just got an ID on the suspect.
+
+67
+00:04:11,027 --> 00:04:13,030
+斯塔克伍德的一台监控摄像机
+One of Starkwood's security cameras
+
+68
+00:04:13,037 --> 00:04:14,031
+捕捉到了他离开基地的画面
+Picked him up leaving the compound;
+
+69
+00:04:14,031 --> 00:04:15,033
+他当时拿着一个背包
+He was carrying a backpack.
+
+70
+00:04:15,098 --> 00:04:17,096
+在斯塔克伍德工作过两年
+Two-year Starkwood employee.
+
+71
+00:04:17,096 --> 00:04:18,090
+前特种部队成员
+Former special forces.
+
+72
+00:04:18,097 --> 00:04:20,030
+把这信息传给拉里
+Relay that information to Larry.
+
+73
+00:04:20,030 --> 00:04:21,071
+他需要知道我们追捕的对象
+He needs to know who we are stalking,
+
+74
+00:04:21,078 --> 00:04:23,058
+我在用对讲机联系他  但他一直没回应
+I've been trying. He's not answering his comm.
+
+75
+00:04:23,064 --> 00:04:25,018
+增援人员有多远
+How far away is backup?
+
+76
+00:04:25,024 --> 00:04:27,088
+他们还有几分钟  帕克的小组
+They're still a few minutes out, but agent Park's teams
+
+77
+00:04:27,095 --> 00:04:29,055
+已建立了四个街区的封锁线
+Have secured a four-block perimeter.
+
+78
+00:04:29,055 --> 00:04:32,031
+装生化武器的罐子就在封锁区里
+The bioweapons canister is secured within the cordon.
+
+79
+00:04:32,031 --> 00:04:34,006
+将盖尔维兹的图像及描述
+Get Galvez' picture and description out
+
+80
+00:04:34,006 --> 00:04:35,065
+分发给战术小组及各部门
+To tactical and distribute department wide.
+
+81
+00:04:35,065 --> 00:04:36,020
+好
+Got it.
+
+82
+00:04:36,020 --> 00:04:37,049
+继续联系拉里
+And keep trying Larry.
+
+83
+00:04:39,063 --> 00:04:41,003
+各小组注意
+To all units,
+
+84
+00:04:41,009 --> 00:04:42,096
+我正将疑犯照片上传至
+I'm uploading a photo of the suspect
+
+85
+00:04:43,003 --> 00:04:44,046
+各小组成员的掌上电脑上
+To all units' PDAs.
+
+86
+00:04:44,053 --> 00:04:46,003
+疑犯名字是罗伯特·盖尔维兹
+His name is Robert Galvez.
+
+87
+00:04:46,010 --> 00:04:47,047
+请注意
+Be advised
+
+88
+00:04:47,053 --> 00:04:48,093
+疑犯受过强化军事训练
+He has advanced military training,
+
+89
+00:04:49,000 --> 00:04:50,074
+各小组小心行动
+So proceed with caution.
+
+90
+00:05:20,097 --> 00:05:23,020
+阿尔梅达  阿尔梅达  在吗
+Almeida? Almeida, are you there?
+
+91
+00:05:23,027 --> 00:05:25,010
+你到安全位置了吗
+Are you in a secure location?
+
+92
+00:05:25,017 --> 00:05:26,051
+我躲在杰弗逊大街
+I'm holed up in a storage yard
+
+93
+00:05:26,051 --> 00:05:27,091
+建筑工程屋旁的堆场里
+near the projects on Jefferson.
+
+94
+00:05:27,097 --> 00:05:29,027
+我刚看到一个巡逻警察
+But I just spotted a patrol.
+
+95
+00:05:29,034 --> 00:05:30,068
+我最好离开这里
+I think I better keep moving.
+
+96
+00:05:30,074 --> 00:05:31,084
+别走
+No, don't.
+
+97
+00:05:33,008 --> 00:05:34,088
+调查局刚刚封锁了整个区域
+The FBI's got the entire perimeter locked down.
+
+98
+00:05:34,095 --> 00:05:35,072
+他们知道你是谁
+And they know who you are.
+
+99
+00:05:35,072 --> 00:05:36,051
+怎么知道的
+How?
+
+100
+00:05:36,051 --> 00:05:38,012
+他们有你的图像
+They have a picture.
+
+101
+00:05:38,018 --> 00:05:41,002
+所以搜捕队看见你就能认出来
+Which means the search teams can ID you on sight.
+
+102
+00:05:41,009 --> 00:05:43,022
+待在原地  我看见他们的搜捕协议后
+Just stay put until I can get a read
+
+103
+00:05:43,029 --> 00:05:45,042
+会引导你逃出去的
+On their search protocols, and I'll guide you out.
+
+104
+00:05:45,049 --> 00:05:47,013
+我当初真不应该听你的来帮你
+I should have never let you talk me into helping you.
+
+105
+00:05:47,019 --> 00:05:49,043
+我答应你  你帮我偷的那个罐子
+I promise you, that canister you stole for me
+
+106
+00:05:49,050 --> 00:05:52,053
+我效力的那些人会付很多钱的
+Is worth a lot of money to the people I'm working for.
+
+107
+00:05:52,060 --> 00:05:54,047
+我坐牢那些钱还有个屁用
+Hell of a lot of good that money's gonna do me in prison.
+
+108
+00:05:54,053 --> 00:05:56,033
+闭嘴  照我说的做
+Just shut up and do what I tell you to do.
+
+109
+00:05:56,040 --> 00:05:59,067
+守好罐子  原地待命  等我的电话
+Guard the canister, stay put, and wait for my call.
+
+110
+00:06:11,048 --> 00:06:12,085
+有探员受伤
+We've got agents down.
+
+111
+00:06:12,092 --> 00:06:16,035
+快派医疗队来
+Get a med team out here now.
+
+112
+00:06:16,042 --> 00:06:18,046
+阿尔梅达
+Almeida?
+
+113
+00:06:18,052 --> 00:06:20,053
+阿尔梅达  听得到吗
+Almeida, can you hear me?
+
+114
+00:06:21,080 --> 00:06:22,090
+出什么事了
+What happened?
+
+115
+00:06:22,096 --> 00:06:24,023
+疑犯在哪里
+Where's the suspect?
+
+116
+00:06:24,030 --> 00:06:25,053
+他偷袭了我们
+He ambushed us.
+
+117
+00:06:25,060 --> 00:06:27,067
+你看见他往哪边去了吗
+Did you see where he went?
+
+118
+00:06:28,090 --> 00:06:30,067
+我不知道
+I don't know.
+
+119
+00:06:30,074 --> 00:06:32,000
+蕾妮  我刚刚得到确认
+Renee, I just got confirmation
+
+120
+00:06:32,007 --> 00:06:34,027
+战术小组已到达现场
+The tac team has arrived at the scene.
+
+121
+00:06:34,034 --> 00:06:36,021
+-有拉里的消息吗  -还没有
+- Do we have a 20 on Larry? - Not yet.
+
+122
+00:06:36,028 --> 00:06:38,064
+打扰一下  沃克探员
+Excuse me, agent Walker.
+
+123
+00:06:38,071 --> 00:06:39,098
+-我知道你很忙  -金
+- I know you're busy. - Kim.
+
+124
+00:06:40,005 --> 00:06:41,098
+我是来向你告别的
+I just came to say good-bye.
+
+125
+00:06:42,005 --> 00:06:43,038
+告别  你要去哪里
+Good-bye? Where are you going?
+
+126
+00:06:43,045 --> 00:06:45,008
+回洛杉矶
+Back to L.A.
+
+127
+00:06:46,080 --> 00:06:48,017
+我不明白
+Um, I don't understand.
+
+128
+00:06:48,017 --> 00:06:50,033
+你不打算进行实验疗法来救你父亲了吗
+You're not going through with the treatment to help your father?
+
+129
+00:06:50,033 --> 00:06:52,032
+这是他治愈的唯一机会啊
+I mean, it's his only chance for a cure.
+
+130
+00:06:52,039 --> 00:06:53,083
+我知道  他也知道
+I know that, and so does he.
+
+131
+00:06:53,089 --> 00:06:55,036
+但机会渺茫
+But it's a slim one,
+
+132
+00:06:55,043 --> 00:06:57,036
+他觉得
+And he believes
+
+133
+00:06:57,043 --> 00:06:59,016
+不值得一试
+It's not worth taking, so...
+
+134
+00:06:59,023 --> 00:07:02,074
+如果真的不幸发生  他希望独自承担
+If he's going to die, he wants it to be on his terms.
+
+135
+00:07:02,080 --> 00:07:05,077
+对  但你不能让他回心转意吗
+Yes, but can't you change his mind?
+
+136
+00:07:05,078 --> 00:07:07,050
+我觉得你现在应该会了解到
+I would think you'd know by now
+
+137
+00:07:07,056 --> 00:07:09,050
+我爸爸一但下定决心
+That no one can change my father's mind
+
+138
+00:07:09,057 --> 00:07:10,067
+没人可以改变
+When it's made up.
+
+139
+00:07:10,073 --> 00:07:13,017
+我  我很抱歉
+I'm... I'm sorry.
+
+140
+00:07:13,024 --> 00:07:16,014
+对不起我让你处在这种境地
+I'm sorry that I put you in this position.
+
+141
+00:07:16,021 --> 00:07:17,037
+不要这么说
+No,don't be.
+
+142
+00:07:17,044 --> 00:07:19,051
+我对你充满了感激  沃克探员
+I'm grateful to you, agent walker.
+
+143
+00:07:19,058 --> 00:07:22,008
+我和我爸爸说了好多事情
+My father and I got to say a lot of things to each other.
+
+144
+00:07:22,015 --> 00:07:23,035
+我真想能再和他多聊聊
+I wish I could have said more,
+
+145
+00:07:23,041 --> 00:07:25,078
+但是我不想让他更加痛苦了
+But i don't want to cause him any more pain.
+
+146
+00:07:25,085 --> 00:07:26,082
+蕾妮
+Renee?
+
+147
+00:07:26,088 --> 00:07:28,008
+帕克探员找你
+Agent park is on the phone for you.
+
+148
+00:07:28,015 --> 00:07:31,029
+我要接这个电话
+I need to take this.
+
+149
+00:07:31,035 --> 00:07:34,049
+我明白
+I understand.
+
+150
+00:07:34,056 --> 00:07:36,036
+祝你好运
+Good luck.
+
+151
+00:07:40,020 --> 00:07:41,080
+沃克  请讲
+This is walker.
+
+152
+00:07:41,087 --> 00:07:43,037
+莫斯探员牺牲了
+Agent Moss is dead.
+
+153
+00:07:45,040 --> 00:07:46,077
+什么
+What?
+
+154
+00:07:46,084 --> 00:07:49,064
+他中了嫌疑犯的埋伏
+Apparently,he was killed in an ambush by the suspect.
+
+155
+00:07:49,071 --> 00:07:50,087
+直升机飞行员也死了
+The chopper pilot,too.
+
+156
+00:07:50,094 --> 00:07:53,098
+托尼·阿尔梅达也中枪  但是还活着
+Tony Almeida's been shot, but he's alive.
+
+157
+00:07:54,004 --> 00:07:56,024
+医务人员正在救治他
+I've got medical personnel working on him now.
+
+158
+00:07:57,028 --> 00:07:59,028
+沃克探员
+Agent Walker?
+
+159
+00:08:00,085 --> 00:08:03,079
+卡维兹有线索了吗
+Do we have any lead on galvez?
+
+160
+00:08:03,085 --> 00:08:05,029
+还没  但是这片区域已经被我们重重封锁
+No,but the area's been cordoned off.
+
+161
+00:08:05,035 --> 00:08:06,072
+他跑不了多远
+He couldn't have gotten far.
+
+162
+00:08:06,079 --> 00:08:09,032
+我们在现场设立了一个行动基地
+We're setting up an operations base here on the scene
+
+163
+00:08:09,039 --> 00:08:10,063
+配合搜捕
+To coordinate the manhunt.
+
+164
+00:08:10,069 --> 00:08:12,019
+现在你要怎么处理
+How do you want to proceed?
+
+165
+00:08:12,026 --> 00:08:13,060
+我
+Me?
+
+166
+00:08:13,066 --> 00:08:15,066
+你现在是级别最高的探员了
+You're the ranking agent in charge now.
+
+167
+00:08:20,004 --> 00:08:21,097
+保持封锁
+Maintain the perimeter.
+
+168
+00:08:22,004 --> 00:08:24,044
+展开一次从南到北的地毯式搜捕
+Begin a south-north sweep.
+
+169
+00:08:24,051 --> 00:08:28,021
+我会尽快带一个小组赶赴现场
+I'll chopper out a team and meet you there as soon as I can.
+
+170
+00:08:28,028 --> 00:08:29,095
+沃克探员  我有足够的人力部署
+Agent walker,iI have more than enough personnel.
+
+171
+00:08:30,001 --> 00:08:32,098
+-你不用亲自参加搜捕  -我必须要去
+- You don't need to be involved in the search. - Yes,I do.
+
+172
+00:08:33,005 --> 00:08:35,097
+-有新情报随时通知我  -是的  长官
+- Keep me posted if you hear anything. - Yes,ma'am.
+
+173
+00:08:38,005 --> 00:08:39,039
+拉里怎么样了
+Larry?
+
+174
+00:08:39,046 --> 00:08:42,086
+他在与嫌疑犯交火时被枪杀
+He was killed in a shootout with the suspect.
+
+175
+00:08:42,093 --> 00:08:45,033
+天哪
+Oh,god.
+
+176
+00:08:45,039 --> 00:08:47,030
+你告知一下白宫
+I need you to brief the white house on what's happened.
+
+177
+00:08:47,036 --> 00:08:49,010
+通知梅瑟尔医生在封锁线
+Call dr. macer and have her deploy a hazmat team
+
+178
+00:08:49,017 --> 00:08:50,027
+附近部署一支危险品应急小队
+To the perimeter line.
+
+179
+00:08:50,033 --> 00:08:53,070
+召集一个小组和我赶去现场
+Assemble a team to chopper out with me.
+
+180
+00:08:53,077 --> 00:08:56,084
+我真的很遗憾
+I'm so sorry.
+
+181
+00:08:56,091 --> 00:08:59,047
+必须有人去告知一下拉里的前妻
+Someone's going to need to notify larry's ex-wife.
+
+182
+00:09:01,068 --> 00:09:03,095
+但不该由我去说
+Probably shouldn't be me.
+
+183
+00:09:04,001 --> 00:09:05,081
+没事  我去告诉她好了
+It's okay. I'll take care of it.
+
+184
+00:09:14,009 --> 00:09:15,022
+好
+All right.
+
+185
+00:09:15,029 --> 00:09:18,006
+刚才我们回顾了3点到8点
+We've debrifed on hours 8:am to 3:00 p.m.
+
+186
+00:09:18,013 --> 00:09:19,074
+关于回收CIP装置
+Pertaining to the cip recovery
+
+187
+00:09:19,074 --> 00:09:21,036
+和抓获埃克·杜巴库的事
+and the capture of Ike Dubaku
+
+188
+00:09:21,043 --> 00:09:22,070
+鲍尔先生
+Now,Mr. Bauer,
+
+189
+00:09:22,077 --> 00:09:24,070
+你休息一下吧
+Maybe you'd like to take a break.
+
+190
+00:09:24,077 --> 00:09:27,030
+不  应该在我还清醒的时候做完简报
+No. we need to finish this while i still can.
+
+191
+00:09:27,037 --> 00:09:28,047
+继续
+Let's go.
+
+192
+00:09:28,054 --> 00:09:31,031
+根据你之前的汇报说
+Now,according to your earlier statement,
+
+193
+00:09:31,037 --> 00:09:33,004
+差不多这个时候
+It was about this time you received
+
+194
+00:09:33,011 --> 00:09:35,021
+你收到白宫受到威胁的情报
+Intel regarding the imminent attack on the white house.
+
+195
+00:09:35,028 --> 00:09:37,078
+是托尼·阿尔梅达提供给我的
+Tony almeida provided me with the intel,
+
+196
+00:09:37,085 --> 00:09:39,011
+但我们当时并不知道
+But we did not know
+
+197
+00:09:39,018 --> 00:09:40,002
+白宫是袭击目标
+The white house was a target at that time.
+
+198
+00:09:40,002 --> 00:09:41,094
+谁是阿尔梅达的消息来源
+And who was mr. almeida's source?
+
+199
+00:09:41,094 --> 00:09:44,054
+他是在审讯中从一个雇佣兵口中得知的
+He was interrogating a mercenary.
+
+200
+00:09:44,061 --> 00:09:46,031
+他说名字了吗
+Did almeida give you a name?
+
+201
+00:09:46,037 --> 00:09:48,017
+嗯
+Um...
+
+202
+00:09:48,024 --> 00:09:50,024
+对不起
+Yeah. sorry.
+
+203
+00:09:52,041 --> 00:09:55,008
+卡蒂夫  他说是文森特·卡蒂夫
+Car... cardiff. he said his name was Vincent Cardiff.
+
+204
+00:09:55,015 --> 00:09:58,061
+你有没有亲自对他问询过
+Did you yourself question the source?
+
+205
+00:09:58,061 --> 00:09:59,055
+没有
+No.
+
+206
+00:09:59,062 --> 00:10:02,019
+他没有撑过托尼的拷问
+He didn't survive tony's interrogation,
+
+207
+00:10:02,019 --> 00:10:06,002
+但是他告诉我们关于下一次袭击的情报
+But he was the one who provided us with the intel on the upcoming attack.
+
+208
+00:10:06,002 --> 00:10:07,038
+但我们当时并不知道
+But we did not know
+
+209
+00:10:07,045 --> 00:10:09,042
+白宫是袭击目标
+That the white house was the intended target at that time.
+
+210
+00:10:09,049 --> 00:10:11,045
+我们当时并不知道白宫是袭击目标
+We did not know the white house was the intended target...
+
+211
+00:10:11,052 --> 00:10:12,052
+鲍尔先生
+Mr. Bauer?
+
+212
+00:10:14,009 --> 00:10:17,016
+你还坚持不要休息吗
+You sure you don't want to take that break?
+
+213
+00:10:18,023 --> 00:10:19,029
+我又在不断重复了
+Um,I'm repeating myself again.
+
+214
+00:10:19,036 --> 00:10:21,030
+对不起
+I'm sorry.
+
+215
+00:10:22,097 --> 00:10:25,020
+这是你要的数据文件
+Here's the data file you asked for,sir.
+
+216
+00:10:25,027 --> 00:10:26,090
+汤姆  快点
+Tom,we need to move.
+
+217
+00:10:26,097 --> 00:10:28,044
+沃克探员给我们派了任务
+Agent walker's got our assignments.
+
+218
+00:10:30,077 --> 00:10:32,078
+失陪一下
+Excuse me.
+
+219
+00:10:37,061 --> 00:10:40,055
+我们一定要控制局势
+We're not going to lose control of this situation.
+
+220
+00:10:40,062 --> 00:10:43,015
+我知道你们都加了班  很累了
+I know that most of you are tired,working double shifts,
+
+221
+00:10:43,022 --> 00:10:45,075
+但是我要你们全部精神集中且保持警惕
+But I need each and every one of you focused and alert
+
+222
+00:10:45,082 --> 00:10:47,052
+我们要找到嫌犯
+If we are going to locate the suspect
+
+223
+00:10:47,059 --> 00:10:49,042
+和他身上的生化武器罐
+And secure the bioweapon canister that he's carrying.
+
+224
+00:10:49,049 --> 00:10:50,099
+我在执行外勤任务时
+While I am out in the field,
+
+225
+00:10:51,006 --> 00:10:53,066
+相关情报都要交给詹尼斯
+You will pass all pertinent information out of this office through Janis.
+
+226
+00:10:53,073 --> 00:10:56,000
+我们出发  亚当斯  你的队伍归我管
+Let's get to work. Adams, you and your men are with me.
+
+227
+00:10:56,007 --> 00:10:58,043
+蕾妮  蕾妮
+Renee? Renee?
+
+228
+00:10:58,050 --> 00:11:00,024
+我在直升机场等你
+I'll meet you at the helipad.
+
+229
+00:11:00,030 --> 00:11:01,077
+生化武器还没有找到吗
+The bioweapon's still out there?
+
+230
+00:11:01,084 --> 00:11:02,091
+局势在我们掌控中
+We have it contained.
+
+231
+00:11:02,097 --> 00:11:04,041
+等会儿
+Wait a second.
+
+232
+00:11:04,047 --> 00:11:05,061
+等会儿
+Wait a second.
+
+233
+00:11:05,068 --> 00:11:07,061
+到底发生什么事了
+Just tell me what the hell is going on.
+
+234
+00:11:07,068 --> 00:11:09,061
+一个斯塔克伍德雇佣兵罗伯特·卡维兹
+A starkwood operative by the name of robert galvez
+
+235
+00:11:09,068 --> 00:11:11,025
+拿了一个病原体的毒气罐逃走了
+Got away with a canister of the pathogen.
+
+236
+00:11:11,031 --> 00:11:13,025
+我们在斯塔克伍德基地
+We have him trapped inside a perimeter a mile or so
+
+237
+00:11:13,032 --> 00:11:14,042
+附近已经包围了他
+From starkwood's compound.
+
+238
+00:11:14,048 --> 00:11:15,088
+现场封锁归拉里管吗
+Is larry in command of the perimeter?
+
+239
+00:11:15,095 --> 00:11:17,039
+他在交火时牺牲了
+He was killed in a firefight.
+
+240
+00:11:17,045 --> 00:11:18,045
+什么
+What?
+
+241
+00:11:18,052 --> 00:11:19,096
+托尼受伤了
+Tony was injured.
+
+242
+00:11:20,002 --> 00:11:21,059
+他和先遣部队在现场
+He's at the scene with the advance team.
+
+243
+00:11:21,066 --> 00:11:23,046
+拉里死了
+Larry's dead?
+
+244
+00:11:23,053 --> 00:11:25,023
+两个探员牺牲了
+We have two agents down.
+
+245
+00:11:25,030 --> 00:11:26,033
+我要走了
+Yes. I have to go.
+
+246
+00:11:34,067 --> 00:11:36,060
+你很幸运  子弹再往左偏一寸
+You're lucky. an inch to the left,
+
+247
+00:11:36,067 --> 00:11:38,071
+就会打到你的脾动脉了
+The bullet might have nicked your splenic artery.
+
+248
+00:11:38,077 --> 00:11:40,064
+你应该再去医院检查一下
+You need to get yourself checked out at the hospital,sir.
+
+249
+00:11:40,071 --> 00:11:42,008
+我知道  但现在不行
+Yeah,I can't do that right now.
+
+250
+00:11:42,015 --> 00:11:43,095
+我给你点镇痛剂吧
+Let me get you something for the pain.
+
+251
+00:11:44,001 --> 00:11:46,022
+不了  我要保持头脑清醒
+No,I,I need to keep my head clear.
+
+252
+00:11:46,028 --> 00:11:47,033
+9号搜捕队   这里是移动指挥部
+Sweep 9,this is mobile command,
+
+253
+00:11:47,033 --> 00:11:48,038
+什么情况
+what's your status?
+
+254
+00:11:48,038 --> 00:11:50,019
+移动指挥部  这里是9号搜捕队
+Mobile command,this is sweep 9,
+
+255
+00:11:50,019 --> 00:11:51,059
+东南方向211位置安全
+southeast grid 211 clear.
+
+256
+00:11:51,065 --> 00:11:53,042
+- 继续前进  -收到  9号搜捕队
+- Moving on. - Copy that,sweep 9.
+
+257
+00:11:53,049 --> 00:11:54,056
+7号搜捕队  什么情况
+Sweep 7,what's your position?
+
+258
+00:11:54,062 --> 00:11:56,056
+214位置安全  没有发现嫌犯
+Clearing 214. nothing so far.
+
+259
+00:11:56,063 --> 00:11:57,093
+没有他的踪迹吗
+No sign of him?
+
+260
+00:11:57,099 --> 00:11:58,096
+别担心
+Don't worry.
+
+261
+00:11:59,003 --> 00:12:00,013
+我们会找到他的
+We'll find him.
+
+262
+00:12:00,020 --> 00:12:01,093
+你去休息一下吧
+You should get some rest.
+
+263
+00:12:02,000 --> 00:12:04,000
+谢谢
+Thanks.
+
+264
+00:12:06,000 --> 00:12:08,020
+这里是移动指挥部  通报情况
+...this is mobile command, status check.
+
+265
+00:12:11,001 --> 00:12:12,074
+-喂  - 他们在北边
+- Yeah? - yeah,they're sweeping
+
+266
+00:12:12,081 --> 00:12:14,041
+进行地毯式搜捕
+North,clearing grids.
+
+267
+00:12:14,048 --> 00:12:18,025
+你从杰弗逊大街到12和13号街一路畅通
+You've got a clear path on jefferson all the way up to 12th and 13th street.
+
+268
+00:12:18,027 --> 00:12:20,028
+那应是他们搜查的最后一个区域
+That should be the last sector they're searching.
+
+269
+00:12:20,034 --> 00:12:21,058
+照他们的进展来看
+Judging by their progress,
+
+270
+00:12:21,064 --> 00:12:23,018
+你有30分钟时间
+It'll give you about 30 minutes.
+
+271
+00:12:23,025 --> 00:12:24,055
+时间足够了
+Should be plenty of time.
+
+272
+00:12:24,061 --> 00:12:26,072
+足够做什么
+Time for what?
+
+273
+00:12:26,078 --> 00:12:28,072
+我给你的C-4炸药还在吧
+You still got that c-4 I gave you?
+
+274
+00:12:28,078 --> 00:12:30,072
+-对  在我这  -好
+- Yeah. I got it. - All right.
+
+275
+00:12:30,079 --> 00:12:32,072
+你去找一幢大楼
+I want you to find a structure,
+
+276
+00:12:32,079 --> 00:12:34,049
+商场  仓库之类足够大
+A store, warehouse, something big enough
+
+277
+00:12:34,056 --> 00:12:36,012
+他们不得不进去搜查的地方
+Where they have to enter and search.
+
+278
+00:12:36,019 --> 00:12:37,083
+我们要把他们
+We need to draw as many of them
+
+279
+00:12:37,083 --> 00:12:39,043
+尽可能多地引进楼里
+Into the building as possible.
+
+280
+00:12:39,050 --> 00:12:40,093
+然后引爆
+Then blow it.
+
+281
+00:12:41,000 --> 00:12:43,060
+你要我灭掉那些调查局探员吗
+You want me to blow up a couple of dozen FBI agents?
+
+282
+00:12:43,067 --> 00:12:44,090
+有什么问题吗
+You got a problem with that?
+
+283
+00:12:44,097 --> 00:12:46,010
+他们还是会设置封锁线
+They're still gonna have the perimeter locked down.
+
+284
+00:12:46,017 --> 00:12:47,034
+我可不认为这样做
+I don't see how doing this
+
+285
+00:12:47,040 --> 00:12:48,090
+就能让我带着毒气罐离开
+Is gonna get me out of here with the canister.
+
+286
+00:12:48,097 --> 00:12:50,077
+我已经想好对策了
+Yeah, I've got that worked out.
+
+287
+00:13:04,085 --> 00:13:06,049
+杰克  你怎么来了
+Jack, what the hell are you doing?
+
+288
+00:13:06,056 --> 00:13:08,019
+我和你一起去
+I'm going with you.
+
+289
+00:13:08,026 --> 00:13:09,042
+你病了
+You're ill.
+
+290
+00:13:09,049 --> 00:13:11,033
+如果我妨碍了你的行动
+If my condition interferes with your operation,
+
+291
+00:13:11,039 --> 00:13:12,036
+我会退出
+I will stand down.
+
+292
+00:13:12,043 --> 00:13:14,033
+-我保证  -杰克
+- I give you my word. - Jack...
+
+293
+00:13:14,040 --> 00:13:15,043
+你要把时间都浪费在
+You want keep arguing about this,
+
+294
+00:13:15,050 --> 00:13:16,046
+无意义的争论上吗  那好
+Waste more time? fine.
+
+295
+00:13:16,053 --> 00:13:18,013
+我不会下去的
+I'm not getting out.
+
+296
+00:13:42,020 --> 00:13:43,000
+早上好
+Good morning.
+
+297
+00:13:43,006 --> 00:13:45,013
+早上好
+Good morning.
+
+298
+00:13:46,033 --> 00:13:47,043
+埃姆斯女士
+Ms. Eames.
+
+299
+00:13:47,050 --> 00:13:49,010
+你是乔纳斯·霍奇斯的律师
+You're Jonas Hodges' attorney.
+
+300
+00:13:49,017 --> 00:13:50,084
+没错
+That's right.
+
+301
+00:13:50,090 --> 00:13:52,041
+上头说你会来
+They told us to expect you.
+
+302
+00:13:52,047 --> 00:13:54,004
+请把你的拇指
+I just need you to place your thumb
+
+303
+00:13:54,011 --> 00:13:56,011
+放在玻璃上
+Against the glass.
+
+304
+00:14:05,049 --> 00:14:07,059
+好了  卡登探员会送你
+Okay. Sergeant Cadden will escort you
+
+305
+00:14:07,065 --> 00:14:09,066
+去等候区
+To the holding area.
+
+306
+00:14:10,096 --> 00:14:12,096
+谢谢
+Thank you.
+
+307
+00:14:14,053 --> 00:14:16,046
+这个人怎么会携带一罐生化武器
+How could this man have gotten out of Starkwood
+
+308
+00:14:16,053 --> 00:14:18,000
+逃出斯塔克伍德的
+With a canister of the bioweapon?
+
+309
+00:14:18,007 --> 00:14:19,003
+没人知道
+No one's sure.
+
+310
+00:14:19,010 --> 00:14:20,053
+不过他已经杀了4个人
+But he's already murdered four people.
+
+311
+00:14:20,060 --> 00:14:22,060
+包括拉里·莫斯
+Including Larry Moss.
+
+312
+00:14:24,064 --> 00:14:26,091
+调查局追踪他
+The FBI has tracked him
+
+313
+00:14:26,097 --> 00:14:28,007
+到了附近的一个居民区
+To a nearby residential district.
+
+314
+00:14:28,014 --> 00:14:29,058
+他们封锁了整个区域
+They've sealed off the area
+
+315
+00:14:29,064 --> 00:14:31,074
+正在展开地毯式搜查
+And are conducting a thorough search.
+
+316
+00:14:31,081 --> 00:14:33,078
+妈  这个卡维兹在斯塔克伍德工作
+Mom,this man Galvez is a Starkwood operative.
+
+317
+00:14:33,085 --> 00:14:36,042
+很明显  霍奇斯是幕后主谋
+Clearly, Hodges is behind this.
+
+318
+00:14:36,048 --> 00:14:37,075
+或许吧
+Maybe.
+
+319
+00:14:37,082 --> 00:14:39,039
+你说或许是什么意思
+What do you mean, maybe?
+
+320
+00:14:41,042 --> 00:14:43,009
+霍奇斯被逮捕时
+As hodges was taken away,
+
+321
+00:14:43,016 --> 00:14:45,012
+他说还没结束
+He said it wasn't over.
+
+322
+00:14:45,019 --> 00:14:47,043
+他提到了还有其他人
+He alluded to others,
+
+323
+00:14:47,043 --> 00:14:50,041
+说他自己只是冰山一角
+Called himself a small cog in a very large machine
+
+324
+00:14:50,041 --> 00:14:51,092
+我没有能力去阻止他们
+That I wouldn't be able to stop.
+
+325
+00:14:51,092 --> 00:14:53,024
+他在危言耸听
+He was ranting.
+
+326
+00:14:53,024 --> 00:14:55,013
+他不一定是在说谎
+That doesn't mean he wasn't telling the truth.
+
+327
+00:14:55,020 --> 00:14:57,030
+我们要查清楚霍奇斯到底知道些什么
+We need to find out what Hodges knows about this.
+
+328
+00:14:57,037 --> 00:15:00,041
+把他带去调查局审问
+I want him taken to the FBI for interrogation.
+
+329
+00:15:00,047 --> 00:15:02,044
+妈  他是反社会者
+He's a sociopath, mom.
+
+330
+00:15:02,051 --> 00:15:04,051
+他不会交代的  他一定会
+He's not going to talk. He's going to want
+
+331
+00:15:04,058 --> 00:15:07,035
+以合作为条件来跟你谈交易
+To make some kind of deal in exchange for his cooperation.
+
+332
+00:15:10,005 --> 00:15:12,019
+妈  你不是想
+Mom, you're not considering that...
+
+333
+00:15:12,025 --> 00:15:13,032
+奥利维亚
+Olivia...
+
+334
+00:15:13,039 --> 00:15:16,029
+你了解这个人  知道他对罗杰做了什么
+You know what this man is, what he did to roger.
+
+335
+00:15:16,036 --> 00:15:18,036
+把他带去调查局
+Just get him to FBI.
+
+336
+00:15:28,087 --> 00:15:29,084
+霍奇斯先生
+Mr. Hodges.
+
+337
+00:15:29,090 --> 00:15:31,069
+你的律师到了
+Your attorney's here to see you.
+
+338
+00:15:33,004 --> 00:15:34,051
+在这个该死的时候
+Well, it's about damn time.
+
+339
+00:15:44,062 --> 00:15:47,042
+我们想私下谈谈
+We're going to need some privacy.
+
+340
+00:15:53,023 --> 00:15:54,086
+你比她高一点
+You're a little taller than her.
+
+341
+00:15:54,093 --> 00:15:57,090
+但这样也挺漂亮
+But it's a good look for you.
+
+342
+00:15:57,097 --> 00:15:59,090
+你好  乔纳斯
+Hello, Jonas.
+
+343
+00:15:59,097 --> 00:16:01,090
+我不关心你是怎样进来的
+I'm not going to ask how you got in.
+
+344
+00:16:01,097 --> 00:16:06,017
+我感兴趣的是你要如何把我弄出去
+But i'm definitely interested in how you're going to get me out.
+
+345
+00:16:07,067 --> 00:16:11,038
+乔纳斯  你现在已是自身难保
+Jonas, you're in a very difficult position.
+
+346
+00:16:11,044 --> 00:16:13,038
+你今天的所作所为
+And your actions today have put everyone else
+
+347
+00:16:13,045 --> 00:16:15,005
+也让其他人寸步难行
+In a very difficult position.
+
+348
+00:16:15,012 --> 00:16:16,088
+我明白了
+Oh, I see.
+
+349
+00:16:16,095 --> 00:16:19,089
+我让他们不高兴了  对吧
+I've upset the cart, have I?
+
+350
+00:16:19,095 --> 00:16:22,089
+每个人都很生气
+Everyone's bent out of shape.
+
+351
+00:16:22,096 --> 00:16:24,089
+可是  政府冲着我公司发难时
+Well, where the hell were they
+
+352
+00:16:24,096 --> 00:16:26,073
+他们又在哪里呢
+When the government came after my company?
+
+353
+00:16:26,079 --> 00:16:29,040
+迈尔参议员和他的那群喽啰
+When senator Mayer and his subpoena-waving goon squad
+
+354
+00:16:29,046 --> 00:16:31,093
+要毁掉我和我的心血时  他们在哪里
+Were trying to ruin me and everything I've built?
+
+355
+00:16:32,000 --> 00:16:33,097
+我们本来可以提供保护的  乔纳斯
+You would have been protected, Jonas.
+
+356
+00:16:34,003 --> 00:16:36,010
+保护你和斯塔克伍德
+You and Starkwood.
+
+357
+00:16:36,017 --> 00:16:39,011
+但你差点毁了整个计划
+But you jeopardized the plan.
+
+358
+00:16:39,017 --> 00:16:41,074
+你为我们研制的生化武器
+That bioweapon that you developed for us was
+
+359
+00:16:41,081 --> 00:16:43,081
+不应用作私人用途
+Not intended for personal use.
+
+360
+00:16:43,088 --> 00:16:46,015
+大家一致认为
+The consensus
+
+361
+00:16:46,021 --> 00:16:48,065
+你有某种程度上的
+Is that you've had some sort of...
+
+362
+00:16:48,072 --> 00:16:50,065
+精神崩溃
+Psychotic break.
+
+363
+00:16:50,072 --> 00:16:53,065
+他们想错了
+Well, the consensus is wrong.
+
+364
+00:16:53,072 --> 00:16:55,092
+现在听你说这句话  我们并不会感到安慰
+Coming from you right now, that's not much comfort.
+
+365
+00:16:55,099 --> 00:16:57,096
+我要跟他们谈谈
+I want to talk to them.
+
+366
+00:16:58,003 --> 00:17:00,033
+帮我联系一下
+Get some form of communication between us.
+
+367
+00:17:00,039 --> 00:17:01,059
+我要跟他们谈谈
+I want to talk to them.
+
+368
+00:17:01,066 --> 00:17:04,020
+为时已晚  乔纳斯
+I think it's a little late for that, Jonas.
+
+369
+00:17:04,026 --> 00:17:06,037
+你的牌摊的太大了
+You've brought undue attention by showing your hand.
+
+370
+00:17:06,043 --> 00:17:07,067
+暴露了你自己
+Exposing yourself.
+
+371
+00:17:07,073 --> 00:17:08,094
+我知道你能理解
+And I'm sure you could understand
+
+372
+00:17:09,000 --> 00:17:10,017
+他们觉得你或许会
+Their concern that you may,
+
+373
+00:17:10,024 --> 00:17:12,067
+揭发其他人的顾虑
+In fact, expose the others as well.
+
+374
+00:17:12,074 --> 00:17:15,037
+我能做到吗  我连他们是谁都不知道
+How can I do that? I don't know who they are.
+
+375
+00:17:15,044 --> 00:17:17,068
+你知道的够多了  他们要确保没人透露
+You know enough, and they need to be certain.
+
+376
+00:17:17,074 --> 00:17:19,095
+我想我们可以达成一致
+I think we can agree
+
+377
+00:17:20,001 --> 00:17:21,098
+你的家人没有必要
+That there's no reason for your family
+
+378
+00:17:22,005 --> 00:17:24,098
+为你的错误负责
+To pay for your mistakes.
+
+379
+00:17:25,005 --> 00:17:26,065
+这就是你来的原因吗
+Is that why you're here?
+
+380
+00:17:26,072 --> 00:17:27,099
+以我的家人威胁我
+To threaten my family.
+
+381
+00:17:28,006 --> 00:17:29,052
+与此相反
+On the contrary.
+
+382
+00:17:29,059 --> 00:17:32,079
+我来是要确保你家人的安全
+I came to guarantee your family's safety.
+
+383
+00:17:32,086 --> 00:17:35,049
+如果你照我说的做
+If you do the right thing.
+
+384
+00:17:40,040 --> 00:17:44,010
+这会让你心跳停止
+It'll induce cardiac arrest,
+
+385
+00:17:44,010 --> 00:17:45,084
+而且不会留下痕迹
+And leave no trace in your system.
+
+386
+00:17:45,091 --> 00:17:49,001
+自然地  有尊严地死去
+A natural, dignified death.
+
+387
+00:17:49,008 --> 00:17:50,084
+到时他们无法对你进行起诉
+Without you to prosecute,
+
+388
+00:17:50,091 --> 00:17:52,021
+这个针对你和你的公司的案子
+The case against you and your
+
+389
+00:17:52,028 --> 00:17:55,015
+会很难继续  几乎不可能
+Company will be difficult, likely impossible.
+
+390
+00:17:55,022 --> 00:17:57,048
+你这样做至少也是对
+Preserving at least some small part
+
+391
+00:17:57,055 --> 00:18:00,052
+斯塔克伍德爱国传统的一些体现
+Of starkwood's legacy of patriotic service.
+
+392
+00:18:00,059 --> 00:18:03,039
+我知道那对你来说很重要
+Which I know is very important to you.
+
+393
+00:18:24,058 --> 00:18:26,025
+时间到了  律师
+Party's over, counselor.
+
+394
+00:18:26,031 --> 00:18:27,078
+我们要把他转去调查局
+We're moving him to the bureau.
+
+395
+00:18:27,085 --> 00:18:30,088
+我的委托人有权保持沉默
+My client has invoked his right to silence and to counsel.
+
+396
+00:18:30,095 --> 00:18:32,058
+没我在场
+No one speaks to him
+
+397
+00:18:32,065 --> 00:18:34,059
+谁都不能和他说话  明白吗
+Unless in my presence, is that understood?
+
+398
+00:18:34,065 --> 00:18:36,052
+在一些国家他早就被枪毙了
+In some countries they'd have shot him by now.
+
+399
+00:18:36,059 --> 00:18:38,062
+把他带走
+Process him out.
+
+400
+00:18:57,031 --> 00:18:58,071
+请讲
+Yes?
+
+401
+00:18:58,078 --> 00:18:59,095
+我见过他了
+I met with him.
+
+402
+00:19:00,001 --> 00:19:01,011
+还有呢
+And?
+
+403
+00:19:01,018 --> 00:19:03,012
+我确信他明白我们的意思
+I'm quite certain he understands our terms.
+
+404
+00:19:03,018 --> 00:19:05,012
+他会被送到调查局接受审问
+They're transferring him to the FBI for interrogation.
+
+405
+00:19:05,019 --> 00:19:06,032
+会有问题吗
+Will that be a problem?
+
+406
+00:19:06,039 --> 00:19:07,085
+希望不会  那只会给他压力
+Hopefully,it'll just pressure him
+
+407
+00:19:07,092 --> 00:19:09,086
+让他尽快下定决心
+to resolve the situation sooner rather than later.
+
+408
+00:19:09,092 --> 00:19:12,009
+形势对我方有利后我就放宽心了
+I'll be happy when this is behind us.
+
+409
+00:19:12,016 --> 00:19:13,063
+有阿尔梅达的消息吗
+Have you heard from Almeida?
+
+410
+00:19:13,069 --> 00:19:15,063
+见到霍奇斯之前我接到了他的电话
+He called in before I met with Hodges.
+
+411
+00:19:15,070 --> 00:19:17,063
+他拿到毒气罐了吗
+Has he secured the canister?
+
+412
+00:19:17,070 --> 00:19:19,063
+很快
+Soon.
+
+413
+00:19:19,070 --> 00:19:21,030
+他是你的人  最好别搞砸了
+He's your guy. Better not screw this up.
+
+414
+00:19:21,037 --> 00:19:25,040
+托尼总是能力挽狂澜  转危为安
+Tony's been the one bright spot in an otherwise dreary day.
+
+415
+00:19:25,047 --> 00:19:27,047
+我相信他能做好
+I have faith he'll come through.
+
+416
+00:19:31,038 --> 00:19:33,041
+喂
+Yeah?
+
+417
+00:19:33,048 --> 00:19:35,015
+我找到了一个安置点
+I found a place to set up.
+
+418
+00:19:35,022 --> 00:19:36,098
+是一栋废弃的居民楼
+It's an abandoned apartment building
+
+419
+00:19:37,005 --> 00:19:38,032
+距北边封锁线不远
+just shy of the north perimeter line.
+
+420
+00:19:38,039 --> 00:19:42,012
+林孔街1297号  12大街的街角
+1297 Rincon, corner of 12th.
+
+421
+00:19:42,019 --> 00:19:43,052
+好  我看到了
+Yeah,I see it.
+
+422
+00:19:43,059 --> 00:19:45,086
+搜捕队刚刚进入
+Sweep teams are just entering
+
+423
+00:19:45,093 --> 00:19:47,053
+南部的三个区
+three sectors to the south.
+
+424
+00:19:47,059 --> 00:19:49,020
+你有不到20分钟
+You've got less than 20 minutes.
+
+425
+00:19:49,026 --> 00:19:50,043
+时间不够啊
+That doesn't give me much time.
+
+426
+00:19:50,050 --> 00:19:51,090
+是不够  所以你得
+No,it doesn't, so maybe you
+
+427
+00:19:51,097 --> 00:19:54,033
+挂了电话赶紧干活儿
+should get off the phone and get to it.
+
+428
+00:20:34,041 --> 00:20:37,081
+我曾连续失去过两个搭档
+I lost two partners in a row.
+
+429
+00:20:37,088 --> 00:20:40,001
+早些时候
+Early on.
+
+430
+00:20:42,005 --> 00:20:44,005
+我无能为力
+I couldn't handle it.
+
+431
+00:20:46,065 --> 00:20:49,026
+我想这就是为什么在过去十年里
+I guess that's why over the last ten years,
+
+432
+00:20:49,032 --> 00:20:51,072
+我一直是一个人单打独斗
+I've pretty much worked alone.
+
+433
+00:20:53,076 --> 00:20:58,043
+去想这些悲伤的事情也没什么
+It's all right for you to be feeling what you feel.
+
+434
+00:20:58,050 --> 00:21:00,057
+但你今晚不能这样消沉
+And if you can't do this tonight,
+
+435
+00:21:00,063 --> 00:21:02,060
+也没什么
+that's all right,too.
+
+436
+00:21:02,067 --> 00:21:03,094
+只是不要试着逞强
+Just don't try and pretend
+
+437
+00:21:04,000 --> 00:21:06,061
+别装着自己什么感觉都没有
+like you're not feeling anything.
+
+438
+00:21:06,067 --> 00:21:08,051
+要是那样就不对了
+That's how you make a mistake.
+
+439
+00:21:08,058 --> 00:21:11,034
+拜托  杰克  不用教我该用什么感受
+Please,Jack,don't tell me what to feel
+
+440
+00:21:11,041 --> 00:21:13,028
+或者如何调整心情
+and don't tell me how to feel it.
+
+441
+00:21:33,050 --> 00:21:34,073
+沃克探员
+Agent Walker.
+
+442
+00:21:44,018 --> 00:21:46,018
+他在那儿
+He's over there.
+
+443
+00:21:49,048 --> 00:21:51,065
+-杰克  -他在哪
+-Jack! -Where is he?
+
+444
+00:21:51,072 --> 00:21:53,032
+-他从这边跑了  -你还好吧
+-He's running through this way. -You okay?
+
+445
+00:21:53,039 --> 00:21:54,039
+没事我很走运
+Yeah,I got lucky.
+
+446
+00:21:54,045 --> 00:21:55,089
+子弹和要害部位擦肩而过
+The bullet went straight through.
+
+447
+00:21:55,096 --> 00:21:57,032
+没想到在这儿会见到你
+Didn't think I'd see you out here.
+
+448
+00:21:57,039 --> 00:21:59,039
+我来就是看看
+I'm only here for observation.
+
+449
+00:22:01,079 --> 00:22:04,080
+你没必要这么做
+You do not have to do this.
+
+450
+00:22:06,030 --> 00:22:07,047
+让我看
+Show me.
+
+451
+00:22:42,002 --> 00:22:44,006
+盖上吧
+Cover him up.
+
+452
+00:22:45,091 --> 00:22:47,054
+节哀顺变
+I'm sorry about Larry.
+
+453
+00:22:47,061 --> 00:22:49,048
+这到底是怎么发生的
+How the hell did this happen?
+
+454
+00:22:49,054 --> 00:22:52,094
+一切发生得都太快了  我是说
+It all went down pretty fast,I mean...
+
+455
+00:22:53,001 --> 00:22:55,071
+我们还没下直升机就遭到伏击
+We were ambushed before we got out of the helicopter.
+
+456
+00:22:55,078 --> 00:22:58,082
+驾驶员首先中弹
+The chopper pilot was hit first.
+
+457
+00:22:58,089 --> 00:23:01,039
+我没带武器  拉里就掩护我
+I was unarmed,so Larry laid down cover
+
+458
+00:23:01,045 --> 00:23:03,039
+我才得以逃生
+so I could get clear.
+
+459
+00:23:03,046 --> 00:23:05,092
+我不记得太多  但的确有自动步枪的声音
+I don't remember a lot,but I definitely heard auto-fire.
+
+460
+00:23:07,059 --> 00:23:09,043
+我被人追杀  拉里过来
+As I was tagged, Larry came over
+
+461
+00:23:09,050 --> 00:23:11,070
+帮我  结果自己中弹
+to help me out and that's when he was hit.
+
+462
+00:23:12,073 --> 00:23:14,017
+之后我就晕倒了
+I blacked out after that.
+
+463
+00:23:14,023 --> 00:23:17,024
+但我确定是拉里救了我的命
+But I'm pretty sure Larry saved my life.
+
+464
+00:23:17,030 --> 00:23:19,034
+拉里是被重武器打死的
+Larry was hit with heavy ordnance.
+
+465
+00:23:19,041 --> 00:23:20,081
+身上有霰弹的碎片
+Shotgun rounds,armor piercing.
+
+466
+00:23:20,087 --> 00:23:22,057
+你却明显是被小型武器击中的
+You were obviously hit with something smaller.
+
+467
+00:23:22,064 --> 00:23:24,014
+我验过阿尔梅达先生的伤
+I treated Mr. Almeida.
+
+468
+00:23:24,021 --> 00:23:26,038
+他的伤都是九毫米大
+His wound was consistent with a nine millimeter.
+
+469
+00:23:26,045 --> 00:23:28,038
+你确定不是点四五口径
+You sure it wasn't a .45?
+
+470
+00:23:28,045 --> 00:23:30,088
+不像  伤口太小  为什么这么问
+Not likely-- the entry was too small. Why?
+
+471
+00:23:30,095 --> 00:23:33,092
+因为你们曾把点四五口径武器放在显眼处
+Because you have spent .45 casings in evidence.
+
+472
+00:23:33,099 --> 00:23:38,066
+卡维兹能从调查局丢的车里搞到武器
+Galvez had access to the weapons inside the FBI vehicle he stole here.
+
+473
+00:23:38,073 --> 00:23:40,066
+他可能会在火拼中换掉武器
+He probably switched in the middle of the fight.
+
+474
+00:23:40,073 --> 00:23:42,019
+能换掉那么多
+That many weapons?
+
+475
+00:23:42,026 --> 00:23:44,016
+你刚刚说的伏击时间很短啊
+In the time frame that you described the ambush?
+
+476
+00:23:44,023 --> 00:23:45,056
+这可不合情理啊
+It doesn't add up.
+
+477
+00:23:45,063 --> 00:23:47,022
+-好吧  那你的意思呢   -他有同党
+- Okay,so what are you saying?  - Someone was with him.
+
+478
+00:23:48,060 --> 00:23:52,000
+我刚说了  一切发生得太快  但是
+Like I said,it all happened pretty fast,but...
+
+479
+00:23:52,007 --> 00:23:53,077
+我是说  我不这么想
+I mean,I didn't think so.
+
+480
+00:23:53,084 --> 00:23:57,034
+我觉得有道理
+I guess it makes sense.
+
+481
+00:23:57,041 --> 00:23:59,061
+一个人做不到  他有帮手
+One man didn't do this alone. He had help.
+
+482
+00:23:59,068 --> 00:24:02,075
+我去让帕克警戒这个区域
+I'll tell Park to alert the field.
+
+483
+00:24:02,082 --> 00:24:04,075
+你确定你没事
+You sure you're okay?
+
+484
+00:24:04,082 --> 00:24:06,055
+是  我很好
+Yeah,I'm fine.
+
+485
+00:24:06,062 --> 00:24:08,019
+好
+Good.
+
+486
+00:24:27,050 --> 00:24:28,087
+喂
+Hello?
+
+487
+00:24:28,093 --> 00:24:30,040
+我吵醒你了吗
+Did I wake you?
+
+488
+00:24:30,047 --> 00:24:32,010
+今天发这种事谁还睡得着
+Who could sleep after what happened today?
+
+489
+00:24:32,017 --> 00:24:33,090
+你爸怎么样
+How did it go with your father?
+
+490
+00:24:36,087 --> 00:24:38,084
+亲爱的  怎么了
+Sweetheart,what is it?
+
+491
+00:24:38,091 --> 00:24:40,041
+怎么了
+What happened?
+
+492
+00:24:41,044 --> 00:24:43,065
+他快死了  史蒂芬
+He's dying,Stephen.
+
+493
+00:24:43,071 --> 00:24:45,041
+什么
+What?
+
+494
+00:24:45,048 --> 00:24:48,085
+他被某种病毒感染了
+He was exposed to something.
+
+495
+00:24:48,092 --> 00:24:50,062
+某种生化制剂
+Like a biological agent.
+
+496
+00:24:50,069 --> 00:24:52,025
+和今天早些时候
+It had something to do with the attacks
+
+497
+00:24:52,032 --> 00:24:53,096
+发生的袭击事件有关
+that took place earlier today.
+
+498
+00:24:54,002 --> 00:24:57,099
+金  亲爱的  实在抱歉
+Kim,honey,I'm so sorry.
+
+499
+00:24:58,006 --> 00:25:02,040
+还有治愈的希望吗
+Um,isn't there anything that they can do?
+
+500
+00:25:03,097 --> 00:25:05,080
+没有
+No.
+
+501
+00:25:05,087 --> 00:25:07,057
+我马上回家
+I'm coming back home.
+
+502
+00:25:07,064 --> 00:25:09,027
+你不想留下吗  你不想
+Don't you want to stay? Don't you wanna
+
+503
+00:25:09,034 --> 00:25:12,027
+尽可能多地陪他吗
+be with him as long as you can?
+
+504
+00:25:12,034 --> 00:25:14,028
+我待在那儿
+My presence,
+
+505
+00:25:14,034 --> 00:25:15,085
+他现在却受着苦
+with what he's going through right now,
+
+506
+00:25:15,091 --> 00:25:17,061
+这只会让事情更糟
+will only make things worse.
+
+507
+00:25:17,068 --> 00:25:22,008
+那你有没有告诉他
+Did you at least,um,
+
+508
+00:25:22,015 --> 00:25:24,052
+告诉他  他有孙女了吗
+Did you tell him about his granddaughter?
+
+509
+00:25:27,096 --> 00:25:29,009
+金
+Kim?
+
+510
+00:25:29,016 --> 00:25:30,036
+我不能  史蒂芬
+I couldn't,Stephen.
+
+511
+00:25:30,043 --> 00:25:32,009
+我不能告诉他
+I couldn't bring myself to tell him
+
+512
+00:25:32,016 --> 00:25:35,067
+他不仅会扔下我一个
+I wasn't the only person he was leaving behind.
+
+513
+00:25:35,073 --> 00:25:38,094
+跟他说泰瑞只会让事情更糟
+Telling him about Teri would've only made it worse.
+
+514
+00:25:39,000 --> 00:25:41,047
+我会试着走610次航班  如果我赶上的话
+I'm gonna trying get on the 610. If I do.
+
+515
+00:25:41,054 --> 00:25:43,094
+我九点就能到洛杉矶
+I'll be back in L.A. by 9.
+
+516
+00:25:44,001 --> 00:25:45,027
+好
+Okay.
+
+517
+00:25:45,034 --> 00:25:48,014
+要是改变注意了  就多留在那儿一会儿吧
+You can always leave later, if you change your mind.
+
+518
+00:25:48,021 --> 00:25:51,071
+不会的
+I won't.
+
+519
+00:25:51,078 --> 00:25:53,068
+我爱你们
+I love you both.
+
+520
+00:25:53,075 --> 00:25:56,032
+我们也爱你
+We love you,too.
+
+521
+00:25:56,039 --> 00:25:58,039
+再见
+Bye.
+
+522
+00:26:09,007 --> 00:26:10,097
+移动指挥部  我是9号搜捕队
+Mobile command,this is sweep 9.
+
+523
+00:26:11,004 --> 00:26:12,007
+221区域安全
+221 is clear.
+
+524
+00:26:12,080 --> 00:26:14,064
+-继续搜索224区域  -收到
+- Proceed to 224. - Copy that.
+
+525
+00:26:14,071 --> 00:26:18,017
+这个区域怎么没有被搜索
+Why has that area of the grid not been cleared?
+
+526
+00:26:18,024 --> 00:26:20,014
+3号搜捕小队  你们怎么没搜219区
+Sweep 3,why have you not cleared 219?
+
+527
+00:26:20,021 --> 00:26:21,078
+移动指挥部  我们遇到一些
+Mobile command,we're encountering some resistance
+
+528
+00:26:21,085 --> 00:26:23,021
+社区内居民的阻挠
+from neighborhood residents.
+
+529
+00:26:23,028 --> 00:26:24,098
+他们很不高兴  觉得不应该在凌晨两点半
+They're not happy about their homes being searched
+
+530
+00:26:25,005 --> 00:26:26,092
+没有事先通知就搜查他们的房子
+wIthout warning at 2:30 in the morning.
+
+531
+00:26:26,099 --> 00:26:28,082
+我在乎的是他们的安全  不是他们的心情
+I'm concerned about their safety,not their happiness.
+
+532
+00:26:28,089 --> 00:26:31,005
+协助卡维兹的人可能会给他提供藏身之处
+Whoever is helping Galvez may be providing him shelter
+
+533
+00:26:31,012 --> 00:26:33,016
+可能就是其中某间房屋  要是那些人
+in one of those houses. If those civilians are
+
+534
+00:26:33,022 --> 00:26:35,003
+继续阻碍搜捕  先逮捕他们  再继续任务
+interfering in that sweep, arrest them,but get that
+
+535
+00:26:35,009 --> 00:26:36,039
+明白吗
+area cleared. Do you understand?
+
+536
+00:26:36,046 --> 00:26:38,039
+收到
+Copy.
+
+537
+00:26:38,046 --> 00:26:39,070
+杰克
+Jack?
+
+538
+00:26:39,076 --> 00:26:41,003
+失陪一下
+Excuse me...
+
+539
+00:27:17,057 --> 00:27:19,057
+这是抗痉挛的药物
+It's an antiseizure medicine.
+
+540
+00:27:19,064 --> 00:27:22,017
+我早就该用的
+I should've used it earlier.
+
+541
+00:27:22,024 --> 00:27:23,094
+杰克  你在这干什么
+Jack,what are you doing out here?
+
+542
+00:27:24,001 --> 00:27:27,031
+你为什么不呆在局里接受治疗
+Why don't you go back to fbi medical and let them treat you?
+
+543
+00:27:27,038 --> 00:27:29,091
+没办法治
+There is no treatment.
+
+544
+00:27:29,098 --> 00:27:31,028
+无药可医
+There's no cure.
+
+545
+00:27:31,035 --> 00:27:32,042
+等下
+Wait.
+
+546
+00:27:34,029 --> 00:27:36,082
+对不起
+I'm sorry.
+
+547
+00:27:36,089 --> 00:27:38,022
+我不知道
+I didn't know.
+
+548
+00:27:40,022 --> 00:27:42,009
+你为什么来现场
+Why are you in the field?
+
+549
+00:27:42,016 --> 00:27:44,059
+沃克探员的搭档刚刚牺牲了  托尼
+Agent walker just lost her partner,Tony.
+
+550
+00:27:47,036 --> 00:27:51,023
+我觉得我能帮上忙  我欠她的
+I thought I could help. I owe her that much.
+
+551
+00:27:51,030 --> 00:27:53,080
+斯托勒探员呼叫指挥中心  黄色代码
+Agent stoller to mobile command. code yellow.
+
+552
+00:27:53,087 --> 00:27:55,047
+指挥中心  斯托勒探员请讲
+Go ahead,agent Stoller, this is mobile command.
+
+553
+00:27:55,054 --> 00:27:57,001
+你是说黄色代码吗
+Are you reporting a code yellow?
+
+554
+00:27:57,008 --> 00:27:58,011
+是的
+Affirmative.
+
+555
+00:27:58,018 --> 00:27:59,064
+我看到了
+I have a confirmed visual
+
+556
+00:27:59,071 --> 00:28:01,008
+身上有毒气罐
+On the target suspect
+
+557
+00:28:01,015 --> 00:28:02,048
+的嫌犯
+With the canister.
+
+558
+00:28:02,055 --> 00:28:04,041
+重复  我看到了
+Repeat,confirmed visual
+
+559
+00:28:04,048 --> 00:28:06,025
+嫌犯和毒气罐
+Of suspect and canister.
+
+560
+00:28:06,032 --> 00:28:08,065
+帕克探员  让我一下
+Agent park,may I?
+
+561
+00:28:08,072 --> 00:28:11,012
+斯托勒探员  我是杰克·鲍尔
+Agent stoller, this is jack bauer.
+
+562
+00:28:11,019 --> 00:28:14,002
+卡维兹有同伙吗
+Is galvez with someone?
+
+563
+00:28:14,009 --> 00:28:15,029
+斯托勒探员
+Agent stoller?
+
+564
+00:28:15,036 --> 00:28:17,049
+没  他一个人
+Negative. he's alone.
+
+565
+00:28:19,050 --> 00:28:20,066
+收到
+Copy that.
+
+566
+00:28:20,073 --> 00:28:23,010
+他在做什么
+What's his 20?
+
+567
+00:28:23,017 --> 00:28:25,024
+他正在进入一个
+Entering an abandoned apartment building
+
+568
+00:28:25,030 --> 00:28:26,077
+林孔街南边和12号街的交口处的
+On the south side
+
+569
+00:28:26,084 --> 00:28:28,064
+废弃的公寓
+Of rincon and 12th.
+
+570
+00:28:28,071 --> 00:28:29,084
+我在追击中
+I am in pursuit.
+
+571
+00:28:29,091 --> 00:28:31,067
+别跟丢了  等待支援
+Try to maintain a visual and wait for backup.
+
+572
+00:28:31,074 --> 00:28:33,014
+我们到达之前不要交火
+Do not engage until we get there.
+
+573
+00:28:33,021 --> 00:28:34,091
+明白
+Copy that.
+
+574
+00:28:34,098 --> 00:28:37,071
+所有分队向12号街和林孔路靠拢
+All primary units respond to 12th and rincon.
+
+575
+00:28:37,078 --> 00:28:39,002
+发现嫌犯带着毒气罐
+Suspect sighted entering
+
+576
+00:28:39,008 --> 00:28:40,035
+进入一座建筑
+A building with canister.
+
+577
+00:28:40,042 --> 00:28:42,039
+-黄色代码  -帕克探员  把那栋楼围起来
+- Code yellow. - Agent Park? I want a secure net
+
+578
+00:28:42,045 --> 00:28:45,012
+所有出口都要有岗哨
+Around the building, agents at all exits and I want
+
+579
+00:28:45,019 --> 00:28:47,026
+阻击手把住四方
+Sharpshooters covering each of the four exposures.
+
+580
+00:28:47,032 --> 00:28:49,033
+是的
+Yes,ma'am.
+
+581
+00:28:49,039 --> 00:28:50,066
+杰克
+Jack.
+
+582
+00:28:51,056 --> 00:28:53,036
+我不行
+I can't.
+
+583
+00:28:56,043 --> 00:28:59,004
+没事的  我会好起来
+It's all right,I'll be fine.
+
+584
+00:28:59,010 --> 00:29:00,074
+我就呆在这  我会监视行动的
+I'll stay back, I'll watch operations.
+
+585
+00:29:00,081 --> 00:29:02,067
+你在那边小心点
+You be careful out there.
+
+586
+00:29:02,074 --> 00:29:04,071
+我还是觉得卡维兹有搭档
+I still think galvez has a partner.
+
+587
+00:29:04,078 --> 00:29:06,078
+你自己小心
+You watch your back.
+
+588
+00:30:01,050 --> 00:30:03,031
+地狱之火
+"hellfire."
+
+589
+00:30:03,037 --> 00:30:05,098
+你在巴基斯坦的27师服役过
+You served with the 27th in Pakistan.
+
+590
+00:30:06,004 --> 00:30:07,081
+两次
+Two tours,sir.
+
+591
+00:30:07,088 --> 00:30:11,011
+你有没有遇到斯塔克伍德的部队
+Did you,by any chance, encounter any starkwood units?
+
+592
+00:30:11,042 --> 00:30:13,028
+有一个是由指挥官
+There was a force protection team
+
+593
+00:30:13,035 --> 00:30:15,029
+调派给我们的保护分队
+Attached by my c.o.
+
+594
+00:30:15,035 --> 00:30:16,042
+他们和你一起战斗
+They fought with you.
+
+595
+00:30:17,069 --> 00:30:18,029
+是的
+Yes,sir.
+
+596
+00:30:18,036 --> 00:30:20,016
+肩并肩的
+Side by side.
+
+597
+00:30:21,000 --> 00:30:22,026
+士兵
+Soldier
+
+598
+00:30:24,019 --> 00:30:26,046
+你怎么评价他们
+How would you rate their professionalism?
+
+599
+00:30:26,053 --> 00:30:27,083
+在战火中的表现
+Their performance under fire.
+
+600
+00:30:28,088 --> 00:30:30,010
+他们个个都是好手
+They are good men, sir
+
+601
+00:30:30,060 --> 00:30:32,010
+受过良好的训练
+Well trained.
+
+602
+00:30:33,070 --> 00:30:36,031
+多谢你
+Thank you,son.
+
+603
+00:30:36,037 --> 00:30:37,084
+这是我今天最快乐的时刻
+Just made my day.
+
+604
+00:30:56,029 --> 00:30:57,076
+我们出发
+All right,let's go.
+
+605
+00:31:06,080 --> 00:31:08,084
+我们的命令是把囚犯
+Our orders are to deliver the prisoner
+
+606
+00:31:08,091 --> 00:31:11,047
+从后门送入调查局
+To the rear entrance at FBI.
+
+607
+00:31:11,094 --> 00:31:13,058
+白宫不希望声张此事
+The white house wants to keep this low-key.
+
+608
+00:31:50,038 --> 00:31:51,082
+中士
+Sarge!
+
+609
+00:32:04,019 --> 00:32:05,083
+我是肯登中士
+This is sergeant Cadden.
+
+610
+00:32:05,090 --> 00:32:08,093
+犯人心脏病突发  呼吸困难
+Prisoner's in severe cardiac and respiratory distress.
+
+611
+00:32:09,000 --> 00:32:10,057
+我们改变路线去
+We are rerouting
+
+612
+00:32:10,063 --> 00:32:13,007
+西阿灵顿医院
+To west arlington hospital.
+
+613
+00:32:13,014 --> 00:32:15,094
+准备好紧急医疗队
+Need emergency medical team standing by!
+
+614
+00:32:16,061 --> 00:32:17,064
+快  出发
+Go,go!
+
+615
+00:32:30,049 --> 00:32:31,085
+-集合队伍  -明白
+- Assemble the teams. - You got it.
+
+616
+00:32:31,092 --> 00:32:33,082
+斯托勒探员  我是沃克探员  你收到吗
+Agent stoller,this is agent Walker,do you copy?
+
+617
+00:32:33,089 --> 00:32:34,092
+收到  沃克探员
+I copy you,agent walker.
+
+618
+00:32:34,099 --> 00:32:36,023
+你现在哪里
+What is your position?
+
+619
+00:32:36,029 --> 00:32:39,063
+在东边一层到二层的楼梯间
+East stairwell between the first and second floor.
+
+620
+00:32:39,070 --> 00:32:40,086
+嫌犯带着毒气罐
+Suspect with canister
+
+621
+00:32:40,093 --> 00:32:42,037
+已经上了顶层
+Has moved to the top floor.
+
+622
+00:32:42,043 --> 00:32:44,027
+有没有他有同伙的迹象
+Do you have any indication that he's not alone?
+
+623
+00:32:44,034 --> 00:32:45,080
+没有  至少现在没有
+Negative. not at this time.
+
+624
+00:32:45,087 --> 00:32:47,060
+好的  请待命  我们马上与你回合
+All right,stand by. we're coming to you.
+
+625
+00:32:47,067 --> 00:32:49,002
+斯托勒探员说
+Agent stoller puts the suspect
+
+626
+00:32:49,002 --> 00:32:50,037
+嫌犯在二楼某处
+somewhere on the second floor
+
+627
+00:32:50,044 --> 00:32:51,081
+但是  有可能他
+However,there's no guarantee
+
+628
+00:32:51,088 --> 00:32:53,071
+还有同伙
+That he's the only hostile in the building.
+
+629
+00:32:53,078 --> 00:32:56,011
+因此  各位要严格按照程序一个个房间搜
+Therefore,we stick to sop, clearing room by room.
+
+630
+00:32:56,018 --> 00:32:57,095
+帕克和我分别东边和西边各带一支分队
+Agent park and I will lead two teams,east and west.
+
+631
+00:32:58,002 --> 00:32:59,028
+检查你们的武器和耳机
+Check your weapons and headsets.
+
+632
+00:32:59,035 --> 00:33:00,082
+我们60秒后进入
+We move in 60 seconds.
+
+633
+00:33:00,088 --> 00:33:02,079
+好  你们都听到了  跟我来
+All right,you heard her, you guys are with me...
+
+634
+00:33:02,085 --> 00:33:03,085
+指挥中心  这是沃克
+Mobile command,this is walker.
+
+635
+00:33:03,092 --> 00:33:05,026
+请讲  沃克探员
+Go ahead,agent walker.
+
+636
+00:33:05,032 --> 00:33:06,069
+我们正要进入那栋建筑
+We're about to enter the building.
+
+637
+00:33:06,076 --> 00:33:07,086
+让危险品处理小组准备好
+Have hazmat teams on alert,in
+
+638
+00:33:07,086 --> 00:33:09,009
+以防毒气罐泄漏
+case the canisteis have breached
+
+639
+00:33:09,016 --> 00:33:10,043
+收到
+Copy that.
+
+640
+00:33:10,050 --> 00:33:11,056
+现在觉得如何
+How you holding up?
+
+641
+00:33:11,063 --> 00:33:12,083
+好点  谢谢
+Better,thanks.
+
+642
+00:33:20,014 --> 00:33:22,081
+对不起
+Excuse me.
+
+643
+00:33:22,087 --> 00:33:24,001
+鲍尔  请讲
+This is bauer.
+
+644
+00:33:24,007 --> 00:33:26,001
+鲍尔  这是米泽尔探员
+Mr. bauer, this is agent mizelli.
+
+645
+00:33:26,008 --> 00:33:27,038
+很抱歉打扰你
+Sorry to bother you with this,
+
+646
+00:33:27,045 --> 00:33:29,031
+但我想确定一下简报中的一个情报
+But I need to follow up on something from our debrief.
+
+647
+00:33:29,038 --> 00:33:30,078
+探员  现在不是时候
+Agent,this isn't a good time.
+
+648
+00:33:30,085 --> 00:33:33,008
+一些新的情报出现了
+Some new information has come to light,and I need
+
+649
+00:33:33,015 --> 00:33:35,032
+-我要搞清楚一些矛盾的地方  -关于什么的
+- To clear up a discrepancy.  - What discrepancy?
+
+650
+00:33:35,039 --> 00:33:38,069
+你告诉我说托尼·阿尔梅达关于白宫受袭击的情报
+You told me tony almeida's source on the white house attack
+
+651
+00:33:38,076 --> 00:33:41,029
+是来自于文森特·卡蒂夫
+Was a man identified to you as vincent cardiff?
+
+652
+00:33:41,036 --> 00:33:42,053
+是的
+Yeah,that's right.
+
+653
+00:33:42,059 --> 00:33:45,046
+有没有可能你记错名字了
+Is there a possibility you misremembered the name?
+
+654
+00:33:45,053 --> 00:33:46,050
+不  我不觉得
+No,I don't think so.
+
+655
+00:33:46,056 --> 00:33:47,050
+你确定吗
+Are you sure?
+
+656
+00:33:47,057 --> 00:33:48,063
+你似乎听起来
+You yourself have voiced some
+
+657
+00:33:48,070 --> 00:33:49,077
+不是很确定
+Concern about your own acuity.
+
+658
+00:33:50,003 --> 00:33:51,070
+等下
+Hold on.
+
+659
+00:33:51,077 --> 00:33:52,070
+这是什么
+What is this here?
+
+660
+00:33:52,077 --> 00:33:53,087
+什么事先生
+Sir?
+
+661
+00:33:53,094 --> 00:33:55,007
+米泽尔探员   我等会给你回话
+Agent mizelli,I'm gonna have to get
+
+662
+00:33:55,014 --> 00:33:56,057
+这是所有人
+Back to you. locator codes
+
+663
+00:33:56,064 --> 00:33:58,027
+的通讯发射器
+For all units' radio transponders.
+
+664
+00:33:58,034 --> 00:33:59,081
+-是实时更新的吗  -是的
+- Are they in real time?  - Yes,sir.
+
+665
+00:33:59,088 --> 00:34:00,081
+你能做下地图定位吗
+Can you do a map overlay?
+
+666
+00:34:00,088 --> 00:34:01,091
+-需要一分钟  -去做
+- It'll take a minute.  - get it done.
+
+667
+00:34:01,098 --> 00:34:03,098
+出什么事了  杰克
+What's going on,jack?
+
+668
+00:34:04,005 --> 00:34:06,068
+我还不确定
+I'm not sure yet.
+
+669
+00:34:28,077 --> 00:34:30,024
+好了吗  现在
+Ready? now.
+
+670
+00:34:49,059 --> 00:34:51,039
+在这  这是斯托克的发射器
+Right there,there's Stoller's transponder.
+
+671
+00:34:51,046 --> 00:34:53,010
+他都不在那栋楼里
+He's not even in the building.
+
+672
+00:34:53,016 --> 00:34:54,013
+沃克探员  这是杰克
+Agent walker,this is jack.
+
+673
+00:34:54,020 --> 00:34:55,053
+让你的人撤出那栋楼
+Get your men out of the building.
+
+674
+00:34:55,060 --> 00:34:57,003
+-那是个陷井  -什么  杰克
+- It's a trap.  - Jack,what?
+
+675
+00:34:57,010 --> 00:34:59,094
+斯托勒根本不在那  马上带你的人出去
+Stoller's not even in there. get your men out now.
+
+676
+00:35:00,000 --> 00:35:01,007
+蓝色警报
+Code blue.
+
+677
+00:35:01,014 --> 00:35:02,074
+蓝色警报
+Code blue.
+
+678
+00:35:16,089 --> 00:35:19,062
+沃克探员  帕克探员
+Agent walker,agent park!
+
+679
+00:35:19,069 --> 00:35:20,082
+调辆车来给我
+Get us a vehicle now!
+
+680
+00:35:20,089 --> 00:35:22,039
+各单位注意  我是帕克
+All perimeter teams, this is Park.
+
+681
+00:35:22,046 --> 00:35:24,090
+多名探员受伤  我们在12号街和林孔街交口出
+Agents are down. report to 12th and rincon.
+
+682
+00:35:24,093 --> 00:35:25,055
+我们需要帮助
+We need assistance.
+
+683
+00:35:25,056 --> 00:35:27,003
+注意  注意  忽略刚才的命令
+Negative,negative, disregard that order.
+
+684
+00:35:27,010 --> 00:35:28,007
+个单位原地待命
+Maintain your positions.
+
+685
+00:35:28,013 --> 00:35:29,067
+重复  原地待命
+I repeat,maintain your positions.
+
+686
+00:35:29,073 --> 00:35:31,010
+鲍尔  怎么回事
+Bauer,what the hell are you doing?
+
+687
+00:35:31,017 --> 00:35:32,084
+他们目的是让我们的警戒线松动
+They are trying to pull you off the line.
+
+688
+00:35:32,090 --> 00:35:34,017
+一但有警戒漏洞
+You leave a hole in that perimeter,
+
+689
+00:35:34,024 --> 00:35:35,057
+毒气罐就会被偷运出去
+We are going to lose the canister.
+
+690
+00:35:35,064 --> 00:35:36,087
+告诉你的人原地待命
+Tell your men to stand fast.
+
+691
+00:35:36,094 --> 00:35:38,008
+医救队即将到达
+Medivac is on its way.
+
+692
+00:35:38,014 --> 00:35:39,064
+让他们赶快过去
+Get them in the air now!
+
+693
+00:36:14,020 --> 00:36:16,050
+杰克  我先进去了
+Jack,I'm going in.
+
+694
+00:36:16,070 --> 00:36:17,066
+帕克探员
+Agent Park.
+
+695
+00:36:17,073 --> 00:36:19,016
+帕克探员
+Agent Park.
+
+696
+00:36:19,023 --> 00:36:20,090
+-多少人失踪  -正在清点
+- How many men are unaccounted for? - Still assessing.
+
+697
+00:36:20,097 --> 00:36:22,064
+爆炸的时候
+There were at least 30 of us in the building
+
+698
+00:36:22,070 --> 00:36:24,044
+-我们至少有30人在大楼中  -沃克探员呢
+- When it went up. - And agent Walker?
+
+699
+00:36:24,050 --> 00:36:26,057
+我不知道
+I don't know.
+
+700
+00:36:26,064 --> 00:36:28,057
+蕾妮  这是杰克
+Renee,this is Jack.
+
+701
+00:36:28,064 --> 00:36:30,008
+收到请回答
+Do you copy?
+
+702
+00:36:30,014 --> 00:36:31,008
+蕾妮  这是杰克
+Renee,this is Jack.
+
+703
+00:36:31,014 --> 00:36:33,081
+收到请回答
+Do you copy?
+
+704
+00:36:33,088 --> 00:36:36,035
+该死
+Damn it.
+
+705
+00:36:42,042 --> 00:36:44,042
+阿尔梅达
+Almeida.
+
+706
+00:36:47,026 --> 00:36:48,019
+毒气罐还在吧
+You got the canister?
+
+707
+00:36:48,026 --> 00:36:49,019
+是的
+Yeah.
+
+708
+00:36:49,026 --> 00:36:50,026
+我看看
+Let me see.
+
+709
+00:36:55,023 --> 00:36:57,060
+快点  我们要快点离开
+Hurry up,we need to get moving.
+
+710
+00:37:05,075 --> 00:37:08,028
+走
+Let's go.
+
+711
+00:37:08,035 --> 00:37:10,035
+蕾妮
+Renee!
+
+712
+00:37:18,009 --> 00:37:20,079
+蕾妮
+Renee...
+
+713
+00:37:20,086 --> 00:37:22,053
+-蕾妮  -杰克
+- Renee! - Jack.
+
+714
+00:37:24,020 --> 00:37:25,036
+你还好吗
+Are you okay?
+
+715
+00:37:25,043 --> 00:37:27,040
+-我没事  -他没呼吸了
+- Yeah,- But he's not breathing.
+
+716
+00:37:27,047 --> 00:37:28,057
+医生
+We need a medic!
+
+717
+00:37:34,047 --> 00:37:35,087
+让他们来照料他  你快跟我出去
+They've got him. I want to get you out of here.
+
+718
+00:37:35,094 --> 00:37:38,034
+快点  我们走
+Come on,let's go now.
+
+719
+00:37:45,000 --> 00:37:46,000
+你怎么知道这是个陷阱的
+How'd you know it was a trap?
+
+720
+00:37:46,000 --> 00:37:48,000
+斯托勒的发射器在建筑物外面
+Stoller's transponder was outside of the building.
+
+721
+00:37:48,000 --> 00:37:50,003
+他们想削弱我们封锁线  找突破口
+They were trying to thin our ranks,create a diversion.
+
+722
+00:37:50,010 --> 00:37:51,080
+封锁出现漏洞了没
+Has the cordon been breached?
+
+723
+00:37:51,085 --> 00:37:53,052
+没  我告诉他们原地待命
+No,I told the men to maintain their positions.
+
+724
+00:37:53,059 --> 00:37:54,062
+封锁线安全
+The perimeter's secure.
+
+725
+00:37:54,069 --> 00:37:55,085
+杰克  他们好像知道我们的计划
+It's almost like they knew,Jack.
+
+726
+00:37:55,092 --> 00:37:56,086
+他们在楼内布置炸药
+They would have needed time
+
+727
+00:37:56,092 --> 00:37:58,009
+总要花时间的
+To wire this building with explosives.
+
+728
+00:37:58,016 --> 00:38:00,006
+这是我们计划搜索的最后一个据点
+This was the last sector we were due to search.
+
+729
+00:38:00,013 --> 00:38:03,029
+-你认为他们知道我们的搜索顺序吗  -肯定的
+- You think they knew your sweep patterns? - They must have.
+
+730
+00:38:04,033 --> 00:38:05,026
+上帝啊
+Oh,my god.
+
+731
+00:38:05,033 --> 00:38:06,040
+杰克  怎么了
+Jack,what is it?
+
+732
+00:38:06,047 --> 00:38:09,090
+回头在你车那边见
+I'll meet you back at your vehicle.
+
+733
+00:38:11,027 --> 00:38:13,017
+要我帮你忙吗
+Hey,you want me to take him?
+
+734
+00:38:13,024 --> 00:38:14,024
+不用  我可以的
+No,I got him.
+
+735
+00:38:14,031 --> 00:38:16,061
+里面需要你的帮助
+They need your help inside.
+
+736
+00:38:21,065 --> 00:38:23,025
+米泽尔探员
+Agent Mizelli.
+
+737
+00:38:23,032 --> 00:38:25,058
+我是鲍尔  你刚才说到
+This is Bauer. you said you wanted to talk to me
+
+738
+00:38:25,065 --> 00:38:27,065
+托尼供的嫌犯文森特·卡蒂夫
+About tony's suspect vincent cardiff.
+
+739
+00:38:27,072 --> 00:38:29,039
+对  你终于回话给我了
+Yes,yes,thanks for getting back to me.
+
+740
+00:38:29,046 --> 00:38:31,022
+听着  你告诉我说他
+Listen,uh,you told me that he expired
+
+741
+00:38:31,029 --> 00:38:33,023
+在托尼·阿尔梅达的审讯中死了
+During the course of tony Almeida's interrogation.
+
+742
+00:38:33,029 --> 00:38:35,009
+对  托尼就是这么跟我说的
+Yeah,that's what tony told me.
+
+743
+00:38:35,016 --> 00:38:36,029
+不可能是他
+Well,it can't be him.
+
+744
+00:38:36,036 --> 00:38:37,040
+你在说什么
+What are you talking about?
+
+745
+00:38:37,046 --> 00:38:38,043
+一小时前文森特·卡蒂夫
+Vincent cardiff was picked up
+
+746
+00:38:38,050 --> 00:38:39,077
+试图偷渡去加拿大
+Over an hour ago by customs,
+
+747
+00:38:39,083 --> 00:38:41,020
+的时候被海关逮捕
+Trying to cross the border into Canada.
+
+748
+00:38:41,027 --> 00:38:42,077
+确定吗
+Are you sure?
+
+749
+00:38:42,084 --> 00:38:44,064
+很肯定  我现在拿着他的逮捕报告
+Look,I'm positive,I've got his arrest report right here.
+
+750
+00:38:44,070 --> 00:38:46,030
+卡蒂夫还活着
+Cardiff's alive.
+
+751
+00:38:46,037 --> 00:38:47,031
+他身上有没有
+Were there any signs
+
+752
+00:38:47,037 --> 00:38:48,054
+被审讯的迹象
+From his interrogation
+
+753
+00:38:48,061 --> 00:38:50,021
+暴力威胁  虐待  有吗
+Physical violence, abuse,anything at all?
+
+754
+00:38:50,028 --> 00:38:51,048
+报告上面没写
+Nothing's indicated on the report.
+
+755
+00:38:51,054 --> 00:38:53,011
+所以我问你是否
+That's why I was asking if maybe
+
+756
+00:38:53,018 --> 00:38:54,091
+有可能把托尼告诉你的名字说错了
+You had mistaken the name almeida gave you.
+
+757
+00:39:05,029 --> 00:39:06,002
+接着
+Here you go.
+
+758
+00:39:06,004 --> 00:39:07,059
+谢谢
+Thanks.
+
+759
+00:39:08,066 --> 00:39:11,029
+托尼
+Tony!
+
+760
+00:39:14,083 --> 00:39:15,087
+托尼
+Tony!
+
+761
+00:39:16,070 --> 00:39:19,017
+什么
+Yeah.
+
+762
+00:39:22,037 --> 00:39:23,011
+我需要和你谈谈
+We need to talk.
+
+763
+00:39:26,051 --> 00:39:28,088
+怎么回事
+What's going on?
+
+764
+00:39:31,008 --> 00:39:33,039
+我今天早些时候告诉过你
+I told you earlier today,
+
+765
+00:39:33,045 --> 00:39:35,045
+如果你对我撒谎  我会亲自把你杀了
+If you were lying to me I'd kill you myself.
+
+766
+00:39:36,022 --> 00:39:37,049
+你在说什么
+What the hell are you talking about?
+
+767
+00:39:37,056 --> 00:39:39,012
+卡蒂夫  文森特·卡蒂夫
+Cardiff,vincent cardiff--
+
+768
+00:39:39,019 --> 00:39:40,076
+你说他在审讯期间死了
+You said he was killed during his interrogation.
+
+769
+00:39:40,083 --> 00:39:41,079
+是啊  怎么了
+Yeah,so?
+
+770
+00:39:41,086 --> 00:39:44,020
+他好端端的活着  被逮捕了
+He's alive and well,in custody,
+
+771
+00:39:44,026 --> 00:39:46,026
+根本没有曾被虐待的迹象
+And he's showing no signs of physical abuse.
+
+772
+00:39:46,033 --> 00:39:47,040
+解释下
+Explain that.
+
+773
+00:39:47,047 --> 00:39:51,054
+好吧  听着  杰克  抱歉
+All right,look, Jack,I'm sorry.
+
+774
+00:39:51,060 --> 00:39:53,034
+卡蒂夫知道一但他泄露了情报
+Cardiff knew that by spilling that intel,
+
+775
+00:39:53,041 --> 00:39:54,097
+肯定会活不成
+He was going to get himself killed,
+
+776
+00:39:56,048 --> 00:39:58,000
+我说我可以让调查局认为
+I told him i'd let the FBI think
+
+777
+00:39:58,071 --> 00:40:01,028
+他已经死了  让他可以逃匿
+He was dead,so he could walk away and disappear.
+
+778
+00:40:01,035 --> 00:40:02,092
+我认为那是无关紧要的谎话
+I thought it was just a meaningless lie.
+
+779
+00:40:02,098 --> 00:40:05,018
+你和我干这行那么多年早应该知道
+You and I have been doing this long enough to know
+
+780
+00:40:05,025 --> 00:40:07,042
+根本就没有谎话是无关紧要的
+That there is no such thing as a meaningless lie.
+
+781
+00:40:07,049 --> 00:40:08,059
+你在其中扮演什么角色
+How are you involved in this?
+
+782
+00:40:08,066 --> 00:40:09,082
+杰克  你这样说没有道理
+You're not making any sense,Jack.
+
+783
+00:40:09,089 --> 00:40:11,022
+那情报是对的
+That intel was good.
+
+784
+00:40:11,029 --> 00:40:12,076
+没那情报你进不了白宫
+Without it you'd have never been in the white house
+
+785
+00:40:12,083 --> 00:40:13,076
+救不了总统
+To save the president.
+
+786
+00:40:13,083 --> 00:40:15,009
+你到底扮演什么角色
+What is your involvement?!
+
+787
+00:40:16,020 --> 00:40:18,020
+你头脑不清醒了
+You're not thinking straight.
+
+788
+00:40:18,026 --> 00:40:20,027
+你是怎么中枪的
+How were you shot?
+
+789
+00:40:20,033 --> 00:40:22,087
+是卡维斯真的还有同伙
+Does galvez even have a second man...
+
+790
+00:40:22,094 --> 00:40:24,024
+还是那个同伙就是你
+Or was it just you?
+
+791
+00:40:24,030 --> 00:40:25,087
+住嘴  听下你刚才说的
+Just stop and listen to what you're saying.
+
+792
+00:40:25,094 --> 00:40:27,084
+这是扯淡  精神错乱
+It's insane. It's paranoia.
+
+793
+00:40:27,091 --> 00:40:29,068
+快把枪放下吧
+Now,why don't you put the gun down?
+
+794
+00:40:29,074 --> 00:40:32,024
+别动
+Don't you move!
+
+795
+00:40:32,031 --> 00:40:34,068
+毒素在影响你的判断能力
+The toxin is starting to affect your judgment.
+
+796
+00:40:34,075 --> 00:40:37,028
+你知道的  不是吗
+That's what's happening. you can see that,right?
+
+797
+00:40:55,020 --> 00:40:57,064
+这就是你要找的东西对吧
+Is this what you're looking for?
+
+798
+00:41:00,034 --> 00:41:02,054
+我不想伤害你  杰克
+I never wanted to hurt you,Jack.
+
+799
+00:41:04,001 --> 00:41:05,078
+我告诉过你别管这事
+I told you to stay out of it.
+
+800
+00:41:05,085 --> 00:41:07,061
+但你就是不听  是吧
+But you wouldn't listen, would you?
+
+801
+00:41:08,068 --> 00:41:12,025
+我需要帮助  他开始抽搐了
+Can we get some help here? this man's having a seizure.
+
+802
+00:41:12,032 --> 00:41:15,000
+请后退
+Stand back,please.
+
+803
+00:41:15,005 --> 00:41:17,029
+去拿下我的包  给梅塞尔医生打电话
+Go get my bag and call Dr. Mason.
+
+804
+00:41:56,033 --> 00:41:58,046
+我没看到伤口
+I don't see anything.
+
+805
+00:41:58,053 --> 00:41:59,050
+伤口肯定在背部
+The wound must be posterior.
+
+806
+00:41:59,057 --> 00:42:02,047
+长官  我需要你翻个身
+Sir,I need to turn you on your side.
+
+807
+00:42:12,014 --> 00:42:15,035
+放下对讲机  开你的车
+Put it down and keep driving. now!
+
