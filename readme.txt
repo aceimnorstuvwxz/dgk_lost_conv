@@ -4,6 +4,7 @@ chinese conversation corpus
 
 结果：
 dgk_lost.conv 1.7MB 70000lines
+dgk_shooter_x.conv 190MB 分词后
 
 方法：
 asstosrt -s utf-8
@@ -11,7 +12,16 @@ asstosrt -s utf-8
 ass ----asstosrt---->srt
 srt ----cvgen.py---->.conv
 
-dkg_lost.conv 格式:
+特别的shooter73g:
+进入shooterwp，
+解压缩mirror.x到rawbase下面
+执行sel.sh
+在跟目录下
+fixcodec
+fixtranc
+genall
+
+.conv 格式:
 //M 表示话语，E 表示分割。
 E
 M 话语 a
@@ -24,4 +34,5 @@ M 话语 b
 M 话语 c
 M 话语 d
 
-No commercial use, all rights reserved.
+License:
+MIT

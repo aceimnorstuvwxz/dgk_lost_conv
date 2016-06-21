@@ -23,6 +23,8 @@ E
 import sys
 import re
 import chardet
+import jieba
+
 
 
 reload(sys)
@@ -45,15 +47,15 @@ def cvgen(fn, fno):
         all = fp.read()
         dec = chardet.detect(all)['encoding']
         print dec
-        
+
         cc = []
         with open(fn, 'r') as fp2:
             cc = fp2.readlines()
 
         cc = [c.decode(dec) for c in cc]
-        
+
         print 'lines', len(cc)
-        
+
         # unicode begin
         tmp = []
         items = []
@@ -62,10 +64,10 @@ def cvgen(fn, fno):
                 if len(tmp) >= 3:
                     items.append(tmp)
                 tmp = []
-            
+
             else:
                 tmp.append(l)
-        
+
         print 'cps', len(items)
         cps = []
         for item in items:
@@ -73,15 +75,15 @@ def cvgen(fn, fno):
             cp['t'] = item[1]
             cp['c'] = item[2]
             cps.append(cp)
-         
+
         for cp in cps:
             pass
             #print cp['t']
-            
-        
+
+
         #去掉带有这些关键字的条目
-        dirty_keys = [u'字幕', u'翻译', u'后期', u'监制', u'<', u'>', u'=', u'【', u'[', u'*', u'■']
-        
+        dirty_keys = [u'字幕', u'时间轴', u'压缩', u'翻译', u'后期', u'监制', u'上集', u'<', u'>', u'=', u'【', u'[', u'*', u'■']
+
         ncps = []
         for cp in cps:
             good = True
@@ -91,37 +93,37 @@ def cvgen(fn, fno):
                     break
             if good:
                 ncps.append(cp)
-        
+
         print "ncps", len(ncps)
-        
-        
+
+
         currt = -1000000
-        
-        
+
+
         ret = []
         cnt = 0
-        
+
         for cp in ncps:
             ts = cp['t'].split(u'-->')
             startt = srttime(ts[0])
             endt = srttime(ts[1])
-            
-            
+
+
             SPLIT_INTERVAL = 1000
             if cnt < 2:
                 SPLIT_INTERVAL = 5000
             elif cnt < 3:
                 SPLIT_INTERVAL = 2000
-            
+
             if startt - currt > SPLIT_INTERVAL:
                 #new conv
                 ret.append(u'E\n')
                 cnt = 0
-            
+
             ret.append(u'M ' + cp['c'])
             cnt = cnt + 1
             currt = endt
-                
+
         #拆分 --aaaaaaaa  --bbbbbb 这种同行但是多句的
         nret = []
         for r in ret:
@@ -131,16 +133,28 @@ def cvgen(fn, fno):
                     a = c.strip()
                     if len(a) >= 2:
                         nret.append("M "+a+"\n")
-            
+
             else:
                 nret.append(r)
-            
-            
-        
+
+
+        #分词
+        nnret = []
+        for r in nret:
+            if len(r) >= 3:
+                d = r[2:]
+
+                ww = jieba.cut(d, cut_all=False)
+                ww = [w.strip() for w in ww]
+                nl = ' '.join(ww[:-1])
+                nnret.append("M "+nl+"\n")
+            else:
+                nnret.append(r)
+
         with open(fno, 'w') as fpo:
-            for r in nret:
+            for r in nnret:
                 fpo.write(r.encode('utf-8'))
-                
+
 
 
 if __name__ == "__main__":
@@ -149,9 +163,6 @@ if __name__ == "__main__":
     if len(sys.argv) != 3:
         print usage
         exit()
-    
-    
+
+
     cvgen(sys.argv[1], sys.argv[2])
-    
-    print srttime(' 01:03:30,049 ')
-    print 'DONE'
