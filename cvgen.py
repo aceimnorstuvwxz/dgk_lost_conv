@@ -146,7 +146,7 @@ def cvgen(fn, fno):
 
                 ww = jieba.cut(d, cut_all=False)
                 ww = [w.strip() for w in ww]
-                nl = ' '.join(ww[:-1])
+                nl = '/'.join(ww[:-1])
                 nnret.append("M "+nl+"\n")
             else:
                 nnret.append(r)
