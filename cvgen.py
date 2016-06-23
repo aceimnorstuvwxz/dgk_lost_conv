@@ -140,12 +140,14 @@ def cvgen(fn, fno):
 
         #分词
         nnret = []
+        
         for r in nret:
             if len(r) >= 3:
                 d = r[2:]
 
-                ww = jieba.cut(d, cut_all=False)
-                ww = [w.strip() for w in ww]
+                #ww = jieba.cut(d, cut_all=False)
+                ww = [w for w in d]
+                #ww = [w.strip() for w in ww]
                 nl = '/'.join(ww[:-1])
                 nnret.append("M "+nl+"\n")
             else:

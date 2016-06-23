@@ -4,6 +4,7 @@ chinese conversation corpus
 
 结果：
 dgk_shooter_z.conv 110MB 已分词
+dgk_shooter_min.conv 按字分词
 lost.conv 1.7MB
 fanzxl.conv 2.3MB
 fk24.conv 4.5MB
