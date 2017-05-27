@@ -20,7 +20,8 @@ def toraw(fn, fno):
         fpo = open(fno, 'w')
 
         for l in lines:
-            fpo.write(l[1:])
+            if len(l) > 3:
+                fpo.write(l[1:])
 
         fpo.close()
 
