@@ -2,6 +2,12 @@
 chinese conversation corpus
 可以用作聊天机器人的训练语料
 
+您好，很多想要学习制作聊天机器人的朋友都会找到这里，我觉得有必要给大家建立一个简单的交流场所，于是我建立一个QQ群。欢迎加入讨论：
+
+![](qun.png)
+
+
+
 结果：
 dgk_shooter_z.conv 110MB 已分词
 dgk_shooter_min.conv 按字分词
