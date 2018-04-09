@@ -9,9 +9,10 @@ chinese conversation corpus
 
 
 
-您好，很多想要学习制作聊天机器人的朋友都会找到这里，我觉得有必要给大家建立一个简单的交流场所，于是我建立一个QQ群。欢迎加入讨论：
+聊天机器人训练语料交流群:
 
 ![](qun.png)
+[网易云课堂视频课程1-聊天机器人](https://study.163.com/course/introduction/1005049028.htm?utm_source=400000000173015&utm_medium=share&utm_campaign=commission&hideAppEntrance=1)   [网易云课堂视频课程2-知识图谱](https://study.163.com/course/introduction/1004964005.htm?utm_source=400000000173015&utm_medium=share&utm_campaign=commission&hideAppEntrance=1)
 
 ```
 
