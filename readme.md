@@ -9,15 +9,7 @@ chinese conversation corpus
 
 
 
-聊天机器人训练语料交流群:
-
-![](qun.png)
-
-[网易云课堂视频课程1-聊天机器人](https://study.163.com/course/introduction/1005049028.htm?utm_source=400000000173015&utm_medium=share&utm_campaign=commission&hideAppEntrance=1)   [网易云课堂视频课程2-知识图谱](https://study.163.com/course/introduction/1004964005.htm?utm_source=400000000173015&utm_medium=share&utm_campaign=commission&hideAppEntrance=1)
-
 ```
-
-
 结果：
 
 dgk_shooter_z.conv 110MB 已分词
@@ -91,4 +83,25 @@ License:
 MIT
 
 ```
+
+
+
+
+聊天机器人训练语料交流群:
+
+
+1号群（满）
+
+![](data/qqun.png)
+
+2号群：
+
+![](data/qq2.jpeg)
+
+微信拉群：
+
+![](data/fate2.jpeg)
+
+[网易云课堂视频课程1-聊天机器人](https://study.163.com/course/introduction/1005049028.htm?utm_source=400000000173015&utm_medium=share&utm_campaign=commission&hideAppEntrance=1)   [网易云课堂视频课程2-知识图谱](https://study.163.com/course/introduction/1004964005.htm?utm_source=400000000173015&utm_medium=share&utm_campaign=commission&hideAppEntrance=1)
+
 
