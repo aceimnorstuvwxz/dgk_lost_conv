@@ -87,21 +87,18 @@ MIT
 
 
 
-聊天机器人训练语料交流群:
-
-
-1号群（满）
+QQ-1
 
 ![](data/qqun.png)
 
-2号群：
+QQ-2
 
 ![](data/qq2.jpeg)
 
-微信拉群：
+wx：
 
-![](data/fate2.jpeg)
+![](http://fate2.oss-cn-shanghai.aliyuncs.com/weixin2.jpeg)
 
-[网易云课堂视频课程1-聊天机器人](https://study.163.com/course/introduction/1005049028.htm?utm_source=400000000173015&utm_medium=share&utm_campaign=commission&hideAppEntrance=1)   [网易云课堂视频课程2-知识图谱](https://study.163.com/course/introduction/1004964005.htm?utm_source=400000000173015&utm_medium=share&utm_campaign=commission&hideAppEntrance=1)
+
 
 
