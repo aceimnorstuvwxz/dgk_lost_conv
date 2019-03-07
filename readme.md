@@ -95,9 +95,7 @@ QQ-2
 
 ![](data/qq2.jpeg)
 
-wx：
 
-![](http://fate2.oss-cn-shanghai.aliyuncs.com/weixin2.jpeg)
 
 
 
