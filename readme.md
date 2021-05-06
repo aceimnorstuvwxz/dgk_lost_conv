@@ -87,15 +87,6 @@ MIT
 
 
 
-QQ-1
-
-![](data/qqun.png)
-
-QQ-2
-
-![](data/qq2.jpeg)
-
-
 
 
 
